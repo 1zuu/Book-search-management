@@ -105,7 +105,7 @@ def get_Data():
     '''
         Get data from database
     '''
-    engine = create_engine(db_url.format(user_name,password))
+    engine = create_engine(db_url)
     create_database(engine)
 
     df = pd.read_sql_table(table_name, engine)
