@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import logging
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 import pickle
@@ -16,6 +17,8 @@ from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import RegexpTokenizer
 from sklearn.preprocessing import LabelEncoder
 
+import tensorflow as tf
+logging.getLogger('tensorflow').disabled = True
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 from variables import*

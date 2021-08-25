@@ -13,11 +13,12 @@ def predictions():
     try:
         book_data = request.get_json()
         response = model.predict_book(book_data)
-        return Response(
-                    response=response, 
-                    status=500, 
-                    mimetype="application/json"
-                    )
+        # return Response(
+        #             response=response, 
+        #             status=500, 
+        #             mimetype="application/json"
+        #             )
+        return response
 
     except Exception as e:
         print(e)
