@@ -1,9 +1,7 @@
 import os
 import json
-from collections import Counter
 
 from sklearn.metrics.pairwise import cosine_similarity
-from numpy.lib.function_base import average
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 import logging
 import pathlib
@@ -11,7 +9,6 @@ import warnings
 import numpy as np
 import scipy.stats as st
 import tensorflow as tf
-import tensorflow_hub as hub
 from matplotlib import pyplot as plt
 logging.getLogger('tensorflow').disabled = True
 from sklearn.model_selection import train_test_split
