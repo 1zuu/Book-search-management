@@ -21,7 +21,8 @@ username = 'root'
 password = 'root'
 # db_url = 'mongodb://{}:{}@{}:{}/{}?authSource=admin'.format(username, password, host, port, database)
 db_url = "mongodb://localhost:27017/"
-heroku_url = 
+heroku_port = 5000
+heroku_host = '0.0.0.0'
 embedding_dim = 150
 num_epochs = 20
 batch_size = 32
