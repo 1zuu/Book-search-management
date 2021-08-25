@@ -12,6 +12,7 @@ model.run()
 def predictions():
     try:
         book_data = request.get_json()
+        print(book_data)
         response = model.predict_book(book_data)
         # return Response(
         #             response=response, 
