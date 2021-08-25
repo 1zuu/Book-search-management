@@ -1,19 +1,9 @@
-import json
-from pymongo import MongoClient
-from bson.objectid import ObjectId
-from flask import Flask, Response, request
 from model import BSM_Model
+from flask import Flask, Response, request
 from variables import*
 
 app = Flask(__name__)
 
-try:
-    client = MongoClient(db_url)
-    db = client[database]
-    client.server_info()
-
-except:
-    print("Error: Unable to connect to database.")
 
 model = BSM_Model()
 model.run()
