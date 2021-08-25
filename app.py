@@ -18,6 +18,7 @@ def predictions():
         #             status=500, 
         #             mimetype="application/json"
         #             )
+        print(response)
         return response
 
     except Exception as e:
