@@ -1,11 +1,12 @@
 import os
 import re
+import json
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 
 import pickle
-import sqlalchemy
 import numpy as np
 import pandas as pd
+from pymongo import MongoClient
 from sklearn.utils import shuffle
 from wordcloud import WordCloud
 from nltk.corpus import stopwords
@@ -98,22 +99,38 @@ def create_wordcloud(processed_descriptions):
         plt.savefig(wordcloud_path)
         plt.show()
 
-def create_database(engine):
-    engine = create_engine(db_url)
-    if table_name not in sqlalchemy.inspect(engine).get_table_names():
+def connect_mongo():
+    client = MongoClient(db_url)
+    db = client[database]
+    return db
+
+def create_database():
+
+    db = connect_mongo()
+    if db_collection not in db.list_collection_names():
+        coll = db[db_collection]
         data = pd.read_csv(data_path)
         data = data.dropna(axis=0)
-        with engine.connect() as conn, conn.begin():
-            data.to_sql(table_name, conn, if_exists='append', index=False)
+        payload = json.loads(data.to_json(orient='records'))
+        coll.remove()
+        coll.insert(payload)
+        print('Database created')
+
+def read_mongo():
+    db = connect_mongo()
+    cursor = db[db_collection].find({})
+    df =  pd.DataFrame(list(cursor))
+    del df['_id']
+
+    return df
 
 def get_Data():
     '''
         Get data from database
     '''
-    engine = create_engine(db_url)
-    create_database(engine)
+    create_database()
 
-    df = pd.read_sql_table(table_name, engine)
+    df = read_mongo()
     df_response = df[['Category', 'Description', 'Book_title' ,'Author' ,'ISBN-10' ,'ISBN-13', 'Cover_link']] 
     df= df[['Description', 'Category']]
     description = df['Description'].values
