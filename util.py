@@ -10,7 +10,6 @@ from pymongo import MongoClient
 from sklearn.utils import shuffle
 from wordcloud import WordCloud
 from nltk.corpus import stopwords
-from sqlalchemy import create_engine
 
 from matplotlib import pyplot as plt
 from nltk.stem import WordNetLemmatizer
