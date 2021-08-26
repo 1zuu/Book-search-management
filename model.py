@@ -185,7 +185,7 @@ class BSM_Model(object):
     def TFliteInference(self, input_data):
         input_shape = self.input_details[0]['shape']
         if len(input_shape) == 1:
-            input_data = np.expand_dims(description, axis=0).astype(np.float32)
+            input_data = np.expand_dims(input_shape, axis=0).astype(np.float32)
         assert np.array_equal(input_shape, input_data.shape), "required shape : {} doesn't match with provided shape : {}".format(input_shape, input_data.shape)
 
         self.interpreter.set_tensor(self.input_details[0]['index'], input_data)
