@@ -289,5 +289,4 @@ description = request['description']
 description = prediction_data(description)
 pred = model.feature_model.predict(description)[0][0]
 pred = np.argmax(pred)
-print(pred)
 print(get_category_from_label(pred))

@@ -9,7 +9,7 @@ tflite_weights = 'weights/feature_model_weights.tflite'
 encoder_path = 'weights/label_encoder.pickle'
 tokenizer_weights = 'weights/tokenizer.pickle'
 wordcloud_path = 'data/wordcloud.png'
-data_path = 'data/new_version.csv'
+data_path = 'data/books.csv'
 
 seed = 42
 # https://book-search-management.herokuapp.com/books
