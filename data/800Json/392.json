@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/TrustFearCivilWarsIntrastate/dp/073919643X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1628533605&sr=15","price":"46.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/334092798420?epid=5038786943&hash=item4dc97b89d4:g:H6YAAOSw91hAULZ","price":"57.81"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780739196434","price":"68.68"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/trustandfearincivilwarsshannakirschner/1120263514?ean=9780739196434","price":"46.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30913495181&searchurl=kn%3D9780739196434%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"38.94"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780739196434&hs.x=28&hs.y=13","price":"49.62"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5385283&isbn_id=9366329","price":"44.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/trustandfearincivilwarsendingintrastateconflicts_shannakirschner/9958712/item/#edition=13660232&idiq=29443687","price":"53.07"}
+  }

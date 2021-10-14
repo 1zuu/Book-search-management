@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/STATISTICSCOLLEGESTUDENTSRESEARCHERSSECOND/dp/B08RQZJ5GG/ref=pd_sbs_16/14218346530643357?pd_rd_w=sifNQ&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=RKN81EGTCNCRXEDX30KX&pd_rd_r=181a951d4d054fc1aac090f641ddbf07&pd_rd_wg=4rBGb&pd_rd_i=B08RQZJ5GG&psc=1","price":"49.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685","price":"57.80"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/statisticsforcollegestudentsandresearchersmichaelmnikoletseasphd/1126824745?ean=9798588983235","price":"49.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30818513597&searchurl=kn%3D9798588983235%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"53.79"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9798588983235&hs.x=9&hs.y=16","price":"39.56"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9798588983235?title=","price":"49.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=235351375&isbn_id=27661159","price":"49.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/statisticsforcollegestudentsandresearcherssecondedition/28586861/item/#edition=59530256"}
+  }

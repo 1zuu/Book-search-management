@@ -1,0 +1,10 @@
+
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Pandemic-Economics-Thomas-R-Sadler/dp/0367679043/ref=sr_1_17?dchild=1&keywords=economics&qid=1629816736&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-17","price":"59.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=%209780367679040","price":"87.44"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/pandemic-economics-thomas-r-sadler/1138726320?ean=9780367679040","price":"59.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30970687250&searchurl=kn%3D9780367679040%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1","price":"56.62"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=+9780367679040&hs.x=51&hs.y=13","price":"63.31"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=245076589&isbn_id=27802348","price":"59.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/pandemic-economics_thomas-r-sadler/28135063/item/#edition=58866169&idiq=46238355","price":"66.50"}
+  }

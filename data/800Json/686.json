@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Understanding-Human-Communication-Ronald-Adler/dp/0190925698/ref=sr_1_7?dchild=1&qid=1629874082&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-7","price":"94.49"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/165046991528?epid=28038268403&hash=item266d913aa8:g:zhcAAOSw0kpf~3YE","price":"103.86"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780190925697"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/understanding-human-communication-ronald-b-adler/1134783417?ean=9780190925697","price":"104.99"},
+      "Taret" : {"link":"https://www.target.com/p/understanding-human-communication-14th-edition-by-ronald-b-adler-paperback/-/A-80829050#lnk=sametab","price":"104.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30919236516&searchurl=kn%3D9780190925697%26sortby%3D17&cm_sp=snippet-_-srp1-_-title3","price":"92.33"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=7946005&isbn_id=11073194","price":"104.99"}
+  }

@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Research-Methods-Statistics-Nonprofit-Administrators/dp/1452203520/ref=sr_1_85?dchild=1&keywords=statistics&qid=1629878403&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-85","price":"125.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/393494450202?epid=160024701&hash=item5b9e18d01a:g:J4YAAOSwNrxhEQQF","price":"149.24"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781452203522"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/research-methods-and-statistics-for-public-and-nonprofit-administrators-masami-nishishiba/1125320278?ean=9781452203522","price":"125.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30776279589&searchurl=kn%3D9781452203522%26sortby%3D17&cm_sp=snippet-_-srp1-_-title5","price":"246.34"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4348121&isbn_id=6710267","price":"125.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/research-methods-and-statistics-for-public-and-nonprofit-administrators-a-practical-guide_matthew-a-jones_mariah-a-kraner/14026344/item/#edition=14870886"}
+  }

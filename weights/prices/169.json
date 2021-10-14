@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/LabValuesEverythingLaboratoryDiagnosing/dp/B08X5WCJKB/ref=sr_1_5?dchild=1&qid=1627706720&refinements=p_n_feature_browsebin%3A2656022011&rnid=265542&s=books&sr=15","price":"14.58"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9798711520320","price":"24.79"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30873134721&searchurl=kn%3D9798711520320%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"19.01"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9798711520320&hs.x=32&hs.y=20","price":"11.87"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9798711520320?title=","price":"14.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=261487917&isbn_id=27954073","price":"14.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/labvaluesaneasyguidetolearneverythingyouneedtoknowaboutlaboratorymedicineanditsrelevanceindiagnosingdisease/28736302/item/#edition=59731921"}
+  }

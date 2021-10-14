@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/NewWorldOrderRalphEpperson/dp/0961413514/ref=sr_1_8?dchild=1&qid=1628264320&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=18","price":"14.50"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780961413514"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30750984463&searchurl=kn%3D9780961413514%26sortby%3D17&cm_sp=snippet_srp1_title3","price":"29.55"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780961413514?title=the_new_world_order"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3504874&isbn_id=36512","price":"16.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/newworldorder_ralphepperson/301485/item/#edition=3540943"}
+  }

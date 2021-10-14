@@ -1,0 +1,12 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Advanced-Statistics-Research-Understanding-Analysis/dp/0985867000/ref=sr_1_6?dchild=1&keywords=statistics&qid=1629872270&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-6","price":"40.49"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233968692205?epid=160091141&hash=item36799eebed:g:YYUAAOSw6oBgeQlX","price":"59.14"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780985867003","price":"73.06"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/advanced-statistics-in-research-larry-hatcher/1117257789?ean=9780985867003","price":"59.95"},
+      "Taret" : {"link":"https://www.target.com/p/advanced-statistics-in-research-by-larry-hatcher-paperback/-/A-79284762#lnk=sametab","price":"40.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30691640714&searchurl=kn%3D9780985867003%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2","price":"46.63"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780985867003&hs.x=28&hs.y=19","price":"41.72"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780985867003?title=advanced_statistics_in_research_reading_understanding_and_writing_up_data_analysis_results","price":"59.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=9356665&isbn_id=12379570","price":"56.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/advanced-statistics-in-research-reading-understanding-and-writing-up-data-analysis-results_larry-hatcher/10051786/item/#edition=9523014&idiq=14143130","price":"49.87"}
+  }

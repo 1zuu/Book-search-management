@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/NetworkGuideNetworksJillWest/dp/1305090942/ref=pd_sbs_5/14218346530643357?pd_rd_w=N4nIR&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=8TVK9HJJR01Z6HAEK5CD&pd_rd_r=eee56c657d3641b88a9e6ab5fa801032&pd_rd_wg=b6Urc&pd_rd_i=1305090942&psc=1","price":"73.95"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/392414476527?epid=210816697&hash=item5b5db9b8ef:g:~L8AAOSwK7xdcju4","price":"115.12"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685","price":"20.28"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/books/1121462403?ean=9781305090941","price":"149.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30973042836&searchurl=kn%3D9781305090941%26sortby%3D17&cm_sp=snippet_srp1_title8","price":"17.69"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=7383769","price":"149.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/networkguidetonetworksnetworkingcoursetechnology_tamaradean/280041/item/#edition=13841328&idiq=28345848","price":"149.95"}
+  }

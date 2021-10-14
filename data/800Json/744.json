@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Beyond-Economics-Ecology-Radical-Thought/dp/0714531588/ref=sr_1_77?dchild=1&keywords=economics&qid=1629819049&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-77","price":"16.02"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/303843497976?epid=183747058&hash=item46be7bd7f8:g:RrsAAOSwzEdf~GVB","price":"17.90"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780714531588"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/beyond-economics-and-ecology-ivan-illich/1116104297?ean=9780714531588","price":"17.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30511209477&searchurl=kn%3D9780714531588%26sortby%3D17&cm_sp=snippet-_-srp1-_-title3","price":"15.47"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3185145&isbn_id=6791751","price":"17.05"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/beyond-economics-and-ecology-the-radical-thought-of-ivan-illich_ivan-illich/9015171/item/#edition=8300146"}
+  }

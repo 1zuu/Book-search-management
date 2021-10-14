@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Intercultural-Communication-Contexts-Judith-Martin/dp/0073523933/ref=sr_1_16?dchild=1&qid=1629874082&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-16","price":"112.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313543567551?epid=234476245&hash=item4900a728bf:g:26QAAOSwGS1gADTI","price":"75.00"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780073523934","price":"58.70"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/intercultural-communication-in-contexts-judith-n-martin/1126364264?ean=9780073523934","price":"158.26"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30776234508&searchurl=kn%3D9780073523934%26sortby%3D17&cm_sp=snippet-_-srp1-_-title27","price":"113.24"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=8935390","price":"192.00"}
+  }

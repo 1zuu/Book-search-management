@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Exploring-Criminal-Justice-Robert-Regoli/dp/1284112977/ref=sr_1_37?dchild=1&qid=1629828966&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=10777&s=books&sr=1-37","price":"72.11"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313573448111?hash=item49026f19af:g:reYAAOSwWvJhMzNO","price":"91.37"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781284112979","price":"116.08"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/exploring-criminal-justice-robert-m-regoli/1132855137?ean=9781284112979","price":"118.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30880792948&searchurl=kn%3D9781284112979%26sortby%3D17&cm_sp=snippet-_-srp1-_-title13","price":"130.82"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4057201&isbn_id=8622742","price":"118.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/exploring-criminal-justice-the-essentials_robert-m-regoli_john-d-hewitt/14018302/item/#edition=14864093"}
+  }

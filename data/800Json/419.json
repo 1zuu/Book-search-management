@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/CertifiedCloudPractitionerPracticeTests/dp/B08F6LDVD3/ref=pd_sbs_5/14218346530643357?pd_rd_w=4KKhM&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=6BA5SSHFJANJY7DKB43H&pd_rd_r=9141bf9bb8fa47c3a9d716cc77984466&pd_rd_wg=uSkbH&pd_rd_i=B08F6LDVD3&psc=1","price":"24.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9798671834796","price":"41.52"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/awscertifiedcloudpractitionerpracticetestsnealdavis/1137440259?ean=9798671834796","price":"24.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30894779088&searchurl=kn%3D9798671834796%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"29.23"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9798671834796&hs.x=29&hs.y=7","price":"19.79"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9798671834796?title=","price":"24.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=191887609&isbn_id=26807962","price":"24.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/awscertifiedcloudpractitionerpracticetests/27019487/item/#edition=57677640"}
+  }

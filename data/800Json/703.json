@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894/ref=sr_1_72?dchild=1&qid=1629709624&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-72","price":"36.49"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114499618128?epid=24046435348&hash=item1aa8b58550:g:woAAAOSw9TRfowEx","price":"52.63"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781492057895","price":"58.69"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/building-event-driven-microservices-adam-bellemare/1137003655?ean=9781492057895","price":"59.99"},
+      "Taret" : {"link":"https://www.target.com/p/building-event-driven-microservices-by-adam-bellemare-paperback/-/A-83017185#lnk=sametab","price":"36.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30810256072&searchurl=kn%3D9781492057895%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2","price":"40.16"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781492057895&hs.x=44&hs.y=15","price":"41.75"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781492057895?title=building_eventdriven_microservices_leveraging_organizational_data_at_scale","price":"59.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=18414263&isbn_id=21448274","price":"56.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/building-event-driven-microservices--leveraging-distributed-large-scale-data/25905272/item/#edition=27847114&idiq=39459001","price":"49.71"}
+  }

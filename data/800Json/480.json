@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/FundamentalsAerospaceEngineeringBeginnersGuide/dp/1508587590/ref=pd_sbs_5/14218346530643357?pd_rd_w=EGZxY&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=44J339GFCF2WAMJJ3ZQG&pd_rd_r=dc6d3211106746a6a5cd6a23f5c165a4&pd_rd_wg=P2HmH&pd_rd_i=1508587590&psc=1","price":"27.46"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/113900402785?epid=5040221774&hash=item1a84fe3861:g:yiwAAOSwUShdiZzL","price":"34.28"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781508587590","price":"36.40"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/fundamentalsofaerospaceengineeringfranciscogallardolopez/1131222332?ean=9781508587590","price":"28.90"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30374914322&searchurl=kn%3D9781508587590%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"27.71"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781508587590&hs.x=37&hs.y=17","price":"22.88"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781508587590?title=fundamentals_of_aerospace_engineering_beginners_guide","price":"28.90"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=18507081&isbn_id=21540479","price":"28.90"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/fundamentalsofaerospaceengineeringbeginnersguide/21312036/item/#edition=22749947&idiq=32413711","price":"27.64"}
+  }

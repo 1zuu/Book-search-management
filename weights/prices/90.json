@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/HowSavedWorldJesseWatters/dp/0063090570/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=","price":"26.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780063090576"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/howisavedtheworldjessewatters/1137979 258?ean=9780063090576","price":"29.99"},
+      "Taret" : {"link":"https://www.target.com/p/howisavedtheworldlargeprintbyjessewatterspaperback//A81619578#lnk=sametab","price":"26.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30949848688&searchurl=kn%3D9780063090576%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"21.14"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=264505290&isbn_id=27110270","price":"28.49"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/myplantosavetheworld_jessewatters/27041177/item/#edition=57875131"}
+  }

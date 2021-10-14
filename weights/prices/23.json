@@ -1,0 +1,12 @@
+{
+      "Amazon" :  {"link":"https://www.amazon.com/DataScienceTransformVisualizeModel/dp/1491910399/ref=sr_1_6?dchild=1&qid=1624348598&s=books&sr=16","price":"21.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/324684527063?epid=213321011&hash=item4b98b4b5d7:g:fCMAAOSwV~Bgz2I9","price":"10.43"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781491910399","price":"67.53"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/rfordatasciencehadleywickham/1125328535?ean=9781491910399","price":"49.99"},
+      "Taret" : {"link":"https://www.target.com/p/rfordatasciencebyhadleywickhamgarrettgrolemundpaperback//A82938060#lnk=sametab","price":"49.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30914947206&searchurl=kn%3D9781491910399%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"19.99"},
+      "alibris" : {"link":"https://www.strandbooks.com/product/9781491910399?title=r_for_data_science_import_tidy_transform_visualize_and_model_data","price":"49.99"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781491910399?title=r_for_data_science_import_tidy_transform_visualize_and_model_data","price":"49.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3828333&isbn_id=7845620","price":"49.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/datasciencewithr_garrettgrolemund/11643312/item/#edition=11199687&idiq=18320865","price":"43.95"}
+  }

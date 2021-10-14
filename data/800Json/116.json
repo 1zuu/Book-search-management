@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/SimplePathWealthfinancialindependence/dp/1533667926/ref=sr_1_7?dchild=1&qid=1627465550&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=17","price":"12.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114903806849?epid=224383662&hash=item1ac0ccf381:g:qesAAOSw37NgxCE","price":"21.28"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=%209781533667922","price":"27.17"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/thesimplepathtowealthjlcollins/1123947856?ean=9781533667922","price":"15.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=22664090583&searchurl=kn%3D9781533667922%26sortby%3D17&cm_sp=snippet_srp1_title3","price":"19.97"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781533667922&hs.x=12&hs.y=13","price":"12.66"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781533667922?title=the_simple_path_to_wealth_your_road_map_to_financial_independence_and_a_rich_free_life","price":"15.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4802454&isbn_id=8883625","price":"15.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thesimplepathtowealthyourroadmaptofinancialindependenceandarichfreelife_jlcollins/10806840/item/#edition=10232960"}
+  }

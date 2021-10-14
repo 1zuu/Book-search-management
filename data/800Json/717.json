@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Advanced-Calculus-Dover-Books-Mathematics/dp/0486480909/ref=sr_1_177?dchild=1&keywords=advanced+level&qid=1629733797&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-177","price":"22.05"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780486480909"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/advanced-calculus-h-k-nickerson/1101368329?ean=9780486480909","price":"24.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30785853267&searchurl=kn%3D9780486480909%26sortby%3D17&cm_sp=snippet-_-srp1-_-title8","price":"25.75"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=2548687&isbn_id=5842715","price":"23.70"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/advanced-calculus_hk-nickerson_dc-spencer/8748094/item/#edition=8003770"}
+  }

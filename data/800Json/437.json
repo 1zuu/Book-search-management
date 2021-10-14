@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/FundamentalsMicrobiologyBartlettLearningBiological/dp/1284057097/ref=sr_1_5?dchild=1&keywords=systems+in+the+body&qid=1628618639&s=books&sr=15","price":"87.87"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234104029250?epid=201662078&hash=item3681b00042:g:uqoAAOSwUCFf~ZQx","price":"34.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781284057096"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/fundamentalsofmicrobiologyjeffreycpommerville/1138128689?ean=9781284057096","price":"276.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30884981175&searchurl=kn%3D9781284057096%26sortby%3D17&cm_sp=snippet_srp1_title8","price":"74.12"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3755582&isbn_id=7649233","price":"276.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/fundamentalsofmicrobiologybodysystemsthirdeditionwithnavigateadvantageaccess_jeffreycpommerville/9594836/item/#edition=8982505&idiq=28627695","price":"31.39"}
+  }

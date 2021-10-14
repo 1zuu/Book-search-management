@@ -1,0 +1,7 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/EndovenousLaserTreatmentVaricoseVeins/dp/1719843961/ref=sr_1_17?dchild=1&qid=1627719251&refinements=p_n_feature_browsebin%3A2656022011&rnid=265542&s=books&sr=117","price":"9.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781719843966","price":"18.74"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30323565231&searchurl=kn%3D9781719843966%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"10.58"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781719843966&hs.x=33&hs.y=4","price":"7.91"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781719843966?title=","price":"9.99"}
+  }

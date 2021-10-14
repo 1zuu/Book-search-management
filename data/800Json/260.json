@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/CalculusIntuitivePhysicalApproachMathematics/dp/0486404536/ref=pd_sbs_2/14218346530643357?pd_rd_w=i3TEm&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=N577VK0WAGZ1767ZMFRF&pd_rd_r=21c06a27dd10435d8c8cb920c38aeffe&pd_rd_wg=iApjL&pd_rd_i=0486404536&psc=1","price":"15.70"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/363352968533?epid=295028&hash=item5499864d55:g:sJEAAOSwby9f~mpu","price":"23.21"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780486404530","price":"22.30"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/calculusmorriskline/1111329078?ean=9780486404530","price":"30.95"},
+      "Taret" : {"link":"https://www.target.com/p/calculusdoverbooksonmathematics2ndeditionbymorrisklinepaperback//A78080071#lnk=sametab","price":"15.79"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30776133207&searchurl=kn%3D9780486404530%26sortby%3D17&cm_sp=snippet_srp1_title24","price":"19.81"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780486404530&hs.x=11&hs.y=14","price":"16.19"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780486404530?title=calculus_an_intuitive_and_physical_approach_second_edition","price":"30.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=306410&isbn_id=171120","price":"29.40"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/calculusanintuitiveandphysicalapproach_morriskline/278223/item/#edition=4220661&idiq=10274919","price":"24.68"}
+  }

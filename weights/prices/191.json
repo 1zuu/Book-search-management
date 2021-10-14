@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/StatisticsEssentialsDummiesDeborahRumsey/dp/1119590302/ref=pd_sbs_1/14218346530643357?pd_rd_w=zhesS&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=W3SM3K5MZYP9GXGVXYM1&pd_rd_r=9a9528ec10bc47c9b5f26a04dd623525&pd_rd_wg=DTB7N&pd_rd_i=1119590302&psc=1","price":"7.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233971787388?epid=14038490032&hash=item3679ce267c:g:yW0AAOSwzPxge54P","price":"10.89"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781119590309","price":"15.19"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/statisticsessentialsfordummiesdeborahrumsey/1100294685?ean=9781119590309","price":"9.99"},
+      "Taret" : {"link":"https://www.target.com/p/statisticsessentialsfordummiesbydeborahjrumseypaperback//A77822866#lnk=sametab","price":"7.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30350624968&cm_sp=SEARCHREC_WIDGETL_BDPR&searchurl=kn%3D9781119590309%26sortby%3D17","price":"10.15"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781119590309&hs.x=13&hs.y=10","price":"6.54"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781119590309?title=statistics_essentials_for_dummies","price":"9.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4793659&isbn_id=10825835","price":"9.49"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/statisticsessentialsfordummies_deborahjrumsey/318457/item/#edition=21473812&idiq=32740723","price":"9.71"}
+  }

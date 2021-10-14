@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Discrete-Mathematical-Structures-Classics-Mathematics/dp/0134696441/ref=sr_1_59?dchild=1&keywords=advanced+level&qid=1629731841&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-59","price":"40.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/264478919290?hash=item3d942c0a7a:g:iUMAAOSw34hf~~st","price":"25.00"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780134696447"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/discrete-mathematical-structures-bernard-kolman/1100057427?ean=9780134696447","price":"106.65"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30901471355&searchurl=kn%3D9780134696447%26sortby%3D17&cm_sp=snippet-_-srp1-_-title11","price":"105.10"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4236603&isbn_id=9188746","price":"99.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/discrete-mathematical-structures_bernard-kolman_robert-c-busby/329277/item/#edition=14836486"}
+  }

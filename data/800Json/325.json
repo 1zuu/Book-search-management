@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/EconomicsBookIdeasSimplyExplained/dp/1465473912/ref=pd_sbs_4/14218346530643357?pd_rd_w=RoC1N&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=R7QMZXGVV200JDZ7VSAE&pd_rd_r=1ccfffa5df8045f68c9991569a16a010&pd_rd_wg=vJ3Dt&pd_rd_i=1465473912&psc=1","price":"10.91"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313141008982?epid=242686385&hash=item48e8a89a56:g:4QkAAOSwdz9eUo3s","price":"17.00"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685","price":"33.59"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/theeconomicsbookdk/1126791920?ean=9781465473912","price":"17.99"},
+      "Taret" : {"link":"https://www.target.com/p/theeconomicsbookbigideasbydkpaperback//A53202123#lnk=sametab","price":"14.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=22825937637&searchurl=kn%3D9781465473912%26sortby%3D17&cm_sp=snippet_srp1_title22","price":"12.76"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781465473912&hs.x=53&hs.y=26","price":"11.78"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781465473912?title=the_economics_book_big_ideas_simply_explained","price":"16.19"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4451305&isbn_id=9675067","price":"17.09"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/theeconomicsbook/521787/item/#edition=20019797&idiq=25777203","price":"16.00"}
+  }

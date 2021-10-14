@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/SchoolMathematicsCombinedHighSchools/dp/1546910646/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1627410838&sr=19","price":"9.90"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781546910640","price":"18.27"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/schoolmathematicscheeleongching/1134738972?ean=9781546910640","price":"9.90"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30321020026&searchurl=kn%3D9781546910640%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"10.26"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781546910640&hs.x=31&hs.y=15","price":"7.82"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781546910640?title=school_mathematics_combined_volume_for_high_schools","price":"9.90"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=7089211&isbn_id=9585417","price":"9.90"}
+  }

@@ -7,8 +7,8 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 import pickle
 import numpy as np
 import pandas as pd
-from pymongo import MongoClient
-from sklearn.utils import shuffle
+from collections import Counter
+from sklearn.utils import shuffle, class_weight
 from wordcloud import WordCloud
 from nltk.corpus import stopwords
 
@@ -42,16 +42,20 @@ def preprocess_one(description):
     '''
         Text preprocess on term text using above functions
     '''
-    lemmatizer = WordNetLemmatizer()
-    tokenizer = RegexpTokenizer(r'\w+')
-    stopwords_list = stopwords.words('english')
-    description = description.lower()
-    remove_punc = tokenizer.tokenize(description) # Remove puntuations
-    remove_num = [re.sub('[0-9]', '', i) for i in remove_punc] # Remove Numbers
-    remove_num = [i for i in remove_punc if len(i)>0] # Remove empty strings
-    lemmatized = lemmatization(lemmatizer,remove_num) # Word Lemmatization
-    remove_stop = remove_stop_words(stopwords_list,lemmatized) # remove stop words
-    updated_description = ' '.join(remove_stop)
+    try:
+        lemmatizer = WordNetLemmatizer()
+        tokenizer = RegexpTokenizer(r'\w+')
+        stopwords_list = stopwords.words('english')
+        description = description.lower()
+        remove_punc = tokenizer.tokenize(description) # Remove puntuations
+        remove_num = [re.sub('[0-9]', '', i) for i in remove_punc] # Remove Numbers
+        remove_num = [i for i in remove_punc if len(i)>0] # Remove empty strings
+        lemmatized = lemmatization(lemmatizer,remove_num) # Word Lemmatization
+        remove_stop = remove_stop_words(stopwords_list,lemmatized) # remove stop words
+        updated_description = ' '.join(remove_stop)
+    except:
+        updated_description = ''
+    # updated_description = description.strip()
     return updated_description
 
 def preprocessed_data(descriptions):
@@ -101,40 +105,17 @@ def create_wordcloud(processed_descriptions):
         plt.savefig(wordcloud_path)
         plt.show()
 
-def connect_mongo():
-    client = MongoClient(db_url)
-    db = client[database]
-    return db
-
-def create_database():
-
-    db = connect_mongo()
-    if db_collection not in db.list_collection_names():
-        coll = db[db_collection]
-        data = pd.read_csv(data_path)
-        data = data.dropna(axis=0)
-        payload = json.loads(data.to_json(orient='records'))
-        coll.remove()
-        coll.insert(payload)
-        print('Database created')
-
-def read_mongo():
-    db = connect_mongo()
-    cursor = db[db_collection].find({})
-    df =  pd.DataFrame(list(cursor))
-    del df['_id']
-
-    return df
-
 def get_Data():
     '''
         Get data from database
     '''
-    create_database()
-
-    df = read_mongo()
+    df = pd.read_csv(data_path)
+    df = shuffle(df)
     df_response = df[['Category', 'Description', 'Book_title' ,'Author' ,'ISBN-10' ,'ISBN-13', 'Cover_link']] 
     df= df[['Description', 'Category']]
+
+    df = df.groupby('Category').apply(lambda s: s.sample(250, replace=True))
+    df = shuffle(df)
     description = df['Description'].values
     Category = df['Category']
 
@@ -143,8 +124,13 @@ def get_Data():
 
     Y = label_encoding(Category)
 
+    class_weights = class_weight.compute_class_weight('balanced',
+                                                    np.unique(Y),
+                                                    Y)
+    class_weights = {i : class_weights[i] for i in range(len(set(Y)))}
+
     X, Y = shuffle(X, Y, random_state=seed) 
-    return X, Y, df_response
+    return X, Y, df_response, class_weights
 
 def tokenizer_save_and_load(tokenizer=None):
     if tokenizer:

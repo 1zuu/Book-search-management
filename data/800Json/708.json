@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Fundamentals-Web-Development-Randy-Connolly/dp/0134481267/ref=sr_1_139?dchild=1&qid=1629711816&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-139","price":"117.32"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/185034415734?epid=235073133&hash=item2b14e91e76:g:Zs8AAOSwFA1hNRkh","price":"152.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780134481265"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/fundamentals-of-web-development-randy-connolly/1127160519?ean=9780134481265","price":"146.65"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30776174766&searchurl=kn%3D9780134481265%26sortby%3D17&cm_sp=snippet-_-srp1-_-title10","price":"148.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4327044&isbn_id=9354920","price":"146.65"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/fundamentals-of-web-development_ricardo-hoar_randy-connolly/13910859/item/#edition=14729824"}
+  }

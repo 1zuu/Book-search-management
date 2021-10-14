@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Political-Order-Decay-Industrial-Globalization/dp/0374535620/ref=sr_1_36?dchild=1&qid=1629872176&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-36","price":"12.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233968346456?epid=208726107&hash=item367999a558:g:Pu4AAOSwbrRgeKhY","price":"21.02"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780374535629","price":"27.84"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/political-order-and-political-decay-francis-fukuyama/1118139043?ean=9780374535629","price":"18.00"},
+      "Taret" : {"link":"https://www.target.com/p/political-order-and-political-decay-by-francis-fukuyama-paperback/-/A-80951480#lnk=sametab","price":"12.29"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30668531292&searchurl=kn%3D9780374535629%26sortby%3D17&cm_sp=snippet-_-srp1-_-title30","price":"11.50"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780374535629?title=political_order_and_political_decay_from_the_industrial_revolution_to_the_globalization_of_democracy","price":"18.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3750904&isbn_id=7643900","price":"17.10"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/political-order-and-political-decay-from-the-industrial-revolution-to-the-globalization-of-democracy_francis-fukuyama/8826426/item/#edition=9091028&idiq=11157290","price":"16.19"}
+  }

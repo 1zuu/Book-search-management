@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/MillionaireRealEstateAgentAbout/dp/0071444041/ref=sr_1_21?dchild=1&qid=1627582454&refinements=p_n_feature_browsebin%3A2656022011&rnid=3&s=books&sr=121","price":"19.19"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/184286315244?epid=30508784&hash=item2ae85202ec:g:Ot4AAOSwj7het4VJ","price":"22.69"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=%209780071444040","price":"15.97"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/millionairerealestateagentgarykeller/1100026226?ean=9780071444040","price":"22.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=6094991005&cm_sp=SEARCHREC_WIDGETL_BDPH&searchurl=kn%3D9780071444040%26sortby%3D17","price":"37.68"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780071444040&hs.x=31&hs.y=22","price":"15.70"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780071444040?title=the_millionaire_real_estate_agent_its_not_about_the_money","price":"25.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=186090&isbn_id=636075","price":"23.75"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/themillionairerealestateagentbyjaypapasangarykeller/245919/item/#edition=2990342&idiq=10264431","price":"21.19"}
+  }

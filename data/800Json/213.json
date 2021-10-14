@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/LegalFormsStartingRunningBusiness/dp/1413327311/ref=pd_bxgy_img_1/14218346530643357?pd_rd_w=WweLF&pf_rd_p=c64372fac41c422e990d9e034f73989b&pf_rd_r=Y72VS4QGZC74991BQ0K2&pd_rd_r=70c9bbbc74074d189902d71bcbe40085&pd_rd_wg=3SXaY&pd_rd_i=1413327311&psc=1","price":"20.24"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233968862510?epid=24038835712&hash=item3679a1852e:g:XIcAAOSwUvpgeUVC","price":"34.54"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781413327311","price":"30.72"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/legalformsforstartingrunningasmallbusinessfredssteingoldattorney/1135473240?ean=9781413327311","price":"29.99"},
+      "Taret" : {"link":"https://www.target.com/p/legalformsforstartingrunningasmallbusiness11theditionbyfredssteingoldpaperback//A83300129#lnk=sametab","price":"20.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30610098497&searchurl=kn%3D9781413327311%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"23.23"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781413327311&hs.x=48&hs.y=10","price":"20.76"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781413327311?title=legal_forms_for_starting__running_a_small_business_65_essential_agreements_contracts_leases__letters","price":"29.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=7984264&isbn_id=10979721","price":"28.49"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/legalformsforstartingrunningasmallbusiness/22011010/item/#edition=23524262&idiq=37088044","price":"25.91"}
+  }

@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/SPSSStatisticsDummiesKeithMcCormick/dp/1119560837/ref=pd_sbs_6/14218346530643357?pd_rd_w=MlrCj&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=X03H35658VR3RXY4KQ55&pd_rd_r=1f7bb59e1cfb4ce8ab9a1da1bd08f8d0&pd_rd_wg=LaWWh&pd_rd_i=1119560837&psc=1","price":"22.83"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233971855315?epid=7038730763&hash=item3679cf2fd3:g:ybsAAOSwNitge74f","price":"34.77"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685","price":"42.02"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/spssstatisticsfordummiesjesussalcedo/1137556221?ean=9781119560838","price":"34.99"},
+      "Taret" : {"link":"https://www.target.com/p/spssstatisticsfordummies4theditionbykeithmccormickjesussalcedopaperback//A78505257#lnk=sametab","price":"22.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30974135542&searchurl=kn%3D9781119560838%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"22.01"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781119560838?title=spss_statistics_for_dummies","price":"34.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4800212&isbn_id=10751160","price":"33.24"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/spssstatisticsfordummies_keithmccormick_jesussalcedo/9763471/item/#edition=23916250&idiq=41037579","price":"29.75"}
+  }

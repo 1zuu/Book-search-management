@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Mathematical-Thinking-Problem-Solving-Classics-Mathematics/dp/0134689577/ref=sr_1_64?dchild=1&keywords=advanced+level&qid=1629731841&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-64","price":"85.32"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/384171934342?hash=item59726e8286:g:fXoAAOSwXdRgwg4R","price":"92.66"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/mathematical-thinking-john-p-dangelo/1100055837?ean=9780134689579","price":"97.77"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30278269381&searchurl=kn%3D9780134689579%26sortby%3D17&cm_sp=snippet-_-srp1-_-title3","price":"87.87"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4236599&isbn_id=9188742","price":"99.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/mathematical-thinking-problem-solving-and-proofs-classic-version_john-dangelo_douglas-west/14000168/item/#edition=57296183"}
+  }

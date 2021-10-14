@@ -1,0 +1,10 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Practical-Design-Advanced-Marine-Vehicles/dp/1497396891/ref=sr_1_36?dchild=1&qid=1629824815&refinements=p_n_feature_browse-bin%3A2656022011%2Cp_n_feature_nine_browse-bin%3A3291437011&rnid=173515&s=books&sr=1-36","price":"30.00"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781497396890","price":"32.76"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/the-practical-design-of-advanced-marine-vehicles-chris-b-mckesson-phd/1119074805?ean=9781497396890","price":"30.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30326664945&searchurl=kn%3D9781497396890%26sortby%3D17&cm_sp=snippet-_-srp1-_-title5","price":"28.96"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781497396890&hs.x=43&hs.y=13","price":"23.76"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781497396890?title=the_practical_design_of_advanced_marine_vehicles","price":"30.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=6323180&isbn_id=7227844","price":"30.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/the-practical-design-of-advanced-marine-vehicles_chris-b-mckesson/11202884/item/#edition=10683894&idiq=15685309","price":"28.62"}
+  }

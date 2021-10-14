@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Statistics-Social-Research-Analysis-MindTap/dp/0357371070/ref=sr_1_77?dchild=1&keywords=statistics&qid=1629875410&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-77","price":"94.42"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234148454141?epid=22038300733&hash=item368455defd:g:L2wAAOSwWU1f~qFd","price":"286.19"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780357371077","price":"256.74"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/statistics-joseph-f-healey/1135914699?ean=9780357371077","price":"199.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30785843097&searchurl=kn%3D9780357371077%26sortby%3D17&cm_sp=snippet-_-srp1-_-title3","price":"124.53"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780357371077&hs.x=47&hs.y=15","price":"197.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=7948555&isbn_id=11070878","price":"199.95"}
+  }

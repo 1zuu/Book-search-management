@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/dp/0143127748/ref=s9_acsd_obs_hd_bw_bj8c_c2_x_1_i?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandisedsearch11&pf_rd_r=YJR59QYW5D0494KXVGVJ&pf_rd_t=101&pf_rd_p=011d864933b151c599bc0ecb542a55ce&pf_rd_i=173514","price":"9.30"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/174807911352?epid=208724599&hash=item28b35d0bb8:g:N80AAOSw7XZgzZdm","price":"14.74"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780143127741","price":"25.47"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/thebodykeepsthescorebesselvanderkolkmd/1117229987?ean=9780143127741","price":"16.99"},
+      "Taret" : {"link":"https://www.target.com/p/thebodykeepsthescorebybesselvanderkolkpaperback//A80254560#lnk=sametab","price":"11.40"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=16945723466&cm_sp=SEARCHREC_WIDGETL_BDPH&searchurl=kn%3D9780143127741%26sortby%3D17","price":"25.99"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780143127741&hs.x=17&hs.y=15","price":"13.37"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780143127741?title=the_body_keeps_the_score_brain_mind_and_body_in_the_healing_of_trauma","price":"19.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5035761&isbn_id=7721085","price":"17.10"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thebodykeepsthescorebrainmindandbodyinthehealingoftrauma_besselavanderkolk/8899394/item/#edition=8946322&idiq=10395899","price":"16.99"}
+  }

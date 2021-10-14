@@ -1,0 +1,11 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Introduction-Probability-Statistics-Random-Processes/dp/0990637204/ref=sr_1_21?dchild=1&keywords=statistics&qid=1629872568&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-21","price":"23.35"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233971858125?epid=202765873&hash=item3679cf3acd:g:zNoAAOSw2A5ge74r","price":"56.02"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780990637202","price":"69.00"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/introduction-to-probability-statistics-and-random-processes-hossein-pishro-nik/1120353229?ean=9780990637202","price":"38.50"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30776124298&searchurl=kn%3D9780990637202%26sortby%3D17&cm_sp=snippet-_-srp1-_-title3","price":"30.05"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780990637202&hs.x=42&hs.y=24","price":"30.49"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780990637202?title=introduction_to_probability_statistics_and_random_processes","price":"38.50"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=9381202&isbn_id=12404404","price":"38.50"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/introduction-to-probability-statistics-and-random-processes_hossein-pishro-nik/13875147/item/#edition=13779471&idiq=19661146","price":"33.91"}
+  }

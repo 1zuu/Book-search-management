@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Cloud-Native-Go-Unreliable-Environments/dp/1492076333/ref=sr_1_94?dchild=1&qid=1629814796&refinements=p_n_feature_browse-bin%3A2656022011&rnid=3652&s=books&sr=1-94","price":"38.20"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/294150991698?epid=5046153657&hash=item447cc3ef52:g:e0wAAOSwd69gi5en","price":"57.24"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781492076339","price":"57.49"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/cloud-native-go-matthew-a-titmus/1137946327?ean=9781492076339","price":"59.99"},
+      "Taret" : {"link":"https://www.target.com/p/cloud-native-go-by-matthew-a-titmus-paperback/-/A-82973757#lnk=sametab","price":"38.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30914815383&searchurl=kn%3D9781492076339%26sortby%3D17&cm_sp=snippet-_-srp1-_-title5","price":"46.36"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781492076339&hs.x=29&hs.y=18","price":"41.75"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781492076339?title=cloud_native_go_building_reliable_services_in_unreliable_environments","price":"59.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=207223442&isbn_id=27221465","price":"56.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/cloud-native-go-building-reliable-services-in-unreliable-environments_matthew-a-titmus/27210194/item/#edition=58461572&idiq=44646885","price":"49.85"}
+  }

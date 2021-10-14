@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/CloudNativeDevOpsKubernetesApplications/dp/1492040762/ref=pd_sbs_6/14218346530643357?pd_rd_w=GT1LU&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=TEDRPXWYJ677EF4H7D9D&pd_rd_r=e9944ca8399f45079a6fd3c1a547f2e1&pd_rd_wg=5Ygtg&pd_rd_i=1492040762&psc=1","price":"53.44"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233968978740?epid=3038403183&hash=item3679a34b34:g:3D4AAOSw8l1geWZ9","price":"66.60"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781492040767","price":"48.63"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/cloudnativedevopswithkubernetesjohnarundel/1129201769?ean=9781492040767","price":"79.99"},
+      "Taret" : {"link":"https://www.target.com/p/cloudnativedevopswithkubernetesbyjohnarundeljustindominguspaperback//A83304418#lnk=sametab","price":"79.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30276184277&searchurl=kn%3D9781492040767%26sortby%3D17&cm_sp=snippet_srp1_title4","price":"46.34"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781492040767&hs.x=42&hs.y=18","price":"51.54"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781492040767?title=cloud_native_devops_with_kubernetes_building_deploying_and_scaling_modern_applications_in_the_cloud","price":"79.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4744237&isbn_id=10649983","price":"75.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/cloudnativedevopswithkubernetesbuildingdeployingandscalingmodernapplicationsinthecloud_justindomingus_johnarundel/19881877/item/#edition=21156873&idiq=31952072","price":"61.84"}
+  }

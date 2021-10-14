@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Law-Officers-Pocket-Manual-2021/dp/0367772477/ref=sr_1_44?dchild=1&qid=1629831495&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=173489&s=books&sr=1-44","price":"39.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/334053130854?hash=item4dc71e4266:g:HAkAAOSw1x1g1b2M","price":"55.41"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/the-law-officers-pocket-manual-john-g-miles-jr/1138392955?ean=9780367772475","price":"39.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30989561228&searchurl=kn%3D9780367772475%26sortby%3D17&cm_sp=snippet-_-srp1-_-title3","price":"41.39"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=226268683&isbn_id=27461901","price":"39.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/the-law-officers-pocket-manual-2021-edition/27384072/item/#edition=58541870"}
+  }

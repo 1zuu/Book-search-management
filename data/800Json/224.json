@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/HighCostGoodIntentionsEntitlement/dp/1503610071/ref=sr_1_13?dchild=1&qid=1628224076&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=113","price":"25.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233969122733?epid=2309420701&hash=item3679a57dad:g:qYIAAOSwPVJgeYTm","price":"34.44"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781503610071","price":"39.82"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/thehighcostofgoodintentionscogan/1125948759?ean=9781503610071","price":"25.00"},
+      "Taret" : {"link":"https://www.target.com/p/thehighcostofgoodintentionsbyjohnfcoganpaperback//A83746431#lnk=sametab","price":"25.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30288794709&searchurl=kn%3D9781503610071%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"20.09"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781503610071&hs.x=56&hs.y=25","price":"18.16"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781503610071?title=the_high_cost_of_good_intentions_a_history_of_us_federal_entitlement_programs","price":"25.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4856175&isbn_id=10769721","price":"25.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thehighcostofgoodintentionsahistoryofusfederalentitlementprograms/19896269/item/#edition=21159309&idiq=32351129","price":"23.53"}
+  }

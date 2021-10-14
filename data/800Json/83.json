@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/ZeroFailSecretServiceRandom/dp/0593414128/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=","price":"24.77"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780593414125"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/zerofailcarolleonnig/1137493432?ean=9780593414125","price":"32.00"},
+      "Taret" : {"link":"https://www.target.com/p/zerofaillargeprintbycarolleonnigpaperback//A81788479#lnk=sametab","price":"32.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30961191807&searchurl=ds%3D20%26kn%3D9780593414125%26sortby%3D17&cm_sp=snippet_srp1_title4","price":"45.46"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=208626508&isbn_id=27165351","price":"30.40"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/zerofailtheriseandfallofthesecretservice_carolleonnig/26850232/item/#edition=58148920"}
+  }

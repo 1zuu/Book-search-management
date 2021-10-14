@@ -1,0 +1,9 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Data-Structures-Abstraction-Design-Using/dp/0470128704/ref=sr_1_35?dchild=1&qid=1629705773&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-35","price":"220.17"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/294308338296?epid=73628554&hash=item448624da78:g:OEEAAOSwuNhhB09m","price":"19.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780470128701"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/data-structures-elliot-b-koffman/1101203220?ean=9780470128701","price":"159.07"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30890152518&searchurl=kn%3D9780470128701%26sortby%3D17&cm_sp=snippet-_-srp1-_-title29","price":"141.96"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=4867860","price":"188.90"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/data-structures-abstraction-and-design-using-java_elliot-b-koffman_paul-at-wolfgang/326037/item/#edition=7213349&idiq=4744447","price":"170.95"}
+  }

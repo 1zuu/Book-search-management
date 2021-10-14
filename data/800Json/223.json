@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/SystemWhoRiggedHowFix/dp/0593082001/ref=sr_1_12?dchild=1&qid=1628224076&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=112","price":"12.89"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/333897768021?hash=item4dbddb9c55:g:iAYAAOSwdg1gM1x6","price":"11.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780593082003","price":"20.42"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/thesystemrobertbreich/1133745254?ean=9780593082003","price":"16.00"},
+      "Taret" : {"link":"https://www.target.com/p/thesystembyrobertbreichpaperback//A81262060#lnk=sametab","price":"12.89"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30850099044&searchurl=kn%3D9780593082003%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"13.08"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780593082003&hs.x=27&hs.y=25","price":"11.14"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780593082003?title=the_system_who_rigged_it_how_we_fix_it","price":"16.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=243072627&isbn_id=26846773","price":"14.40"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thesystemwhoriggedithowwefixit_robertbreich/23886468/item/#edition=53659070&idiq=43619939","price":"14.60"}
+  }

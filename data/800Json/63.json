@@ -1,0 +1,7 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/ComputerNetworksApproachKaufmannNetworking/dp/0128182008/ref=sr_1_3?dchild=1&keywords=computer+networking&qid=1626806517&s=books&sr=13","price":"102.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/334031224964?epid=14047207825&hash=item4dc5d00084:g:LM4AAOSwZXVgvdU~","price":"133.80"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/computernetworkslarrylpeterson/1136721176?ean=9780128182000","price":"120.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=3093979 4016&searchurl=kn%3D9780128182000%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"95.15"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=26320077","price":"120.00"}
+  }

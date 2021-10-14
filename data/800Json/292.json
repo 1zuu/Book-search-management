@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/HandmaidsTaleMargaretAtwood/dp/038549081X/ref=sr_1_9?dchild=1&qid=1628265192&refinements=p_n_feature_browsebin%3A2656022011&rnid=3377866011&s=books&sr=19","price":"7.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/334100678692?epid=16038293429&_trkparms=ispr%3D1&hash=item4dc9f3c824:g:GpIAAOSwwd5hCi6m&amdata=enc%3AAQAGAAACkPYe5NmHp%252B2JMhMi7yxGiTJkPrKr5t53CooMSQt2orsSprd4IgPv6LBzlteBBg9Pe5vUVcAqx6UZWcsTeRVY3%252FI7130e7hlyW%252BssC9tqDfo3zWvZc6J4JLL15baJNicrmPh1ugq%252BoFLiT1YAASc2iMKD6wQ4RymoC4dS759sqNByYyKJdzoewM%252FdCe1TMTdMBOJZKJj%252B6335nAaOYsoUhZ2U9rri8MLJON3Sr0Y6VHndIPQWJWxdsKGnWiQ%252FNUmukP4vJfvYbMMxLDG30BceEzfziEooZx7Dx8a7FFsR9QAOTK8S2nyMZtL3CgrN3M51ySZZvkzrZHYv0D5xejIRvucRXCcyoX2ARmgIs3lrxTAcPNbfpdmVshhvj8Pq9CJ6L5r5PkvkJjoUHzqdr6PBYm6cMZHd%252B9Fd0CIEvWjIdAX7z83ba6rikrfLf2LaUZy4iKuxuSQelWj7t9n24vgFlmiYc0drHKTpoPHFJwPo2v2r5hU3QjvKdlLu48z1wXZJZlbmRwyGPDM8PDlxBjFnFdPRFPjq1tP2tI1NEtb%252Bb6l0cS6ALvdGeci%252BL3sDr%252BAH1cez2mvcAeFGMgVli1xfFYQyjH9pYG1ZC2K9kyOn5sSKqDyUo%252Bomrxa9e4cVXJwOKtZ%252Bm9vvtTmpHa4NDtBqX34ymIRPRMIevG%252B2Q0YCOvIz94h22mBjiIrGApYL5M7yHm5qu7FkivVv6IJcJ3CXNmVNZZhJ0rKXKNIp%252BONwPvElQcqCxYyEGemmcBaw8TfP6p5Q6%252FmknjbLAZdrGsY7i1%252FQnTkU6y%252BCBHyZ0V9t6D5HlRh%252B06SU9yymy058J5HkdXrAj6wanqN4i%252B0Zoo3IyCjLqHSYSs5wjZVKrbPMshSs%7Campid%3APL_CLK%7Cclp%3A2334524","price":"11.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780385490818","price":"10.33"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/handmaidstalemargaretatwood/1100295471?ean=9780385490818","price":"15.95"},
+      "Taret" : {"link":"https://www.target.com/p/handmaidstalepaperbackmargareteleanoratwood//A11830306#lnk=sametab","price":"7.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30546305997&searchurl=kn%3D9780385490818%26sortby%3D17&cm_sp=snippet_srp2_title9","price":"5.00"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780385490818&hs.x=36&hs.y=23","price":"11.00"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780385490818?title=the_handmaids_tale","price":"15.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=259191&isbn_id=142628","price":"15.15"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thehandmaidstalebymargaretatwood/247067/item/#edition=2382360&idiq=10278719","price":"14.45"}
+  }

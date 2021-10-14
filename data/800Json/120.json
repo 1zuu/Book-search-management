@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/CertifiedInformationSecurityProfessionalOfficial/dp/1119790026/ref=sr_1_1?dchild=1&keywords=%28ISC%292+CISSP+Certified+Information+Systems+Security+Professional+Official+Study+Guide+%26+Practice+Tests+Bundle+3rd+Edition&qid=1628145217&s=books&sr=11","price":"85.50"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/384295513451?epid=13047874086&hash=item5979 cc2d6b:g:xcMAAOSwTiVg~nrC","price":"69.84"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=%20978111979 0020"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/bookmikechapple/1139690180?ean=978111979 0020","price":"95.00"},
+      "Taret" : {"link":"https://www.target.com/p/isc2cisspcertifiedinformationsystemssecurityprofessionalofficialstudyguidepracticetestsbundle3rdeditionpaperback//A82565601#lnk=sametab","price":"85.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30950521468&searchurl=kn%3D978111979 0020%26sortby%3D17&cm_sp=snippet_srp1_title7","price":"121.25"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=253961638&isbn_id=27302592","price":"90.25"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/isc2cisspcertifiedinformationsystemssecurityprofessionalofficialstudyguidepracticetestsbundle3e_mikechapple/27229669/item/#edition=58438850"}
+  }

@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/LifestyleBusinessOwnerProfitsWithout/dp/1683506499/ref=pd_sim_5/14218346530643357?pd_rd_w=cDfg2&pf_rd_p=d9946c66b1cb486e8910b5930c8935b6&pf_rd_r=DAVR7YTCMVF4DBE6HEC0&pd_rd_r=321f8700bc164b1a97c5aac2d17efefa&pd_rd_wg=xpy5u&pd_rd_i=1683506499&psc=1","price":"14.34"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313627983325?epid=239535320&hash=item4905af3ddd:g:AFEAAOSwOMVhC8Nt","price":"21.85"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781683506492","price":"23.85"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/thelifestylebusinessowneraaronmuller/1127208085?ean=9781683506492","price":"16.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30044290599&searchurl=kn%3D9781683506492%26sortby%3D17&cm_sp=snippet_srp1_title8","price":"10.40"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781683506492&hs.x=46&hs.y=16","price":"11.29"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781683506492?title=the_lifestyle_business_owner_how_to_buy_a_business_grow_your_profits_and_make_it_run_without_you","price":"16.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4558727&isbn_id=9983497","price":"16.10"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thelifestylebusinessownerhowtobuyabusinessgrowyourprofitsandmakeitrunwithoutyou/18680255/item/#edition=19907555&idiq=27312470","price":"15.23"}
+  }

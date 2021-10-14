@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/SixEasyPiecesEssentialsExplained/dp/0465025277/ref=pd_vtp_1/14218346530643357?pd_rd_w=tZIX3&pf_rd_p=016e369791be4dc29533ef9350e7e73d&pf_rd_r=8R31FJKCZV8MFJ2N3V6P&pd_rd_r=ee752d262f784c3da1cc1a883d4cc5e1&pd_rd_wg=jQwF3&pd_rd_i=0465025277&psc=1","price":"13.17"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/333774992979?epid=99699718&hash=item4db68a3653:g:F7AAAOSw11foCzl","price":"14.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780465025275","price":"19.29"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/sixeasypiecesrichardpfeynman/1102734332?ean=9780465025275","price":"14.49"},
+      "Taret" : {"link":"https://www.target.com/p/sixeasypieces4theditionbyrichardpfeynmanrobertbleightonmatthewsandspaperback//A53755793#lnk=sametab","price":"13.19"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30346488842&searchurl=kn%3D9780465025275%26sortby%3D17&cm_sp=snippet_srp1_title16","price":"13.08"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780465025275&hs.x=41&hs.y=29","price":"11.03"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780465025275?title=six_easy_pieces_essentials_of_physics_explained_by_its_most_brilliant_teacher","price":"15.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=2460297&isbn_id=5764959","price":"15.19"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/sixeasypiecesessentialsofphysicsexplainedbyitsmostbrilliantteacherbyrichardfeynmanrobertbleighton/253373/item/#edition=6720121&idiq=10342091","price":"14.49"}
+  }

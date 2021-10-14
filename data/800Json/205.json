@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/AndroidStudio42DevelopmentEssentials/dp/1951442296/ref=sr_1_8?dchild=1&pf_rd_i=5&pf_rd_m=ATVPDKIKX0DER&pf_rd_p=e958ce813cd848298ad321a44b122dca&pf_rd_r=Z91J1SXJHSWW6CR7XWHJ&pf_rd_s=merchandisedsearch1&pf_rd_t=101&qid=1628176387&refinements=p_28%3AAndroid&s=books&sr=18","price":"46.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114873720927?hash=item1abf01e05f:g:kfUAAOSw9Udg3W2X","price":"81.53"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781951442293","price":"84.22"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/androidstudio42developmentessentialskotlineditionneilsmyth/1139608949?ean=9781951442293","price":"46.99"},
+      "Taret" : {"link":"https://www.target.com/p/androidstudio42developmentessentialskotlineditionbyneilsmythpaperback//A83761123#lnk=sametab","price":"46.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30928487082&searchurl=kn%3D9781951442293%26sortby%3D17&cm_sp=snippet_srp1_title3","price":"51.78"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781951442293&hs.x=37&hs.y=24","price":"46.52"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=286209212&isbn_id=28629427","price":"46.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/androidstudio42developmentessentialskotlineditiondevelopingandroidappsusingandroidstudio42kotlinandandroidjetpack/28661922/item/#edition=59626802"}
+  }

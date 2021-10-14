@@ -1,0 +1,7 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/UncertaintyMedicinePaulKJHan/dp/0190270586?ref_=Oct_d_onr_d_227668&pd_rd_w=cnseQ&pf_rd_p=f2b556d92905446ea142cdce50e9497c&pf_rd_r=JFK7SZ5XAWWEGV5Z9XEK&pd_rd_r=d2341ac623684ba2bfb972a38ef0342c&pd_rd_wg=Vw0Yk&pd_rd_i=0190270586","price":"29.95"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/uncertaintyinmedicinepaulkjhan/1139185878?ean=9780190270582","price":"29.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30972031758&searchurl=kn%3D9780190270582%26sortby%3D17&cm_sp=snippet_srp1_title3","price":"36.32"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=28229168","price":"29.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/uncertaintyinmedicineaframeworkfortolerance_paulkjhan/28371263/item/#edition=59162241"}
+  }

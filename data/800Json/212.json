@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/SmallBusinessStartUpStepStep/dp/1413327230/ref=pd_sbs_5/14218346530643357?pd_rd_w=V26A0&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=ASJTJFM1SRXPYA28FP3V&pd_rd_r=3de43b5fd1f940e18cd332a104a4ed56&pd_rd_wg=cdpRA&pd_rd_i=1413327230&psc=1","price":"26.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114916968027?epid=28038601497&hash=item1ac195c65b:g:Pw0AAOSwfBdhBzwG","price":"22.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781413327236","price":"42.99"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/smallbusinessstartupkitperipakroo/1101968756?ean=9781413327236","price":"29.99"},
+      "Taret" : {"link":"https://www.target.com/p/thesmallbusinessstartupkit11theditionbyperipakroopaperback//A83300127#lnk=sametab","price":"26.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30598223055&searchurl=kn%3D9781413327236%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"22.98"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781413327236&hs.x=41&hs.y=23","price":"19.79"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781413327236?title=the_small_business_startup_kit_a_stepbystep_legal_guide","price":"29.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=7984261&isbn_id=10979718","price":"28.49"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thesmallbusinessstartupkitastepbysteplegalguide/21410882/item/#edition=22838025&idiq=36659759","price":"25.39"}
+  }

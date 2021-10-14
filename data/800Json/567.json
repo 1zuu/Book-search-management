@@ -1,0 +1,11 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Examples-Explanations-Family-Robert-Oliphant/dp/1543802281/ref=sr_1_20?dchild=1&qid=1629826081&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=10777&s=books&sr=1-20","price":"44.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233969249226?epid=20038430247&hash=item3679a76bca:g:QlcAAOSw0tFgeaRJ","price":"99.74"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781543802283","price":"101.34"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/examples-explanations-for-family-law-robert-e-oliphant/1132543385?ean=9781543802283","price":"63.95"},
+      "Taret" : {"link":"https://www.target.com/p/examples-explanations-for-family-law-6th-edition-by-robert-e-oliphant-nancy-ver-steegh-paperback/-/A-80827660#lnk=sametab","price":"61.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30951510754&searchurl=kn%3D9781543802283%26sortby%3D17&cm_sp=snippet-_-srp1-_-title4","price":"49.00"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781543802283&hs.x=23&hs.y=4","price":"61.33"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4782536&isbn_id=10775806","price":"61.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/examples--explanations-family-law-fourth-edition_oliphant/8787157/item/#edition=6144559&idiq=5230401","price":"49.95"}
+  }

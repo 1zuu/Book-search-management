@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/RoboticsEverythingAboutBeginnerExpert/dp/1523731516/ref=sr_1_26?dchild=1&qid=1628506615&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=126","price":"22.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/113751951443?epid=221877886&hash=item1a7c250853:g:8BcAAOSwf6hc3ZG5","price":"29.62"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685","price":"30.93"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/roboticspetermckinnon/1123593045?ean=9781523731510","price":"22.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30819910271&searchurl=kn%3D9781523731510%26sortby%3D17&cm_sp=snippet_srp1_title7","price":"18.98"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781523731510&hs.x=39&hs.y=12","price":"18.20"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781523731510?title=robotics_everything_you_need_to_know_about_robotics_from_beginner_to_expert","price":"22.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=18535366&isbn_id=21568673","price":"22.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/roboticseverythingyouneedtoknowaboutroboticsfrombeginnertoexpert_petermckinnon/10798385/item/#edition=10255502&idiq=15252671","price":"22.36"}
+  }

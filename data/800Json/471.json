@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/SocialismEconomicSociologicalAnalysisEnlarged/dp/1614272999/ref=sr_1_100?dchild=1&qid=1628596592&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=1100","price":"12.95"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114330453793?epid=115750537&hash=item1a9ea04721:g:KEAAOSw49pfIzWG","price":"28.52"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781614272991","price":"35.97"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/socialismludwigvonmises/1116753346?ean=9781614272991","price":"12.95"},
+      "Taret" : {"link":"https://www.target.com/p/socialismbyludwigvonmisespaperback//A83099555#lnk=sametab","price":"12.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30751755196&searchurl=kn%3D9781614272991%26sortby%3D17&cm_sp=snippet_srp1_title7","price":"17.86"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=18636692&isbn_id=21668686","price":"12.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/socialismaneconomicandsociologicalanalysis_ludwigvonmises/390747/item/#edition=14448943&idiq=26373698","price":"17.79"}
+  }

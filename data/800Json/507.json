@@ -1,0 +1,10 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Hands-Genetic-Algorithms-Python-intelligence/dp/1838557741/ref=sr_1_24?dchild=1&qid=1629705279&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-24","price":"39.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/392819871735?epid=11038573266&hash=item5b75e38ff7:g:0aYAAOSwyEJe0uJ0","price":"67.90"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781838557744","price":"63.37"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/hands-on-genetic-algorithms-with-python-eyal-wirsansky/1136300517?ean=9781838557744","price":"39.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30785871229&searchurl=kn%3D9781838557744%26sortby%3D17&cm_sp=snippet-_-srp1-_-title4","price":"50.89"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781838557744&hs.x=36&hs.y=1","price":"42.23"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=20040805&isbn_id=23159762","price":"39.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/hands-on-genetic-algorithms-with-python-applying-genetic-algorithms-to-solve-real-world-deep-learning-and-artificial-intelligence-problems/26087900/item/#edition=28529864&idiq=36435066","price":"45.82"}
+  }

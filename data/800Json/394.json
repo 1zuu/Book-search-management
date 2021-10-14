@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/GovernmentPoliticsSouthRobertOberst/dp/081334879X/ref=sr_1_3?dchild=1&keywords=south+asian+politics&qid=1628534184&s=books&sr=13","price":"30.44"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/324134007973?hash=item4b77e474a5:g:RvYAAOSwrhBZK1CV","price":"91.68"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780813348797","price":"97.21"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/governmentandpoliticsinsouthasiarobertcoberst/1124306897?ean=9780813348797","price":"64.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30776456219&searchurl=kn%3D9780813348797%26sortby%3D17&cm_sp=snippet_srp1_title12","price":"38.43"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780813348797&hs.x=38&hs.y=15","price":"68.59"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780813348797?title=government_and_politics_in_south_asia"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5471367&isbn_id=6505342","price":"64.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/governmentandpoliticsinsouthasia_robertcoberst_syedurrahman/9654936/item/#edition=9057186"}
+  }

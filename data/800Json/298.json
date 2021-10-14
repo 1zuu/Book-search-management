@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/LearnStatisticsTodayEquationsIncluded/dp/1793436789/ref=pd_sbs_7/14218346530643357?pd_rd_w=SartI&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=AV42NVHVAA2D7RC5B92D&pd_rd_r=47dbae75a2e94f2bbb9139e8b8353e96&pd_rd_wg=XYdLi&pd_rd_i=1793436789&psc=1","price":"9.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/224444094236?epid=14038634004&hash=item3441e9171c:g:CJgAAOSwdCdfSE32","price":"13.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781793436788","price":"16.34"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30382384083&searchurl=kn%3D9781793436788%26sortby%3D17&cm_sp=snippet_srp1_title5","price":"10.07"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781793436788&hs.x=32&hs.y=16","price":"7.91"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781793436788?title=","price":"9.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=59434074&isbn_id=24548239","price":"9.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/learnstatisticstoday50solvedequationstoeasilyexplainstatisticscontentguideincluded/20363583/item/#edition=21693816"}
+  }

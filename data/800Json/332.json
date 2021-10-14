@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/ReadingLikeLawyerTimeSavingStrategies/dp/1611631106/ref=pd_sbs_5/14218346530643357?pd_rd_w=FwXD8&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=KVJGHMZS1PEQWN8N5JGS&pd_rd_r=a6730d4993ea4f558ad2c2a5c6ffd16e&pd_rd_wg=WLsbO&pd_rd_i=1611631106&psc=1","price":"33.25"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114924767105?epid=150612985&hash=item1ac20cc781:g:GBwAAOSw30dgAEzf","price":"17.00"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30938225111&searchurl=kn%3D9781611631104%26sortby%3D17&cm_sp=snippet_srp1_title8","price":"34.07"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=6445124","price":"35.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/readinglikealawyertimesavingstrategiesforreadinglawlikeanexpert_ruthannmckinney/311098/item/#edition=8049188&idiq=5278011","price":"35.00"}
+  }

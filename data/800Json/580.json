@@ -1,0 +1,9 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Competency-Based-Assessments-Mental-Health-Practice/dp/0470505281/ref=sr_1_63?dchild=1&qid=1629864620&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-63","price":"62.50"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313208562325?epid=102768179&hash=item48ecaf6295:g:YZAAAOSw3utY5Lsf","price":"19.88"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780470505281","price":"88.89"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/competency-based-assessments-in-mental-health-practice-susan-w-gray/1101874586?ean=9780470505281","price":"62.50"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30687878073&searchurl=kn%3D9780470505281%26sortby%3D17&cm_sp=snippet-_-srp1-_-title10","price":"46.14"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=2392860&isbn_id=5576603","price":"62.50"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/competency-based-assessments-in-mental-health-practice-cases-and-practical-applications/9197884/item/#edition=8520012&idiq=10679923","price":"62.48"}
+  }

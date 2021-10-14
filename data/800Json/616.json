@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/ADVANCED-CALCULUS-REVISED-HAROLD-LOOMIS/dp/9814583936/ref=sr_1_60?dchild=1&keywords=advanced+level&qid=1629731841&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-60","price":"30.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313473664751?epid=5038626552&hash=item48fc7c86ef:g:AKsAAOSweepgYuwo","price":"50.62"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9789814583930","price":"56.52"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/advanced-calculus-lynn-loomis/1120361774?ean=9789814583930","price":"30.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30785825759&searchurl=kn%3D9789814583930%26sortby%3D17&cm_sp=snippet-_-srp1-_-title10","price":"37.84"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9789814583930&hs.x=32&hs.y=20","price":"29.70"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3376264&isbn_id=7039508","price":"30.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/advanced-calculus-revised-edition_shlomo-zvi-sternberg_lynn-harold-loomis/13995312/item/#edition=14816347"}
+  }

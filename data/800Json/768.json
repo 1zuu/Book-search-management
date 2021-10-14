@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Criminal-Justice-Policy-Planning-Planned/dp/0323298850/ref=sr_1_40?dchild=1&qid=1629831495&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=173489&s=books&sr=1-40","price":"67.95"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/133857638563?epid=219868016&hash=item1f2a8978a3:g:3qQAAOSwwXBf~tsB","price":"62.00"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/criminal-justice-policy-and-planning-wayne-n-welsh/1124231700?ean=9780323298858","price":"68.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30853311498&searchurl=kn%3D9780323298858%26sortby%3D17&cm_sp=snippet-_-srp1-_-title7","price":"80.85"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5157973&isbn_id=8349479","price":"68.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/criminal-justice-policy-and-planning-planned-change_wayne-n-welsh_philip-w-harris/19134761/item/#edition=13512941"}
+  }

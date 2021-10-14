@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/ExcelStatisticsNeilJSalkind/dp/1483374041/ref=pd_sbs_2/14218346530643357?pd_rd_w=0Q9gA&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=J6C5RYEQ177NFYJY06J3&pd_rd_r=15b05e883065473ba81ea457fcbf9038&pd_rd_wg=NeFIW&pd_rd_i=1483374041&psc=1","price":"24.12"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/393452057468?epid=210831239&hash=item5b9b91f37c:g:ifcAAOSw9vpg9Xsd","price":"44.28"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781483374048","price":"37.64"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/excelstatisticsneiljsalkind/1125301236?ean=9781483374048","price":"30.00"},
+      "Taret" : {"link":"https://www.target.com/p/excelstatistics3rdeditionbyneiljsalkindpaperback//A80826316#lnk=sametab","price":"33.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30842107752&searchurl=kn%3D9781483374048%26sortby%3D17&cm_sp=snippet_srp1_title7","price":"30.00"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781483374048&hs.x=26&hs.y=12","price":"29.18"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3798200&isbn_id=7679952","price":"33.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/excelstatisticsaquickguide/1878384/item/#edition=14274448&idiq=29765131","price":"31.95"}
+  }

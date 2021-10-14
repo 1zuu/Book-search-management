@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/BeginnersGuideMathematicalLogicMathematics/dp/0486492370/ref=pd_sbs_1/14218346530643357?pd_rd_w=ZjX2y&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=SWDND3J7XWPWK8YEKX40&pd_rd_r=75630395faa54cdab8b84adfd6675070&pd_rd_wg=zO2ui&pd_rd_i=0486492370&psc=1","price":"17.89"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/323737901042?epid=166248935&hash=item4b604857f2:g:k~oAAOSwv4pgAGYW","price":"21.38"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780486492377","price":"26.18"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/abeginnersguidetomathematicallogicraymondmsmullyan/1128928466?ean=9780486492377","price":"19.95"},
+      "Taret" : {"link":"https://www.target.com/p/abeginnersguidetomathematicallogicdoverbooksonmathematicsbyraymondmsmullyanpaperback//A77747905#lnk=sametab","price":"17.89"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=22844906749&searchurl=kn%3D9780486492377%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"15.34"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780486492377&hs.x=51&hs.y=10","price":"11.98"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780486492377?title=a_beginners_guide_to_mathematical_logic","price":"19.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3204312&isbn_id=6736114","price":"18.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/abeginnersguidetomathematicallogic_raymondmsmullyan/10757346/item/#edition=10208014&idiq=15309139","price":"17.04"}
+  }

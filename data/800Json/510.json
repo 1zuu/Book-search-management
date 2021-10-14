@@ -1,0 +1,10 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Data-Quality-Accuracy-Dimension-Management/dp/1558608915/ref=sr_1_39?dchild=1&qid=1629705920&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-39","price":"47.56"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/312875080958?epid=2364516&hash=item48d8cedcfe:g:B7wAAOSwWcJfMsU5","price":"66.76"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781558608917","price":"96.88"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/data-quality-jack-e-olson/1100665424?ean=9781558608917","price":"67.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30331541345&searchurl=kn%3D9781558608917%26sortby%3D17&cm_sp=snippet-_-srp1-_-title7","price":"47.79"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781558608917&hs.x=37&hs.y=9","price":"76.24"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=596679&isbn_id=445562","price":"67.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/data-quality-the-accuracy-dimension-the-morgan-kaufmann-series-in-data-management-systems_jack-e-olson/416976/item/#edition=3147104&idiq=26902589","price":"74.79"}
+  }

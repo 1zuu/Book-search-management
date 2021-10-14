@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/ThinkAgainPowerKnowingRandom/dp/0593395786/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1628432943&sr=11","price":"20.24"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114755853729?epid=11044260893&hash=item1ab7fb5da1:g:fywAAOSwgOZgbKHZ","price":"27.77"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685","price":"35.24"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/thinkagainadamgrant/1137570667?ean=9780593395783","price":"30.00"},
+      "Taret" : {"link":"https://www.target.com/p/thinkagainlargeprintbyadamgrantpaperback//A81413488#lnk=sametab","price":"20.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30914654710&searchurl=kn%3D9780593395783%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"21.55"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780593395783?title=think_again_the_power_of_knowing_what_you_dont_know","price":"30.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=208605244&isbn_id=26917985","price":"28.50"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thinkagainthepowerofknowingwhatyoudontknow/26911862/item/#edition=57272749&idiq=43789308","price":"25.73"}
+  }

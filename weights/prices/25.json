@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/HowNotBeWrongMathematical/dp/0143127535/ref=lp_226699_1_10","price":"5.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/293917296266?epid=204245812&hash=item446ed6068a:g:r0IAAOSwgIZf~rnH","price":"5.75"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780143127536&AvailableCopies.IsNew=true","price":"24.88"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/hownottobewrongjordanellenberg/1117225089?ean=9780143127536","price":"15.99"},
+      "Taret" : {"link":"https://www.target.com/p/hownottobewrongbyjordanellenbergpaperback//A16983398#lnk=sametab","price":"9.69"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30923520750&searchurl=kn%3D9780143127536%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"5.00"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780143127536&hs.x=36&hs.y=17","price":"11.77"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780143127536?title=how_not_to_be_wrong_the_power_of_mathematical_thinking","price":"18.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3698305&isbn_id=7490548","price":"17.10"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/hownottobewrongthehiddenmathsofeveryday_jordanellenberg/8780009/item/#edition=8609116&idiq=10411586","price":"16.01"}
+  }

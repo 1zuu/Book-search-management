@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Communication-Between-Cultures-Larry-Samovar/dp/1285444620/ref=sr_1_34?dchild=1&qid=1629876836&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-34","price":"83.91"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/265293072796?epid=215958196&hash=item3dc4b3099c:g:K5QAAOSwluNg~KGC","price":"69.00"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781285444628"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/communication-between-cultures-larry-a-samovar/1122970166?ean=9781285444628","price":"149.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30929428322&searchurl=kn%3D9781285444628%26sortby%3D17&cm_sp=snippet-_-srp1-_-title21","price":"113.23"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3905964&isbn_id=8078512","price":"149.95"}
+  }

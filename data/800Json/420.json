@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/DesignPatternsCloudNativeApplications/dp/1492090719/ref=sr_1_11?dchild=1&keywords=cloud+computing&qid=1628593722&s=books&sr=111","price":"48.86"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114838893401?epid=27047173954&hash=item1abcee7359:g:Pv0AAOSwsdNguyYg","price":"54.17"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781492090717","price":"57.49"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/designpatternsforcloudnativeapplicationskasunindrasiri/1138471827?ean=9781492090717","price":"59.99"},
+      "Taret" : {"link":"https://www.target.com/p/designpatternsforcloudnativeapplicationsbykasunindrasirisriskandarajahsuhothayanpaperback//A83595069#lnk=sametab","price":"48.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30921646751&searchurl=kn%3D9781492090717%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"42.37"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781492090717&hs.x=28&hs.y=15","price":"41.75"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781492090717?title=design_patterns_for_cloud_native_applications_patterns_in_practice_using_apis_data_events_and_streams","price":"59.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=262318902&isbn_id=27557709","price":"56.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/designpatternsforcloudnativeapplicationspatternsinpracticeusingapisdataeventsandstreams_kasunindrasiri_sriskandarajahsuhothayan/27403973/item/#edition=58578090&idiq=45016003","price":"49.71"}
+  }

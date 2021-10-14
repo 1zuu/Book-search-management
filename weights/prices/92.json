@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/LeadershipPracticePeterGNorthouse/dp/1544397569?ref_=Oct_otopr_d_13022421&pd_rd_w=5yWs0&pf_rd_p=a304ecd4a57b4669aaa336ed2882b274&pf_rd_r=68B8WE895EE9W1GEPKW8&pd_rd_r=47eeca6fd34b488f9930b107fce43b76&pd_rd_wg=PLhjK&pd_rd_i=1544397569","price":"54.83"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234080889079?hash=item36804ee8f7:g:whoAAOSwWCtg5k4j","price":"121.72"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/leadershippetergnorthouse/1100513862?ean=9781544397566","price":"85.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30933408995&cm_sp=SEARCHREC_WIDGETL_BDPF&searchurl=ds%3D20%26kn%3D9781544397566%26sortby%3D17","price":"111.71"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781544397566&hs.x=36&hs.y=10","price":"86.69"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=245106466&isbn_id=27464153","price":"85.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/leadershiptheoryandpractice/249914/item/#edition=8895043&idiq=27095746","price":"16.99"}
+  }

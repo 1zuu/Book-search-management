@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/EconomicsDiscontentFailingElitesPopulism/dp/981141730X/ref=sr_1_132?dchild=1&qid=1628597105&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=1132","price":"14.95"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114842042067?epid=14046346480&hash=item1abd1e7ed3:g:WTIAAOSwtkBgvo3M","price":"26.49"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9789811417306","price":"30.25"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/theeconomicsofdiscontentjeanmichelpaul/1132062215?ean=9789811417306","price":"14.95"},
+      "Taret" : {"link":"https://www.target.com/p/theeconomicsofdiscontentbyjeanmichelpaulpaperback//A79251097#lnk=sametab","price":"14.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30820649711&searchurl=kn%3D9789811417306%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"19.64"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9789811417306&hs.x=32&hs.y=21","price":"14.80"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=78139901&isbn_id=26131164","price":"14.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/theeconomicsofdiscontentfromfailingelitestotheriseofpopulism_jeanmichelpaul/22349161/item/#edition=23874400"}
+  }

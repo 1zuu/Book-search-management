@@ -1,0 +1,7 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/dp/1945796065/ref=s9_acsd_obs_hd_bw_bj8c_c2_x_2_i?pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandisedsearch11&pf_rd_r=YJR59QYW5D0494KXVGVJ&pf_rd_t=101&pf_rd_p=011d864933b151c599bc0ecb542a55ce&pf_rd_i=173514","price":"15,99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/164862510889?epid=227791878&hash=item2662924729:g:xgQAAOSwLFdgm9Sn","price":"29.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781945796067"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30328354417&searchurl=kn%3D9781945796067%26sortby%3D17&cm_sp=snippet_srp1_title6","price":"26.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4633880&isbn_id=10479632","price":"7.99"}
+  }

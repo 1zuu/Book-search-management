@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Your-Next-Five-Moves-Business/dp/1982154810/ref=sr_1_20?dchild=1&qid=1629799026&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=3&s=books&sr=1-20","price":"12.60"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234031333214?hash=item367d5abf5e:g:Pt8AAOSwvotgswZi","price":"17.29"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781982154813","price":"25.24"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/your-next-five-moves-patrick-bet-david/1136404932?ean=9781982154813","price":"14.99"},
+      "Taret" : {"link":"https://www.target.com/p/your-next-five-moves-by-patrick-bet-david-paperback/-/A-82565712#lnk=sametab","price":"12.69"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30917548679&searchurl=kn%3D9781982154813%26sortby%3D17&cm_sp=snippet-_-srp1-_-title3","price":"13.71"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781982154813?title=your_next_five_moves_master_the_art_of_business_strategy","price":"16.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=243451921&isbn_id=27229297","price":"16.14"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/your-next-five-moves-master-the-art-of-business-strategy_patrick-bet-david/27222370/item/#edition=58471651&idiq=44956810","price":"15.38"}
+  }

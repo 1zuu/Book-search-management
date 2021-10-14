@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Beginners-Guide-Engineering-Electrical/dp/1492986658/ref=pd_sbs_5/142-1834653-0643357?pd_rd_w=SsrgN&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=4MX1G7GMEQVNQAX4YEYP&pd_rd_r=59beaa32-5dcc-4a1e-bfd2-f2bf209271e7&pd_rd_wg=OHgPE&pd_rd_i=1492986658&psc=1","price":"16.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234108889755?epid=177431241&hash=item3681fa2a9b:g:WKIAAOSwNMFhAcQB","price":"26.31"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=%209781492986652","price":"34.98"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/the-beginners-guide-to-engineering-mary-ellen-latschar/1117349208?ean=9781492986652","price":"16.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30307577281&searchurl=kn%3D9781492986652%26sortby%3D17&cm_sp=snippet-_-srp1-_-title5","price":"21.60"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=+9781492986652&hs.x=38&hs.y=21","price":"13.45"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781492986652?title=the_beginners_guide_to_engineering_electrical_engineering","price":"16.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=6255836&isbn_id=6940505","price":"16.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/the-beginners-guide-to-engineering-electrical-engineering_mary-ellen-latschar/9912232/item/#edition=9364963"}
+  }

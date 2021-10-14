@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Naval-Engineering-Principles-Fire-Protection/dp/0578441624/ref=sr_1_47?dchild=1&qid=1629824907&refinements=p_n_feature_browse-bin%3A2656022011%2Cp_n_feature_nine_browse-bin%3A3291437011&rnid=173515&s=books&sr=1-47","price":"15.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234142833065?epid=2309469754&hash=item36840019a9:g:rPoAAOSwdWphGrkK","price":"17.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780578441627","price":"23.77"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/naval-engineering-jr-jack-hopson/1132545057?ean=9780578441627","price":"15.99"},
+      "Taret" : {"link":"https://www.target.com/p/naval-engineering-by-jack-hopson-paperback/-/A-79252564#lnk=sametab","price":"15.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30596733311&searchurl=kn%3D9780578441627%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1","price":"14.35"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780578441627&hs.x=29&hs.y=25","price":"11.12"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=9167847&isbn_id=12190524","price":"15.19"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/naval-engineering-the-principles-of-fire-protection_jr-jack-hopson/22683118/item/#edition=24237814&idiq=33764511","price":"14.59"}
+  }

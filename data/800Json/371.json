@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/WorldlyPhilosophersEconomicThinkersSeventh/dp/068486214X/ref=sr_1_27?dchild=1&qid=1628536773&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=127","price":"12.95"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234128899149?epid=20038567854&hash=item36832b7c4d:g:o3oAAOSwXsdhEJQE","price":"19.70"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685","price":"10.68"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/worldlyphilosophersrobertlheilbroner/1100400843?ean=9780684862149","price":"16.99"},
+      "Taret" : {"link":"https://www.target.com/p/theworldlyphilosophers7theditionbyrobertlheilbronerpaperback//A11340057#lnk=sametab","price":"14.29"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30165039147&searchurl=kn%3D9780684862149%26sortby%3D17&cm_sp=snippet_srp2_title26","price":"11.01"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780684862149?title=the_worldly_philosophers_the_lives_times_and_ideas_of_the_great_economic_thinkers_newly_revised_seventh_edition","price":"18.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=65061&isbn_id=193188","price":"18.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/theworldlyphilosophers_robertlheilbroner/249049/item/#edition=2278610&idiq=883672","price":"18.99"}
+  }

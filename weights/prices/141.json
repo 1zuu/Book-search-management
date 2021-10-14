@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/EMIFilterDesignRichardOzenbaugh/dp/1138074071/ref=sr_1_6?dchild=1&qid=1627654503&refinements=p_n_feature_browsebin%3A2656022011&rnid=13809&s=books&sr=16","price":"115.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313567522557?hash=item490214aefd:g:lY0AAOSw0BxhBw89","price":"99.23"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/emifilterdesignrichardleeozenbaugh/1136653823?ean=9781138074071","price":"115.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30736666118&searchurl=kn%3D9781138074071%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"108.24"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5674310&isbn_id=9495958","price":"115.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/emifilterdesign_richardleeozenbaugh/364675/item/#edition=56941749"}
+  }

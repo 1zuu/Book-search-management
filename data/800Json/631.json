@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Cisco-Software-Defined-Access-Networking-Technology/dp/0136448380/ref=sr_1_58?dchild=1&qid=1629798266&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-58","price":"49.86"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114830788557?epid=21046388756&hash=item1abc72c7cd:g:TOsAAOSwqqpgszmx","price":"74.91"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/Software-Defined-Access--Networking-Technology--9780136448389"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/cisco-software-defined-access-srilatha-vemula/1136551431?ean=9780136448389","price":"59.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30716273046&searchurl=kn%3D9780136448389%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1","price":"42.45"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=8140305&isbn_id=11135229","price":"59.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/cisco-software-defined-access_srilatha-vemula_roddie-hasan/25857279/item/#edition=27623425"}
+  }

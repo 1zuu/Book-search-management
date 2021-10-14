@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Handbook-Neurosurgery-Mark-S-Greenberg/dp/1684201373/ref=sr_1_37?dchild=1&qid=1629866712&refinements=p_n_feature_browse-bin%3A2656022011&rnid=265542&s=books&sr=1-37","price":"90.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234165502834?epid=4038477554&hash=item36855a0372:g:Py4AAOSwcxFhLVsM","price":"169.66"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=%20%209781684201372"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/handbook-of-neurosurgery-mark-s-greenberg/1133092978?ean=9781684201372","price":"124.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30503617334&searchurl=kn%3D9781684201372%26sortby%3D17&cm_sp=snippet-_-srp1-_-title8","price":"115.42"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=++9781684201372&hs.x=28&hs.y=15","price":"110.54"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=8010289&isbn_id=11013850","price":"124.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/handbook-of-neurosurgery_mark-s-greenberg/511887/item/#edition=24586024&idiq=35856407","price":"119.91"}
+  }

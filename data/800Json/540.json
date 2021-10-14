@@ -1,0 +1,11 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Cisco-Networks-Engineers-Handbook-Switching/dp/1484266714/ref=sr_1_54?dchild=1&qid=1629798266&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-54","price":"74.00"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781484266717","price":"116.13"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/cisco-networks-chris-carthern/1122196464?ean=9781484266717","price":"99.99"},
+      "Taret" : {"link":"https://www.target.com/p/cisco-networks-2nd-edition-by-chris-carthern-william-wilson-noel-rivera-paperback/-/A-83850024#lnk=sametab","price":"74.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30931948444&searchurl=kn%3D9781484266717%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2","price":"78.03"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781484266717&hs.x=20&hs.y=10","price":"69.59"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781484266717?title=cisco_networks_engineers_handbook_of_routing_switching_and_security_with_ios_nxos_and_asa","price":"99.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=225542310&isbn_id=27221440","price":"94.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/cisco-networks-engineers-handbook-of-routing-switching-and-security-with-ios-nx-os-and-asa_william-wilson_chris-carthern/27210846/item/#edition=58461560&idiq=45483616","price":"82.09"}
+  }

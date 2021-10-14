@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/LegalGuideStartingRunningBusiness/dp/1413328601/ref=pd_sbs_7/14218346530643357?pd_rd_w=q4v5o&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=0SPCF9V2C8YX8HCYTXCK&pd_rd_r=980c7c9712424b738970976391217156&pd_rd_wg=DlWrP&pd_rd_i=1413328601&psc=1","price":"31.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234005472113?hash=item367bd02371:g:mPsAAOSwO0dgmzPY","price":"40.05"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781413328608","price":"50.49"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/legalguideforstartingrunningasmallbusinessfredssteingoldattorney/1116883300?ean=9781413328608","price":"39.99"},
+      "Taret" : {"link":"https://www.target.com/p/legalguideforstartingrunningasmallbusiness17theditionbyfredssteingolddavidsteingoldpaperback//A83209881#lnk=sametab","price":"31.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30901366090&searchurl=kn%3D9781413328608%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"26.55"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781413328608&hs.x=18&hs.y=27","price":"27.83"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781413328608?title=legal_guide_for_starting__running_a_small_business","price":"39.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=271721660&isbn_id=26724656","price":"35.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/legalguideforstartingrunningasmallbusiness/26788183/item/#edition=43384731&idiq=44616070","price":"33.93"}
+  }

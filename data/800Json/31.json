@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/HighPerformanceBrowserNetworkingperformance/dp/1449344763?ref_=Oct_s9_apbd_obs_hd_bw_byK&pf_rd_r=WEHKQK4BGX7PZ8NYXYF1&pf_rd_p=2f0d554d40b853d39c99027e425fe545&pf_rd_s=merchandisedsearch10&pf_rd_t=BROWSE&pf_rd_i=3740","price":"40.06"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114174960336?hash=item1a955ba2d0:g:GUUAAOSwq8Feirqd","price":"53.83"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/CryptocurrencyTradingStrategiesForBeginners50TipsSecretsForDayTradingBitcoinAltCoinsMarketPsychologyTechnicalAnalysisMakingA9781801349499","price":"63.81"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/highperformancebrowsernetworkingilyagrigorik/1114260992?ean=9781449344764","price":"44.99"},
+      "Taret" : {"link":"https://www.target.com/p/highperformancebrowsernetworkingbyilyagrigorikpaperback//A82945073#lnk=sametab","price":"40.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30946678735&searchurl=kn%3D9781449344764%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"21.59"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781449344764&hs.x=53&hs.y=12","price":"37.42"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781449344764?title=high_performance_browser_networking_what_every_web_developer_should_know_about_networking_and_web_performance","price":"44.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3042259&isbn_id=6607363","price":"44.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/highperformancebrowsernetworking_ilyagrigorik/9063033/item/#edition=8365401&idiq=10541719","price":"39.92"}
+  }

@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/CivilLitigationPeggyKerley/dp/1337798835/ref=sr_1_52?dchild=1&qid=1628609648&refinements=p_n_feature_browsebin%3A2656022011&rnid=10777&s=books&sr=152","price":"92.67"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/143952948754?epid=19038497768&hash=item218443ae12:g:iEsAAOSwEJ9gLuBI","price":"154.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781337798839"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/civillitigationpeggykerley/1131090414?ean=9781337798839","price":"199.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30776334567&searchurl=kn%3D9781337798839%26sortby%3D17&cm_sp=snippet_srp1_title5","price":"102.82"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4700720&isbn_id=10635485","price":"199.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/civillitigationwestlegalstudies_paulasukys_joannebankerhames/315824/item/#edition=9616709&idiq=14291351","price":"199.95"}
+  }

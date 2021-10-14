@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/HumongousBookCalculusProblemsBooks/dp/1592575129/ref=pd_sbs_2/14218346530643357?pd_rd_w=NqsKv&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=NGT2GXTVSXA3GBYMDNDZ&pd_rd_r=0fa8edca449b4356ae27561850be81e0&pd_rd_wg=RDk22&pd_rd_i=1592575129&psc=1","price":"16.42"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114900672663?epid=189902749&hash=item1ac09d2097:g:wfAAAOSwfcRgA0Y","price":"28.17"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781592575121","price":"17.97"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/humongousbookofcalculusproblemswmichaelkelley/1101549913?ean=9781592575121","price":"22.99"},
+      "Taret" : {"link":"https://www.target.com/p/thehumongousbookofcalculusproblemshumongousbooksbywmichaelkelleypaperback//A11786311#lnk=sametab","price":"16.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30681269955&searchurl=kn%3D9781592575121%26sortby%3D17&cm_sp=snippet_srp1_title27","price":"11.80"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781592575121?title=the_humongous_book_of_calculus_problems","price":"22.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=1316382&isbn_id=3530786","price":"21.84"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thehumongousbookofcalculusproblemsforpeoplewhodontspeakmath_wmichaelkelley/274327/item/#edition=5347592&idiq=10311918","price":"20.17"}
+  }

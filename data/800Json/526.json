@@ -1,0 +1,9 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Managing-Business-Ethics-Straight-about/dp/1119711002/ref=sr_1_20?dchild=1&qid=1629794552&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=2675&s=books&sr=1-20","price":"116.70"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781119711001","price":"201.50"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/managing-business-ethics-linda-k-trevino/1116640688?ean=9781119711001","price":"125.75"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30908725893&searchurl=kn%3D9781119711001%26sortby%3D17&cm_sp=snippet-_-srp1-_-title5","price":"151.98"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781119711001&hs.x=33&hs.y=8","price":"159.67"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=176730234&isbn_id=26670133","price":"168.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/managing-business-ethics--straight-talk-about-how-to-do-it-right/26739905/item/#edition=40526587&idiq=44378848","price":"164.63"}
+  }

@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Suture-like-Surgeon-Techniques-Departments/dp/1698150857/ref=sr_1_5?dchild=1&qid=1629866047&refinements=p_n_feature_browse-bin%3A2656022011&rnid=265542&s=books&sr=1-5","price":"11.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233969640127?epid=12038562166&hash=item3679ad62bf:g:6sMAAOSwd3NgeexC","price":"16.68"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781698150857","price":"19.66"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/suture-like-a-surgeon-s-meloni-md/1136118308?ean=9781698150857","price":"11.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30914190030&searchurl=kn%3D9781698150857%26sortby%3D17&cm_sp=snippet-_-srp1-_-title4","price":"14.65"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781698150857&hs.x=44&hs.y=16","price":"9.49"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781698150857?title=","price":"11.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=55906715&isbn_id=23295472","price":"11.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/suture-like-a-surgeon-a-doctors-guide-to-surgical-knots-and-suturing-techniques-used-in-the-departments-of-surgery-emergency-medicine-and-family-medicine/24641463/item/#edition=26336914"}
+  }

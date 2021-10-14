@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Network-Maintenance-Troubleshooting-Guide-Solutions/dp/0321647416/ref=sr_1_94?dchild=1&qid=1629812829&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-94","price":"39.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/153924234354?epid=72935261&hash=item23d6996c72:g:2rcAAOSwfXtetdv5","price":"15.00"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/Software-Defined-Access--Networking-Technology--9780136448389","price":"17.46"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30665836665&searchurl=kn%3D9780321647412%26sortby%3D17&cm_sp=snippet-_-srp1-_-title16","price":"37.88"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=2091532&isbn_id=4788135","price":"39.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/network-maintenance-and-troubleshooting-guide-field-tested-solutions-for-everyday-problems-2nd-edition_neal-allen/476135/item/#edition=7090591&idiq=6782453","price":"39.99"}
+  }

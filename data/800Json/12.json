@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/MachineLearningAbsoluteBeginnersIntroduction/dp/1549617214/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1623594421&sr=12","price":"94.05"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/154406841613?epid=13038856135&hash=item23f35d6d0d:g:y8IAAOSwVQZgHUyv","price":"79.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/MorganandMikhailsClinicalAnesthesiology6thedition9781259834424","price":"150.66"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/morganandmikhailsclinicalanesthesiology6theditionjohnfbutterworth/1129759894?ean=9781259834424","price":"94.05"},
+      "Taret" : {"link":"https://www.target.com/p/morganandmikhailsclinicalanesthesiology6theditionbyjohnbutterworthjohnwasnickdavidmackeypaperback//A80825381#lnk=sametab","price":"99.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30127946326&searchurl=kn%3DMorgan%2Band%2BMikhail%2527s%2BClinical%2BAnesthesiology%252C%2B6th%2Bedition%26sortby%3D17&cm_sp=snippet_srp1_title4","price":"98.76"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=Morgan+and+Mikhail%27s+Clinical+Anesthesiology%2C+6th+edition&hs.x=0&hs.y=0#\\\\","price":"94.09"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5713050&isbn_id=10355370","price":"99.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/morganandmikhailsclinicalanesthesiology6thedition_johnfbutterworth_johndwasnick/18615496/?resultid=e4f6794bfc2b4f4db5411a9814e00542#edition=19818315&idiq=28805127","price":"93.47"}
+  }

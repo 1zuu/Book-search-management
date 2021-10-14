@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/ProgrammableLogicControllersFrankPetruzella/dp/0073373842/ref=sr_1_2?dchild=1&qid=1628505408&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=12","price":"152.47"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233307455117?epid=219255845&hash=item3652353e8d:g:SagAAOSwpR1dQ9pU","price":"22.40"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/programmablelogiccontrollersfrankpetruzella/1124271362?ean=9780073373843","price":"162.48"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30868860878&searchurl=kn%3D9780073373843%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"39.96"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3969307&isbn_id=8284337","price":"188.25"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/programmablelogiccontrollers_frankdpetruzella/317613/item/#edition=13458489"}
+  }

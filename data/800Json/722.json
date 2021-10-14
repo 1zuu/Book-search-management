@@ -1,0 +1,7 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Principles-Operations-Management-Sustainability-Supply/dp/0134181980/ref=sr_1_21?dchild=1&qid=1629797016&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=2675&s=books&sr=1-21","price":"213.59"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/303855668478?epid=219318458&hash=item46bf358cfe:g:BSAAAOSw~AVYrNuI","price":"175.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30776187128&searchurl=kn%3D9780134181981%26sortby%3D17&cm_sp=snippet-_-srp1-_-title16","price":"263.59"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5032818&isbn_id=8449574","price":"286.65"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/principles-of-operations-management-sustainability-and-supply-chain-management_jay-h-heizer_barry-render/13865795/item/#edition=13504330"}
+  }

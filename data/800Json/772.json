@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Manual-Perioperative-Adult-Cardiac-Surgery/dp/1119582555/ref=sr_1_20?dchild=1&qid=1629866442&refinements=p_n_feature_browse-bin%3A2656022011&rnid=265542&s=books&sr=1-20","price":"67.96"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233971775259?hash=item3679cdf71b:g:oaUAAOSwyfRge5zU","price":"114.03"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=%20%209781119582557","price":"110.46"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/manual-of-perioperative-care-in-adult-cardiac-surgery-robert-m-bojar/1116795976?ean=9781119582557","price":"80.00"},
+      "Taret" : {"link":"https://www.target.com/p/manual-of-perioperative-care-in-adult-cardiac-surgery-6th-edition-by-robert-m-bojar-paperback/-/A-82234531#lnk=sametab","price":"67.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30883639457&searchurl=kn%3D9781119582557%26sortby%3D17&cm_sp=snippet-_-srp1-_-title10","price":"85.68"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=++9781119582557&hs.x=24&hs.y=21","price":"71.81"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=192304826&isbn_id=26882055","price":"80.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/manual-of-perioperative-care-in-adult-cardiac-surgery/26855691/item/#edition=54519000&idiq=43762641","price":"77.50"}
+  }

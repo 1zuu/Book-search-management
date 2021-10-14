@@ -1,0 +1,11 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Introducing-Comparative-Politics-Concepts-Context/dp/1544374453/ref=sr_1_4?dchild=1&qid=1629870452&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-4","price":"76.31"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/284438939116?epid=24038379793&hash=item4239e1c5ec:g:RwsAAOSwMbVhIVkO","price":"150.00"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781544374451","price":"140.85"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/introducing-comparative-politics-stephen-orvis/1135150856?ean=9781544374451","price":"100.00"},
+      "Taret" : {"link":"https://www.target.com/p/introducing-comparative-politics-5th-edition-by-stephen-walter-orvis-carol-ann-drogus-paperback/-/A-80824068#lnk=sametab","price":"100.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30568857102&searchurl=kn%3D9781544374451%26sortby%3D17&cm_sp=snippet-_-srp1-_-title8","price":"97.94"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781544374451&hs.x=18&hs.y=0","price":"100.32"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=8064114&isbn_id=11097058","price":"100.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/introducing-comparative-politics--concepts-and-cases-in-context/24642273/item/#edition=26333541"}
+  }

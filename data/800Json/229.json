@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/BlackDeckerCompleteGuidePlumbing/dp/0760362815/ref=pd_sbs_6/14218346530643357?pd_rd_w=yaK0q&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=ZFD1HSZW849ERQ8JAQS0&pd_rd_r=2574bd0788464495aab6866f6607cc01&pd_rd_wg=1ToGR&pd_rd_i=0760362815&psc=1","price":"13.59"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/194223008678?epid=19038694083&hash=item2d3897eba6:g:UwEAAOSw89Bg3Ucm","price":"21.12"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780760362815","price":"41.00"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/blackdeckerthecompleteguidetoplumbingupdated7theditioncoolspringspress/1133275102?ean=9780760362815","price":"22.49"},
+      "Taret" : {"link":"https://www.target.com/p/blackdeckerthecompleteguidetoplumbingupdated7theditionblackdeckercompleteguidetobyeditorsofcoolspringspress//A54246160#lnk=sametab","price":"13.59"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30776467263&searchurl=kn%3D9780760362815%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"20.00"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780760362815&hs.x=34&hs.y=17","price":"15.50"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780760362815?title=black__decker_the_complete_guide_to_plumbing_updated_7th_edition_completely_updated_to_current_codes","price":"24.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4703492&isbn_id=10627338","price":"23.74"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/blackdeckerthecompleteguidetoplumbing_creativepublishinginternational_blackdecker/9755519/item/#edition=20977428&idiq=30903850","price":"21.58"}
+  }

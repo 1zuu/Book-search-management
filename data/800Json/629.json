@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Ultimate-Sales-Machine-Turbocharge-Relentless/dp/1591842158/ref=sr_1_7?dchild=1&qid=1629796362&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=2675&s=books&sr=1-7","price":"12.31"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114932534163?epid=189969299&hash=item1ac2834b93:g:PXYAAOSwQwVhFObz","price":"16.06"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781591842156","price":"22.16"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/ultimate-sales-machine-chet-holmes/1100538824?ean=9781591842156","price":"15.99"},
+      "Taret" : {"link":"https://www.target.com/p/the-ultimate-sales-machine-by-chet-holmes-paperback/-/A-54472505#lnk=sametab","price":"12.39"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30347297869&searchurl=kn%3D9781591842156%26sortby%3D17&cm_sp=snippet-_-srp1-_-title26","price":"14.29"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781591842156&hs.x=35&hs.y=16","price":"11.82"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781591842156?title=the_ultimate_sales_machine_turbocharge_your_business_with_relentless_focus_on_12_key_strategies","price":"18.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=1710896&isbn_id=4055136","price":"17.10"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/ultimate-sales-machine_chet-holmes/255823/item/#edition=5197974&idiq=10378809","price":"16.19"}
+  }

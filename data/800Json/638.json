@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Network-Project-HP-Switch-Ricci/dp/153529387X/ref=sr_1_101?dchild=1&qid=1629813156&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-101","price":"14.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/144067048732?epid=20038781982&hash=item218b10b51c:g:9jkAAOSwcyRgvXve","price":"29.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/Software-Defined-Access--Networking-Technology--9780136448389","price":"24.87"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/network-project-with-hp-switch-b-t-ricci/1124219166?ean=9781535293877","price":"14.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30277329908&searchurl=kn%3D9781535293877%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1","price":"16.85"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781535293877&hs.x=22&hs.y=17","price":"11.87"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781535293877?title=network_project_with_hp_switch","price":"14.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=6844498&isbn_id=8999643","price":"14.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/network-project-with-hp-switch_b-t-ricci/14384877/item/#edition=56990694"}
+  }

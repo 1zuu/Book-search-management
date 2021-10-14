@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Wills-Eye-Manual-Emergency-Diagnosis/dp/1496318838/ref=sr_1_48?dchild=1&qid=1629866712&refinements=p_n_feature_browse-bin%3A2656022011&rnid=265542&s=books&sr=1-48","price":"46.89"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/324672373515?epid=219200047&hash=item4b97fb430b:g:h38AAOSwp2pf~eXk","price":"115.00"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=%20%209781496318831"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/the-wills-eye-manual-nika-bagheri-md/1126190990?ean=9781496318831","price":"99.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30951518966&searchurl=kn%3D9781496318831%26sortby%3D17&cm_sp=snippet-_-srp1-_-title3","price":"45.65"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=8287842","price":"99.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/the-wills-eye-manual-office-and-emergency-room-diagnosis-and-treatment-of-eye-disease_charles-calvo_brynn-wajda/13888679/item/#edition=14284723"}
+  }

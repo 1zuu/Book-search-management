@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/IntroductionSouthAsianPolitics/dp/0415822793/ref=pd_sim_1/14218346530643357?pd_rd_w=pLCmr&pf_rd_p=d9946c66b1cb486e8910b5930c8935b6&pf_rd_r=P5SM0WMCWVK6Y126CNVB&pd_rd_r=7319a6d054284d129fedbf7810ebf6a8&pd_rd_wg=AoFNh&pd_rd_i=0415822793&psc=1","price":"5.16"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/184995307817?epid=168571815&hash=item2b12946129:g:9sYAAOSws8xhFXA5","price":"70.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780415822794","price":"12.77"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/anintroductiontosouthasianpoliticsneildevotta/1126171843?ean=9780415822794","price":"52.74"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30812886477&searchurl=kn%3D9780415822794%26sortby%3D17&cm_sp=snippet_srp1_title12","price":"43.24"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5182860&isbn_id=6912980","price":"68.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/anintroductiontosouthasianpolitics/14122946/item/#edition=53619334"}
+  }

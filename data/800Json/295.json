@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/CommunistManifestoKarlMarx/dp/1684225019?ref_=Oct_d_obs_d_5571274011&pd_rd_w=yx2FM&pf_rd_p=c4f91ca9cb414f3793039f57e6d18b1e&pf_rd_r=T519MNNZ8GRTP7PQ4RVG&pd_rd_r=36c6c3db8ad243ba88c04fe03a9259bf&pd_rd_wg=OLXRI&pd_rd_i=1684225019","price":"2.50"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/thecommunistmanifestokarlmarx/1116742016?ean=9781684225019","price":"4.99"},
+      "Taret" : {"link":"https://www.target.com/p/thecommunistmanifestobykarlmarxfriedrichengelspaperback//A83134578#lnk=sametab","price":"4.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30870736415&searchurl=kn%3D9781684225019%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"7.18"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=217296727&isbn_id=27388319","price":"4.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thecommunistmanifestobykarlmarxfriedrichengels/255628/item/#edition=58583864&idiq=43378569","price":"9.54"}
+  }

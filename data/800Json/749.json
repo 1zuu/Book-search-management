@@ -1,0 +1,7 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Economics-Making-Sense-Modern-Economy/dp/1610396154/ref=sr_1_166?dchild=1&keywords=economics&qid=1629819759&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-166","price":"21.09"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/184980811055?epid=210819704&hash=item2b11b72d2f:g:muoAAOSw30phCdw6","price":"33.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30493799516&searchurl=kn%3D9781610396158%26sortby%3D17&cm_sp=snippet-_-srp1-_-title12","price":"15.30"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781610396158?title=economics_making_sense_of_the_modern_economy"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3796684&isbn_id=7768028","price":"18.99"}
+  }

@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Introduction-Statistics-Active-Learning-Approach/dp/1544375093/ref=sr_1_50?dchild=1&keywords=statistics&qid=1629874918&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-50","price":"117.02"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/294362710543?epid=23046416633&hash=item448962820f:g:wpcAAOSw62JhKfav","price":"97.45"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/an-introduction-to-statistics-kieth-a-carlson/1124484886?ean=9781544375090","price":"100.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30905539923&searchurl=kn%3D9781544375090%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1","price":"83.59"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=27500894","price":"100.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/an-introduction-to-statistics--an-active-learning-approach/27124513/item/#edition=58071534"}
+  }

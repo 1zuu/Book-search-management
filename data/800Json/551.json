@@ -1,0 +1,10 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Outboard-Motors-Maintenance-Repair-Manual/dp/1574092359/ref=sr_1_5?dchild=1&qid=1629824078&refinements=p_n_feature_browse-bin%3A2656022011%2Cp_n_feature_nine_browse-bin%3A3291437011&rnid=173515&s=books&sr=1-5","price":"25.46"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234169526674?epid=53741737&hash=item3685976992:g:vNoAAOSwCrZhMSXf","price":"27.59"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781574092356","price":"26.37"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/outboard-motors-maintenance-and-repair-manual-jean-luc-pallas/1007908040?ean=9781574092356","price":"27.50"},
+      "Taret" : {"link":"https://www.target.com/p/outboard-motors-maintenance-and-repair-manual-by-jean-luc-pallas-paperback/-/A-81935994#lnk=sametab","price":"25.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30308927946&searchurl=ds%3D20%26kn%3D9781574092356%26sortby%3D17&cm_sp=snippet-_-srp1-_-title3","price":"19.57"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=1210770&isbn_id=3449179","price":"27.50"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/outboard-motors-maintenance-and-repair-manual_jean-luc-pallas/970613/item/#edition=7061521&idiq=2283145","price":"18.99"}
+  }

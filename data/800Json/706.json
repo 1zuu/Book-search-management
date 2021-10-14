@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Programming-Problem-Solving-C-Comprehensive/dp/1284076598/ref=sr_1_117?dchild=1&qid=1629711550&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-117","price":"88.27"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/194261875384?epid=208736530&hash=item2d3ae8fab8:g:r0kAAOSwSxxhAu~2","price":"124.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781284076592"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/programming-and-problem-solving-with-c-nell-dale/1138128498?ean=9781284076592","price":"179.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30862909155&searchurl=kn%3D9781284076592%26sortby%3D17&cm_sp=snippet-_-srp1-_-title4","price":"86.92"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3749495&isbn_id=7635194","price":"208.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/programming-and-problem-solving-with-c-comprehensive/9288675/item/#edition=10950562"}
+  }

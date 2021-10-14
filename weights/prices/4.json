@@ -1,0 +1,15 @@
+{
+ 'Amazon': {'link': 'https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391/ref=sr_1_fkmr0_1?dchild=1&keywords=Data+Science+on+AWS%3A+Implementing+End-to-End%2C+Continuous+AI+and+Machine+Learning+Pipelines+1st+Edition&qid=1622297019&s=books&sr=1-1-fkmr0',
+			  'price': '51.29'},
+ 'Ebay': {'link': 'https://www.ebay.com/itm/164869401384?epid=4045803157&hash=item2662fb6b28:g:gZsAAOSwO0dgoVOR',
+			  'price':'74.99'},
+ 'BetterWorldBooks': {'link': 'https://www.betterworldbooks.com/product/detail/Data-Science-on-AWS--Implementing-End-to-End--Continuous-AI-and-Machine-Learning-Pipelines-9781492079392',
+			  'price':'64.49'},
+ 'Bernes&Nobel': {'link': 'https://www.barnesandnoble.com/w/data-science-on-aws-chris-fregly/1137894249?ean=9781492079392',
+			  'price': '69.99'},
+ 'AbeBooks': {'link': 'https://www.abebooks.com/servlet/BookDetailsPL?bi=30894348754&searchurl=an%3DFREGLY%252C%2BCHRIS%253B%2BBARTH%252C%2BANTJE%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2',
+			  'price': '42.39'},
+ 'alibris': {'link': 'https://www.alibris.com/search/books/isbn/9781492079392?matches=9',
+			  'price': '48.71'}
+
+}

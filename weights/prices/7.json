@@ -1,0 +1,19 @@
+{
+ 'Amazon': {'link': 'https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/149192912X/ref=sr_1_fkmr0_1?dchild=1&keywords=Site+Reliability+Engineering%3A+How+Google+Runs+Production+Systems+1st+Edition&qid=1622299807&s=books&sr=1-1-fkmr0',
+			  'price': '38.53'},
+ 'Ebay': {'link': 'https://www.ebay.com/itm/174773185000?epid=20038385677&hash=item28b14b29e8:g:2n4AAOSw8gFgo9Z7',
+			  'price':'4.49'},
+ 'BetterWorldBooks': {'link': 'https://www.betterworldbooks.com/product/detail/Site-Reliability-Engineering--How-Google-Runs-Production-Systems-9781491929124',
+			  'price':'32.62'},
+ 'Bernes&Nobel': {'link': 'https://www.barnesandnoble.com/w/site-reliability-engineering-niall-richard-murphy/1123661416?ean=9781491929124',
+			  'price': '54.99'},
+ 'Target': {'link': 'https://www.target.com/p/site-reliability-engineering-by-niall-richard-murphy-betsy-beyer-chris-jones-jennifer-petoff-paperback/-/A-83304030#lnk=sametab',
+			  'price': '54.99'},
+ 'AbeBooks': {'link': 'https://www.abebooks.com/servlet/BookDetailsPL?bi=19066127447&searchurl=kn%3DSite%2BReliability%2BEngineering%253A%2BHow%2BGoogle%2BRuns%2BProduction%2BSystems%2B1st%2BEdition%26sortby%3D17&cm_sp=snippet-_-srp1-_-image2',
+			  'price': '57.42'},
+ 'alibris': {'link': 'https://www.alibris.com/search/books/isbn/9781491929124?matches=34',
+			  'price': '30.68'},
+ 'Magers&Quinn': {'link': 'https://www.magersandquinn.com/product_info?products_id=4031483&isbn_id=8398190',
+			  'price': '52.24'}
+
+}

@@ -1,0 +1,12 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/BlockchainBubbleRevolutionPresentCryptocurrencies/dp/0578528150?ref_=Oct_s9_apbd_obs_hd_bw_byK&pf_rd_r=WEHKQK4BGX7PZ8NYXYF1&pf_rd_p=2f0d554d40b853d39c99027e425fe545&pf_rd_s=merchandisedsearch10&pf_rd_t=BROWSE&pf_rd_i=3740","price":"36.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114853737571?hash=item1abdd0f463:g:06oAAOSwIdtgylky","price":"45.98"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781119689010","price":"46.24"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/networkingallinonefordummiesdouglowe/1100295928?ean=9781119689010","price":"44.99"},
+      "Taret" : {"link":"https://www.target.com/p/networkingallinonefordummies8theditionbydouglowepaperback//A81623577#lnk=sametab","price":"36.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30914807545&searchurl=kn%3D9781119689010%26sortby%3D17&cm_sp=snippet_srp1_title3","price":"36.50"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781119689010&hs.x=41&hs.y=4","price":"31.31"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781119689010?title=networking_allinone_for_dummies","price":"44.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=273878185&isbn_id=26882076","price":"40.49"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/networkingallinonefordummies/26882930/item/#edition=57279233&idiq=44670046","price":"38.01"}
+  }

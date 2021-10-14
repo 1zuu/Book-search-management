@@ -1,0 +1,6 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/OutlineBasicStatisticsDictionaryMathematics/dp/048647769X/ref=sr_1_11?dchild=1&keywords=statistics+books&qid=1628621668&s=books&sr=111","price":"11.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780486477695","price":"15.72"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30776475026&searchurl=kn%3D9780486477695%26sortby%3D17&cm_sp=snippet_srp1_title5","price":"17.32"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=2220379&isbn_id=5154557","price":"11.35"}
+  }

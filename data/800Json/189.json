@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/StatisticalModelsPracticeDavidFreedman/dp/0521743850/ref=pd_sbs_3/14218346530643357?pd_rd_w=eedE0&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=2MTD6F9GSXZC5N49BP3K&pd_rd_r=f74f7f8dcf124ab7a26dadf3c53e66e3&pd_rd_wg=2SmkS&pd_rd_i=0521743850&psc=1","price":"56.25"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234013397326?epid=72684850&hash=item367c49114e:g:fbsAAOSwVatgotI8","price":"78.10"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780521743853","price":"78.11"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/statisticalmodelsdavidfreedman/1100370660?ean=9780521743853","price":"58.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30853540929&cm_sp=SEARCHREC_WIDGETL_BDPF&searchurl=kn%3D9780521743853%26sortby%3D17","price":"74.32"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780521743853&hs.x=36&hs.y=19","price":"49.75"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780521743853?title=statistical_models_theory_and_practice_revised_edition"}
+  }

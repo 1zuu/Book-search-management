@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/MindhunterInsideEliteSerialCrime/dp/1501191969/ref=sr_1_3?dchild=1&qid=1627664835&refinements=p_n_feature_browsebin%3A2656022011&rnid=10777&s=books&sr=13","price":"10.42"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/283946995311?epid=239601542&hash=item421c8f4e6f:g:JUIAAOSwixNf~bC1","price":"16.30"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781501191961","price":"13.27"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/mindhunterjohnedouglas/1003277605?ean=9781501191961","price":"15.99"},
+      "Taret" : {"link":"https://www.target.com/p/mindhunterbyjohnedouglasmarkolshakerpaperback//A53001712#lnk=sametab","price":"10.79"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30680768400&cm_sp=Searchmod_NullResults_BDP","price":"16.30"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781501191961&hs.x=45&hs.y=10","price":"12.15"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781501191961?title=mindhunter_inside_the_fbis_elite_serial_crime_unit","price":"16.19"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4470869&isbn_id=9864594","price":"17.09"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/mindhunterinsidethefbiseliteserialcrimeunit_johnedouglas_markolshaker/246359/item/#edition=19263496&idiq=24926618","price":"16.01"}
+  }

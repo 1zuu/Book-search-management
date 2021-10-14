@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/WriteBusinessPlanMikeMcKeever/dp/1413325459/ref=pd_sbs_4/14218346530643357?pd_rd_w=ih3ax&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=8YW882VHFWM6X9A2QBYF&pd_rd_r=d5f4173f8b314a01a5da70009284288e&pd_rd_wg=pAWSu&pd_rd_i=1413325459&psc=1","price":"25.08"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/143860592290?epid=3026186409&hash=item217ec26ea2:g:P4kAAOSw11fvyJX","price":"20.40"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781413325454","price":"31.72"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/howtowriteabusinessplanmikemckeever/1102539152?ean=9781413325454","price":"34.99"},
+      "Taret" : {"link":"https://www.target.com/p/howtowriteabusinessplan14theditionbymikepmckeeverpaperback//A82937930#lnk=sametab","price":"25.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30511848648&searchurl=kn%3D9781413325454%26sortby%3D17&cm_sp=snippet_srp1_title3","price":"28.84"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781413325454&hs.x=20&hs.y=28","price":"22.33"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781413325454?title=how_to_write_a_business_plan","price":"34.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4605563&isbn_id=10419715","price":"33.24"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/howtowriteabusinessplan_mikepmckeever/717301/item/#edition=20048277&idiq=44851128","price":"24.09"}
+  }

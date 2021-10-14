@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/NetworkingAllOneDummiesDoug/dp/1119471605/ref=pd_sbs_1/14218346530643357?pd_rd_w=ZfHQF&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=FEAMYRNMYXWHZKDD187G&pd_rd_r=2ec328fb1552481d9cc1fca986754830&pd_rd_wg=8qXYl&pd_rd_i=1119471605&psc=1","price":"38.27"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/164535752432?epid=239723949&hash=item264f1856f0:g:MBMAAOSwuRpf~5fD","price":"31.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781119471608"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/networkingallinonefordummiesdouglowe/1100295928?ean=9781119471608","price":"39.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30681473481&searchurl=kn%3D9781119471608%26sortby%3D17&cm_sp=snippet_srp1_title8","price":"31.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=9911567","price":"39.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/networkingallinonefordummies_douglowe/601723/item/#edition=19809565&idiq=32990406","price":"18.59"}
+  }

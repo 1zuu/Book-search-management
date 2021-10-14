@@ -1,0 +1,6 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Solutions-Probability-Statistics-Engineering-Sciences/dp/1305260597/ref=sr_1_28?dchild=1&keywords=statistics&qid=1629872568&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-28","price":"60.48"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/student-solutions-manual-for-devores-probability-and-statistics-for-engineering-and-the-sciences-9th-jay-l-devore/1124314633?ean=9781305260597","price":"103.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30785401915&searchurl=kn%3D9781305260597%26sortby%3D17&cm_sp=snippet-_-srp1-_-title9","price":"107.77"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5719538&isbn_id=7383975","price":"103.95"}
+  }

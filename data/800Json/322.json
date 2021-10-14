@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/DevelopmentasFreedomAmartyaSen/dp/0385720270/ref=sr_1_54?dchild=1&qid=1628363380&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=154","price":"12.79"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234031418493?epid=1653133&hash=item367d5c0c7d:g:0DcAAOSwACNgsyf3","price":"18.44"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685","price":"10.72"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/developmentasfreedomamartyasen/1100572882?ean=9780385720274","price":"17.00"},
+      "Taret" : {"link":"https://www.target.com/p/developmentasfreedombyamartyasenpaperback//A77030310#lnk=sametab","price":"12.79"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=22381389791&searchurl=kn%3D9780385720274%26sortby%3D17&cm_sp=snippet_srp2_title22","price":"9.43"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780385720274&hs.x=22&hs.y=27","price":"11.83"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780385720274?title=development_as_freedom","price":"17.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=2954044&isbn_id=239648","price":"17.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/developmentasfreedom_amartyasen/250148/item/#edition=3551010&idiq=10220258","price":"15.24"}
+  }

@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/CompanionAppliedStatisticsBivariateTechniques/dp/1071806319/ref=pd_sbs_4/14218346530643357?pd_rd_w=bzjhz&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=W70HV0HB9WQPZ8KZ6P18&pd_rd_r=514e4b779b2945f285f954d6a35757a2&pd_rd_wg=SF3DI&pd_rd_i=1071806319&psc=1","price":"45.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/203478571428?epid=2309903967&hash=item2f604499a4:g:qA8AAOSwKahf~pB4","price":"50.00"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781071806319"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/anrcompanionforappliedstatisticsidanneyrasco/1135278866?ean=9781071806319","price":"45.00"},
+      "Taret" : {"link":"https://www.target.com/p/anrcompanionforappliedstatisticsibydanneyrascopaperback//A80823644#lnk=sametab","price":"45.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30875692819&searchurl=kn%3D9781071806319%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"45.30"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=8069300&isbn_id=11106631","price":"45.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/anrcompanionforappliedstatisticsibasicbivariatetechniques/24896183/item/#edition=26601451"}
+  }

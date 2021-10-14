@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/SixNotSoEasyPiecesEinstein%C2%92sRelativity/dp/0465025269/ref=pd_vtp_3/14218346530643357?pd_rd_w=tZIX3&pf_rd_p=016e369791be4dc29533ef9350e7e73d&pf_rd_r=8R31FJKCZV8MFJ2N3V6P&pd_rd_r=ee752d262f784c3da1cc1a883d4cc5e1&pd_rd_wg=jQwF3&pd_rd_i=0465025269&psc=1","price":"10.79"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/294222252822?epid=99637945&hash=item4481034b16:g:lccAAOSwVo1gw5ir","price":"16.20"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780465025268","price":"19.69"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/sixnotsoeasypiecesrichardpfeynman/1100922923?ean=9780465025268","price":"15.99"},
+      "Taret" : {"link":"https://www.target.com/p/sixnotsoeasypieces4theditionbyrichardpfeynmanrobertbleightonmatthewsandspaperback//A77263282#lnk=sametab","price":"10.79"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30662404299&cm_sp=SEARCHREC_WIDGETL_BDPH&searchurl=kn%3D9780465025268%26sortby%3D17","price":"22.03"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780465025268&hs.x=40&hs.y=10","price":"11.12"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780465025268?title=six_notsoeasy_pieces_einsteins_relativity_symmetry_and_spacetime","price":"15.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=2460296&isbn_id=5764960","price":"15.19"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/sixnotsoeasypieceseinsteinsrelativitysymmetryandspacetime_richardpfeynman/278389/item/#edition=8086251&idiq=10239619","price":"14.47"}
+  }

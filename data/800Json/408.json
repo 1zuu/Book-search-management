@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/KroneckerProductsCalculusApplicationsMathematics/dp/0486824179/ref=sr_1_21?dchild=1&qid=1628590889&refinements=p_n_feature_browsebin%3A2656022011&rnid=13884&s=books&sr=121","price":"12.95"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/254700967737?epid=240292349&hash=item3b4d5c5739:g:ZPMAAOSwPZNfRw1Z","price":"14.00"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780486824178"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30821277651&searchurl=kn%3D9780486824178%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"16.63"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4606485&isbn_id=10013412","price":"12.30"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/kroneckerproductsandmatrixcalculuswithapplications_alexandergraham/9506650/item/#edition=34677684"}
+  }

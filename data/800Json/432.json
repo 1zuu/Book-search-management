@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/WinningAppealTessaDysart/dp/1601567243/ref=sr_1_37?dchild=1&qid=1628609431&refinements=p_n_feature_browsebin%3A2656022011&rnid=10777&s=books&sr=137","price":"56.68"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781601567246","price":"125.00"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/winningonappealtessaldysart/1131102345?ean=9781601567246","price":"86.00"},
+      "Taret" : {"link":"https://www.target.com/p/winningonappealnita3rdeditionbytessaldysartlesliehsouthwickruggerojaldisertpaperback//A80829827#lnk=sametab","price":"82.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30820889468&searchurl=kn%3D9781601567246%26sortby%3D17&cm_sp=snippet_srp1_title6","price":"101.86"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781601567246&hs.x=27&hs.y=10","price":"92.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=7179168&isbn_id=10836660","price":"82.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/winningonappealbetterbriefsandoralargument_tessadysart_lesliesouthwick/20346370/item/#edition=21674082&idiq=31406297","price":"89.35"}
+  }

@@ -1,0 +1,9 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Medicines-That-Kill-Hidden-Epidemic/dp/1414368852/ref=sr_1_39?dchild=1&qid=1629864388&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-39","price":"14.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/184981018611?epid=150516986&hash=item2b11ba57f3:g:j1gAAOSwnSthCgZ3","price":"28.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781414368856"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/medicines-that-kill-james-l-marcum/1112307756?ean=9781414368856","price":"14.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30820599708&searchurl=kn%3D9781414368856%26sortby%3D17&cm_sp=snippet-_-srp1-_-title4","price":"29.70"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=2986685&isbn_id=6447133","price":"14.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/medicines-that-kill-the-truth-about-the-hidden-epidemic_james-l-marcum/914587/item/#edition=7394954&idiq=19287387","price":"14.99"}
+  }

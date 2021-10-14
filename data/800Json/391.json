@@ -1,0 +1,7 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/LegislatorsRepresentationSriLankaDecentralization/dp/0367157926/ref=sr_1_3?dchild=1&keywords=sri+lankan+politics&qid=1628533605&s=books&sr=13","price":"26.23"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/legislatorsandrepresentationinsrilankarobertcoberst/1135348783?ean=9780367157920","price":"49.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30794798104&searchurl=kn%3D9780367157920%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"49.39"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=7952179&isbn_id=11082288","price":"49.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/legislatorsandrepresentationinsrilankathedecentralizationofdevelopmentplanning_robertcoberst/22067061/item/#edition=25949161"}
+  }

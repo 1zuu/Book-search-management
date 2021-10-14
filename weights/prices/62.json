@@ -1,0 +1,7 @@
+
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/StartUpInsiderBuildingBusiness/dp/1976803594/ref=pd_psc_dp_d_0_4/14218346530643357?pd_rd_w=tdKR3&pf_rd_p=83f4b62c18cd447aa1e88bdea771fe8a&pf_rd_r=8YW882VHFWM6X9A2QBYF&pd_rd_r=d5f4173f8b314a01a5da70009284288e&pd_rd_wg=pAWSu&pd_rd_i=1976803594&psc=1","price":"9.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/184937059782?epid=22038517501&hash=item2b0f1b95c6:g:XCcAAOSwzW5g62xV","price":"22.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30809299007&searchurl=kn%3D9781976803598%26sortby%3D17&cm_sp=snippet_srp1_title3","price":"28.74"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/startupinsidersecretsonbuildingyourbusinesscredit_hermandolcejr/20752138/item/#edition=22165437"}
+  }

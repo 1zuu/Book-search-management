@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/CompTIAFundamentalsGuideSecondFC0U61/dp/1260441873/ref=sr_1_9?dchild=1&qid=1628361210&refinements=p_n_feature_browsebin%3A2656022011&rnid=3652&s=books&sr=19","price":"46.10"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781260441871","price":"55.76"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/comptiaitfundamentalsallinoneexamguidesecondeditiondaniellachance/1129710759?ean=9781260441871","price":"50.00"},
+      "Taret" : {"link":"https://www.target.com/p/itfcomptiaitfundamentalsallinoneexamguidesecondeditionexamfc0u612ndeditionbydaniellachancescottjerniganmikemeyers//A80821361#lnk=sametab","price":"50.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30510740155&searchurl=kn%3D9781260441871%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"34.53"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781260441871&hs.x=17&hs.y=21","price":"34.80"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781260441871?title=itf_comptia_it_fundamentals_allinone_exam_guide_second_edition_exam_fc0u61","price":"50.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4778655&isbn_id=10769417","price":"47.50"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/comptiaitfundamentalsallinoneexamguidesecondeditionexamfc0u61_mikemeyers_scottjernigan/26629676/item/#edition=20902826&idiq=30614253","price":"41.51"}
+  }

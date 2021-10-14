@@ -1,0 +1,12 @@
+{"Amazon": {"link": "https://www.amazon.com/Bring-Your-Devices-Survival-Guide-ebook/dp/B00CC6EA9W/ref=sr_1_1?dchild=1&keywords=Bring+Your+Own+Devices+%28BYOD%29+Survival+Guide&qid=1622292826&s=books&sr=1-1",
+			  "price": "46.39"},
+ "Ebay": {"link": "https://www.ebay.com/itm/184848226722?epid=117213285&hash=item2b09d019a2:g:r1IAAOSw27FgpyNI",
+			  "price":"25.95"},
+ "Bernes&Nobel": {"link": "https://www.barnesandnoble.com/w/bring-your-own-devices-jessica-keyes/1135364876?ean=9781466565036",
+			  "price": "135.00"},
+ "AbeBooks": {"link": "https://www.abebooks.com/servlet/BookDetailsPL?bi=22607210005&searchurl=kn%3DBring%2BYour%2BOwn%2BDevices%2B%2528BYOD%2529%2BSurvival%2BGuide%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1",
+			  "price": "16.82"},
+ "Magers&Quinn": {"link": "https://www.magersandquinn.com/product_info?products_id=6073194&isbn_id=6360887",
+			  "price": "150.00"},
+ "thriftbooks" : {"link": "https://www.thriftbooks.com/w/bring-your-own-technology-managing-the-consumerization-of-it_jessica-keyes/14027301/?resultid=ce9d269a-0281-413d-89cf-ba22b4d5d3d6#isbn=1466565039&edition=33496555"}
+}

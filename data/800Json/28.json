@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/StartWhyLeadersInspireEveryone/dp/1591846447/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=","price":"7.54"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114620205428?epid=178127632&hash=item1aafe58974:g:8d0AAOSwkuxfKoo","price":"14.53"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781591846444","price":"20.42"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/startwithwhysimonsinek/1016513563?ean=9781591846444","price":"16.00"},
+      "Taret" : {"link":"https://www.target.com/p/startwithwhybysimonsinekpaperback//A13344631#lnk=sametab","price":"8.79"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30946618382&searchurl=kn%3D9781591846444%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"5.87"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781591846444&hs.x=31&hs.y=11","price":"11.04"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/searchresults?page=1&9781591846444&searchVal=9781591846444&type=product","price":"16.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=2426128&isbn_id=5638087","price":"15.20"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/startwithwhyhowgreatleadersinspireeveryonetotakeaction_simonsinek/256446/item/#edition=6568218&idiq=10213180","price":"14.49"}
+  }

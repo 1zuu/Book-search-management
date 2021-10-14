@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/IllustratedVeterinaryMedicalTerminologyFourth/dp/113312576X/ref=sr_1_4?dchild=1&qid=1628262643&refinements=p_n_feature_browsebin%3A2656022011&rnid=173514&s=books&sr=14","price":"103.05"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234125401025?epid=26038462756&hash=item3682f61bc1:g:dQcAAOSwNphhDeA4","price":"222.56"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781133125761","price":"207.04"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/anillustratedguidetoveterinarymedicalterminologyjanetamundsonromich/1119329452?ean=9781133125761","price":"149.95"},
+      "Taret" : {"link":"https://www.target.com/p/anillustratedguidetoveterinarymedicalterminology4theditionbyjanetamundsonromichpaperback//A80829544#lnk=sametab","price":"149.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30929425559&searchurl=kn%3D9781133125761%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"105.30"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781133125761&hs.x=40&hs.y=13","price":"148.45"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3291448&isbn_id=6891475","price":"149.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/anillustratedguidetoveterinarymedicalterminology_romich/9787402/item/#edition=9222697"}
+  }

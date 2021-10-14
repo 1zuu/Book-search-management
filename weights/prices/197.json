@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/StatisticalAnalysisDummiesJosephSchmuller/dp/1119271150/ref=pd_sim_3/14218346530643357?pd_rd_w=DZfWn&pf_rd_p=d9946c66b1cb486e8910b5930c8935b6&pf_rd_r=DJQY9BD4EA7E6PRWZB01&pd_rd_r=190cd337663042e18f0ea720fe33ab9d&pd_rd_wg=gwntF&pd_rd_i=1119271150&psc=1","price":"29.10"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313256509986?epid=228472881&hash=item48ef8b0222:g:LNAAAOSwR09fhY4q","price":"40.25"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781119271154"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/statisticalanalysiswithexcelfordummiesjosephschmuller/1100256850?ean=9781119271154","price":"34.99"},
+      "Taret" : {"link":"https://www.target.com/p/statisticalanalysiswithexcelfordummies4theditionbyjosephschmullerpaperback//A77799541#lnk=sametab","price":"28.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=19812570502&cm_sp=SEARCHREC_WIDGETL_BDPH&searchurl=kn%3D9781119271154%26sortby%3D17","price":"41.56"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4082230&isbn_id=8662245","price":"34.99"}
+  }

@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Police-Administration-Structures-Processes-Behavior/dp/0133754057/ref=sr_1_17?dchild=1&qid=1629831130&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=173489&s=books&sr=1-17","price":"142.34"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/224596771579?epid=219712267&hash=item344b02c2fb:g:otcAAOSwsiJhMuis","price":"174.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=%20%209780133754056","price":"176.11"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/police-administration-charles-r-swanson/1124173604?ean=9780133754056","price":"186.65"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30942435176&searchurl=kn%3D9780133754056%26sortby%3D17&cm_sp=snippet-_-srp1-_-title6","price":"203.26"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4068215&isbn_id=8518569","price":"186.65"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/police-administration-structures-processes-and-behavior-6th-edition_leonard-territo_charles-r-swanson/344725/item/#edition=11154581"}
+  }

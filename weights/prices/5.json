@@ -1,0 +1,19 @@
+{
+ 'Amazon': {'link': 'https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/ref=sr_1_1?dchild=1&keywords=Hands-On+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow%3A+Concepts%2C+Tools%2C+and+Techniques+to+Build+Intelligent+Systems+2nd+Edition&qid=1622450457&s=books&sr=1-1',
+			  'price': '29.00'},
+ 'Ebay': {'link': 'https://www.ebay.com/itm/124719837562?epid=8038668355&hash=item1d09e1b17a:g:iMcAAOSwx6Ff~aVw',
+			  'price':'32.95'},
+ 'BetterWorldBooks': {'link': 'https://www.betterworldbooks.com/product/detail/Hands-On-Machine-Learning-with-Scikit-Learn--Keras--and-TensorFlow--Concepts--Tools--and-Techniques-to-Build-Intelligent-Systems-9781492032649',
+			  'price':'82.64'},
+ 'Bernes&Nobel': {'link': 'https://www.barnesandnoble.com/w/hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-aurelien-geron/1128814321?ean=9781492032649',
+			  'price': '67.49'},
+ 'Target': {'link': 'https://www.target.com/p/hands-on-machine-learning-with-scikit-learn-keras-and-tensorflow-2nd-edition-by-aur-lien-g-ron-paperback/-/A-83304380#lnk=sametab',
+			  'price': '74.99'},
+ 'AbeBooks': {'link': 'https://www.abebooks.com/servlet/BookDetailsPL?bi=30456101024&searchurl=kn%3DHands-On%2BMachine%2BLearning%2Bwith%2BScikit-Learn%252C%2BKeras%252C%2Band%2BTensorFlow%253A%2BConcepts%252C%2BTools%252C%2Band%2BTechniques%2Bto%2BBuild%2BIntelligent%2BSystems%2B2nd%2BEdition%26sortby%3D17&cm_sp=snippet-_-srp1-_-image2',
+			  'price': '61.50'},
+ 'alibris': {'link': 'https://www.alibris.com/booksearch?mtype=B&keyword=Hands-On+Machine+Learning+with+Scikit-Learn%2C+Keras%2C+and+TensorFlow%3A+Concepts%2C+Tools%2C+and+Techniques+to+Build+Intelligent+Systems+2nd+Edition&hs.x=0&hs.y=0',
+			  'price': '42.21'},
+ 'Magers&Quinn': {'link': 'https://www.magersandquinn.com/product_info?products_id=4683251&isbn_id=10567839',
+			  'price': '71.24'}
+
+}

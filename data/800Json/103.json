@@ -1,0 +1,6 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/AlgebraCombinedApproachElaynMartinGay/dp/0135225035/ref=sr_1_1?dchild=1&keywords=combined+mathematics&qid=1627410436&s=books&sr=11","price":"159.06"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/algebraelaynmartingay/1132520228?ean=9780135225035","price":"233.32"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30426877291&searchurl=kn%3D9780135225035%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"227.19"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4904944&isbn_id=10955398","price":"233.32"}
+  }

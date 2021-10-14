@@ -1,0 +1,10 @@
+    {
+      "Amazon" :  {"link":"https://www.amazon.com/Inspirational-Leader-Inspire-Believe-Impossible/dp/179630123X/ref=sr_1_1?dchild=1&qid=1629791664&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-1","price":"19.80"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114274205199?epid=9036392771&hash=item1a9b45fe0f:g:~5MAAOSwaLxe87f6","price":"26.57"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781796301236","price":"29.36"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30383029441&searchurl=kn%3D9781796301236%26sortby%3D17&cm_sp=snippet-_-srp1-_-title3","price":"21.12"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781796301236&hs.x=37&hs.y=5","price":"17.06"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781796301236?title=","price":"22.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=55742783&isbn_id=24634534","price":"22.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/the-inspirational-leader--inspire-your-team-to-believe-in-the-impossible/22670927/item/#edition=24203300&idiq=33697180","price":"21.24"}
+  }

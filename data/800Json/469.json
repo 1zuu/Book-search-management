@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/CSAGuideCloudComputingImplementingdp0124201253/dp/0124201253/ref=mt_other?_encoding=UTF8&me=&qid=1628594845","price":"41.96"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313222263716?epid=202555081&hash=item48ed8073a4:i:313222263716","price":"61.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780124201255"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/csaguidetocloudcomputingrajsamani/1132571441?ean=9780124201255","price":"59.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30785498481&searchurl=kn%3D9780124201255%26sortby%3D17&cm_sp=snippet_srp1_title8","price":"52.97"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3641426&isbn_id=7364527","price":"59.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/csaguidetocloudcomputing_rajsamani_brianhonan/13502721/item/#edition=57257293&idiq=45874133","price":"22.89"}
+  }

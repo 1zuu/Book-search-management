@@ -1,0 +1,7 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Statistics-Health-Care-Management-Administration/dp/111871265X/ref=sr_1_59?dchild=1&keywords=statistics&qid=1629875207&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-59","price":"94.09"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/392509884839?hash=item5b636989a7:g:NjQAAOSwW1Nduqnz","price":"153.70"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/statistics-for-health-care-management-and-administration-john-f-kros/1124179697?ean=9781118712658","price":"114.50"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30904243108&searchurl=kn%3D9781118712658%26sortby%3D17&cm_sp=snippet-_-srp1-_-title8","price":"102.88"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3881796&isbn_id=8013306","price":"114.50"}
+  }

@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/ComputerNetworkingBeginnersGuideCommunications/dp/1698232810?ref_=Oct_d_omg_d_3711&pd_rd_w=Uys5w&pf_rd_p=aba82a839bc04d9ab9f0441c9af18356&pf_rd_r=T2VF2ZSMSTZ649SVP258&pd_rd_r=705c13afbca145c1ad45ebd6ca81a7a7&pd_rd_wg=D69HG&pd_rd_i=1698232810","price":"13.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781698232812","price":"22.25"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30543115717&searchurl=kn%3D9781698232812%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"15.04"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781698232812&hs.x=43&hs.y=10","price":"11.08"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781698232812?title=","price":"13.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=74561213&isbn_id=23298543","price":"13.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/computernetworkingbeginnersguidethecompletebasicguidetomasternetworksecuritycomputerarchitecturewirelesstechnologyandcommunicationssystemsincludingciscoccnaandtheosimodel/24139041/item/#edition=25768460"}
+  }

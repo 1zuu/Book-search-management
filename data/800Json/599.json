@@ -1,0 +1,9 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Basic-Biostatistics-Statistics-Public-Practice/dp/1284036014/ref=sr_1_37?dchild=1&keywords=statistics&qid=1629872905&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-37","price":"72.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/185024600612?epid=168486018&hash=item2b14535a24:g:xbwAAOSwPFZhLRjl","price":"107.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781284036015"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/basic-biostatistics-b-burt-gerstman/1132855122?ean=9781284036015","price":"116.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30297695885&searchurl=kn%3D9781284036015%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2","price":"35.42"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3324009&isbn_id=7030988","price":"116.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/basic-biostatistics_gerstman/8980046/item/#edition=8261148"}
+  }

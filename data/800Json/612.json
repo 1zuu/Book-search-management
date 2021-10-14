@@ -1,0 +1,7 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Mathematical-Statistics-Applications-Classics-Advanced/dp/0134995376/ref=sr_1_36?dchild=1&keywords=advanced+level&qid=1629730758&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-36","price":"85.32"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/144006256030?epid=4038252082&hash=item218771159e:g:4kYAAOSwGMJgdLFX","price":"135.95"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/john-e-freunds-mathematical-statistics-with-applications-irwin-miller/1100056710?ean=9780134995373","price":"106.65"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=22911195638&searchurl=kn%3D9780134995373%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2","price":"103.03"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4687913&isbn_id=10436083","price":"106.65"}
+  }

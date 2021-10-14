@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Quantum-Computing-Practice-Qiskit%C2%AE-Experience%C2%AE/dp/1838828443/ref=sr_1_46?dchild=1&qid=1629705920&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-46","price":"39.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233970860536?hash=item3679c001f8:g:Zs4AAOSww-hgetOa","price":"66.35"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781838828448","price":"63.37"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/quantum-computing-in-practice-with-qiskit-and-ibm-quantum-experience-hassi-norl-n/1138373600?ean=9781838828448","price":"39.99"},
+      "Taret" : {"link":"https://www.target.com/p/quantum-computing-in-practice-with-qiskit-r-and-ibm-quantum-experience-r-by-hassi-norl-n-paperback/-/A-83321796#lnk=sametab","price":"39.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30820460653&searchurl=kn%3D9781838828448%26sortby%3D17&cm_sp=snippet-_-srp1-_-title3","price":"54.43"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781838828448&hs.x=25&hs.y=17","price":"42.23"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=220518581&isbn_id=27424840","price":"39.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/quantum-computing-in-practice-with-qiskit-and-ibm-quantum-experience--practical-recipes-for-quantum-computer-coding-at-the-gate-and-algorithm-level-with-python/27440977/item/#edition=58535231&idiq=43370099","price":"46.11"}
+  }

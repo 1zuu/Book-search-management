@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/ExamAZ900MicrosoftAzureFundamentals/dp/0136877184/ref=sr_1_29?dchild=1&qid=1627535623&refinements=p_n_feature_browsebin%3A2656022011&rnid=5&s=books&sr=129","price":"37.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/393394271234?epid=12040371379&hash=item5b98203402:g:YY8AAOSwvWVgxug","price":"38.79"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780136877189","price":"43.37"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/examrefaz900microsoftazurefundamentalsjimcheshire/1130203446?ean=9780136877189","price":"39.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30725668316&cm_sp=SEARCHREC_WIDGETL_BDPR&searchurl=kn%3D9780136877189%26sortby%3D17","price":"31.29"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780136877189&hs.x=29&hs.y=23","price":"27.83"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780136877189?title=exam_ref_az900_microsoft_azure_fundamentals","price":"39.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=126518499&isbn_id=26406396","price":"37.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/examrefaz900microsoftazurefundamentals_jimcheshire/20157360/item/#edition=31984451&idiq=41034321","price":"33.58"}
+  }

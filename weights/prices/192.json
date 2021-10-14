@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/StatisticsWorkbookDummiesOnlinePractice/dp/1119547512/ref=pd_sbs_3/14218346530643357?pd_rd_w=zhesS&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=W3SM3K5MZYP9GXGVXYM1&pd_rd_r=9a9528ec10bc47c9b5f26a04dd623525&pd_rd_wg=DTB7N&pd_rd_i=1119547512&psc=1","price":"19.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/333760261013?epid=11038426465&hash=item4db5a96b95:g:M18AAOSwwUJfjoQ","price":"28.60"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781119547518"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/statisticsworkbookfordummieswithonlinepracticedeborahjrumsey/1129445786?ean=9781119547518","price":"19.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30300340755&cm_sp=SEARCHREC_WIDGETL_BDPH&searchurl=kn%3D9781119547518%26sortby%3D17","price":"26.28"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=10706572","price":"19.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/statisticsworkbookfordummieswithonlinepractice_deborahjrumsey/19495827/item/#edition=20710016"}
+  }

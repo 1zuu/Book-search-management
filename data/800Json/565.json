@@ -1,0 +1,10 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Family-Law-Paralegals-Aspen-Paralegal/dp/1543801668/ref=sr_1_5?dchild=1&qid=1629825809&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=10777&s=books&sr=1-5","price":"110.49"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234172289369?epid=24038414585&hash=item3685c19159:g:Lb8AAOSwYK1guTgj","price":"100.00"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781543801668","price":"275.82"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/family-law-for-paralegals-j-shoshanna-ehrlich/1133770486?ean=9781543801668","price":"210.95"},
+      "Taret" : {"link":"https://www.target.com/p/family-law-for-paralegals-aspen-paralegal-8th-edition-by-j-shoshanna-ehrlich-paperback/-/A-80823462#lnk=sametab","price":"209.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30785823253&searchurl=kn%3D9781543801668%26sortby%3D17&cm_sp=snippet-_-srp1-_-title7","price":"131.37"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=7999806&isbn_id=11048367","price":"209.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/family-law-for-paralegals-5e_j-shoshanna-ehrlich/662233/item/#edition=27082972&idiq=35752342","price":"222.41"}
+  }

@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/MindYourBusinessWorkbookFulltime/dp/1944515720/ref=pd_sbs_3/14218346530643357?pd_rd_w=ih3ax&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=8YW882VHFWM6X9A2QBYF&pd_rd_r=d5f4173f8b314a01a5da70009284288e&pd_rd_wg=pAWSu&pd_rd_i=1944515720&psc=1","price":"6.48"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/143331274009?epid=17046448751&hash=item215f35ad19:g:MgYAAOSwJ31gBuh","price":"25.97"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781944515720","price":"18.33"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/mindyourbusinessilanagriffo/1129626686?ean=9781944515720","price":"15.95"},
+      "Taret" : {"link":"https://www.target.com/p/mindyourbusinessbyilanagriffopaperback//A54385983#lnk=sametab","price":"10.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30748017567&cm_sp=SEARCHREC_WIDGETL_BDPH&searchurl=kn%3D9781944515720%26sortby%3D17","price":"33.13"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781944515720&hs.x=20&hs.y=19","price":"12.02"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781944515720?title=mind_your_business_a_workbook_to_grow_your_creative_passion_into_a_fulltime_gig","price":"9.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4678048&isbn_id=10589266","price":"17.05"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/mindyourbusinessplanyourbusinessandturnyourcreativepassionintoyourfulltimegig_ilanagriffo/19714225/item/#edition=20932245&idiq=30576588","price":"16.00"}
+  }

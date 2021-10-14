@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/FederalRulesAppellateProcedure2021/dp/1640020969/ref=pd_sim_3/14218346530643357?pd_rd_w=hXHdo&pf_rd_p=d9946c66b1cb486e8910b5930c8935b6&pf_rd_r=N3N301SSHW0Y0Y72TS8C&pd_rd_r=b1358965ba7d42f3ab62ced6305e4020&pd_rd_wg=i4ohD&pd_rd_i=1640020969&psc=1","price":"11.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/402963772538?epid=27046469469&hash=item5dd283347a:i:402963772538","price":"19.28"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781640020962","price":"19.30"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/federalrulesofappellateprocedure2021editionmichiganlegalpublishingltd/1138282071?ean=9781640020962","price":"12.00"},
+      "Taret" : {"link":"https://www.target.com/p/federalrulesofappellateprocedure2021editionbymichiganlegalpublishingltdpaperback//A83266371#lnk=sametab","price":"11.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30784928498&searchurl=kn%3D9781640020962%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"12.29"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781640020962&hs.x=23&hs.y=26","price":"10.14"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781640020962?title=federal_rules_of_appellate_procedure_2021_edition_with_appendix_of_length_limits_and_official_forms","price":"12.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=222073722&isbn_id=27387112","price":"12.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/federalrulesofappellateprocedure2021editionwithappendixoflengthlimitsandofficialforms_michiganlegalpublishingltd/27233276/item/#edition=58514946"}
+  }

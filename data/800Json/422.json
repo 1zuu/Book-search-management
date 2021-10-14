@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/CapitalCritiquePoliticalEconomyClassics/dp/0140445706/ref=sr_1_45?dchild=1&qid=1628595577&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=145","price":"19.49"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234103335656?epid=51787&hash=item3681a56ae8:g:rkAAOSwKwRg~M3a","price":"26.11"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780140445701","price":"33.88"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/capitalvolume3acritiqueofpoliticaleconomykarlmarx/1109650436?ean=9780140445701","price":"19.49"},
+      "Taret" : {"link":"https://www.target.com/p/capital3rdeditionbykarlmarxpaperback//A54271382#lnk=sametab","price":"19.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30327465720&searchurl=kn%3D9780140445701%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"14.60"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780140445701?title=capital_a_critique_of_political_economy_volume_3","price":"22.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=199495&isbn_id=54673","price":"20.90"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/capitalcritiqueofpoliticaleconomyvolume3theprocessofcapitalistproductionasawhole_karlmarx_friedrichengels/866212/item/#edition=4272987&idiq=10263913","price":"19.18"}
+  }

@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/CivilActionJonathanHarr/dp/0679772677/ref=sr_1_24?dchild=1&qid=1628260507&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=124","price":"15.45"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/294304511639?epid=148910&hash=item4485ea7697:g:ZW8AAOSwOWJhBGQn","price":"20.12"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780679772675","price":"11.48"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/civilactionjonathanharr/1103025347?ean=9780679772675","price":"15.95"},
+      "Taret" : {"link":"https://www.target.com/p/acivilactionbyjonathanharrpaperback//A79253912#lnk=sametab","price":"15.99"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780679772675?title=a_civil_action","price":"17.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4695621&isbn_id=110336","price":"17.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/acivilaction_jonathanharr/248282/item/#edition=2271984&idiq=6961484","price":"17.95"}
+  }

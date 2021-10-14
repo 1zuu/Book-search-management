@@ -1,0 +1,12 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Network-Security-OpenSSL-John-Viega/dp/059600270X/ref=sr_1_48?dchild=1&qid=1629797867&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-48","price":"22.45"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233968470792?hash=item36799b8b08:g:Vh0AAOSwZJdgeMll","price":"37.47"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780596002701","price":"12.93"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/network-security-with-openssl-john-viega/1110781454?ean=9780596002701","price":"39.95"},
+      "Taret" : {"link":"https://www.target.com/p/network-security-with-openssl-by-john-viega-matt-messier-pravir-chandra-paperback/-/A-82941368#lnk=sametab","price":"22.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30240302388&searchurl=ds%3D20%26sortby%3D17%26kn%3D9780596002701&cm_sp=snippet-_-srp2-_-title2","price":"17.34"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780596002701&hs.x=23&hs.y=5","price":"22.73"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780596002701?title=network_security_with_openssl_cryptography_for_secure_communications","price":"39.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=337720&isbn_id=404526","price":"37.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/network-security-with-openssl_john-viega_matt-messier/316766/item/#edition=4270803&idiq=10264339","price":"31.96"}
+  }

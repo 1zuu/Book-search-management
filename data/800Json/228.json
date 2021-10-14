@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/UltimateGuideStepStepHow/dp/1580118615/ref=sr_1_5?dchild=1&qid=1628255073&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=15","price":"22.25"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/194212718824?epid=26046860331&hash=item2d37fae8e8:g:l2cAAOSwyuFg0vv9","price":"26.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781580118613","price":"31.24"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/ultimateguidecreativehomeowner/1137446935?ean=9781580118613","price":"24.99"},
+      "Taret" : {"link":"https://www.target.com/p/ultimateguideplumbingupdated5theditionpaperback//A81634151#lnk=sametab","price":"21.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30903021215&searchurl=kn%3D9781580118613%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"19.19"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781580118613&hs.x=22&hs.y=18","price":"17.39"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781580118613?title=ultimate_guide_plumbing_updated_5th_edition","price":"24.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=210762457&isbn_id=26786306","price":"23.74"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/ultimateguideplumbingupdated5thedition/26825017/item/#edition=48689065&idiq=44648631","price":"21.96"}
+  }

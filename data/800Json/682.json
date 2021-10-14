@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/South-Transformation-U-S-Politics/dp/0190065923/ref=sr_1_41?dchild=1&qid=1629872176&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-41","price":"26.95"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313608320710?epid=5038289772&hash=item49048336c6:g:6kQAAOSwtf5g9WAk","price":"35.73"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780190065928","price":"47.07"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/the-south-and-the-transformation-of-us-politics-charles-s-bullock/1131596809?ean=9780190065928","price":"26.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30912476095&searchurl=kn%3D9780190065928%26sortby%3D17&cm_sp=snippet-_-srp1-_-title6","price":"30.28"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780190065928&hs.x=26&hs.y=16","price":"27.74"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5073825&isbn_id=10953484","price":"26.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/the-south-and-the-transformation-of-us-politics_charles-s-bullock_mark-j-rozell/21757490/item/#edition=23220601&idiq=37642130","price":"32.30"}
+  }

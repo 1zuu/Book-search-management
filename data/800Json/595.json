@@ -1,0 +1,10 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Statistics-Criminology-Criminal-Justice-Bachman/dp/1544375700/ref=sr_1_26?dchild=1&keywords=statistics&qid=1629872568&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-26","price":"125.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/144183851305?hash=item219206f929:g:y4gAAOSwXOZhMh8b","price":"199.38"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781544375700"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/statistics-for-criminology-and-criminal-justice-with-cdrom-ronet-bachman/1100720358?ean=9781544375700","price":"125.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30871345216&searchurl=kn%3D9781544375700%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1","price":"138.47"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781544375700&hs.x=37&hs.y=22","price":"125.40"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=27222661","price":"125.00"}
+
+  }

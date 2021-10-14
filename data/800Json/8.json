@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555?ref_=Oct_s9_apbd_obs_hd_bw_b76hbzv&pf_rd_r=PNPWGKERYG0EZA27PB0E&pf_rd_p=f45d44a2-b296-5b9c-a096-d5857dcaf378&pf_rd_s=merchandised-search-11&pf_rd_t=BROWSE&pf_rd_i=6511982011","price":"11.54"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/293647169282?epid=113308649&hash=item445ebc3702:g:Fv4AAOxyHntSXwgS","price":"16.29"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/Thinking--Fast-and-Slow-9780374533557","price":"15.35"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/thinking-fast-and-slow-daniel-kahneman/1100169801?ean=9780374533557","price":"15.99"},
+      "Taret" : {"link":"https://www.target.com/p/thinking-fast-and-slow-reprint-paperback-by-daniel-kahneman/-/A-14171776#lnk=sametab","price":"11.54"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30923716952&searchurl=kn%3D9780374533557%26sortby%3D17&cm_sp=snippet-_-srp1-_-image1","price":"9.36"},
+      "alibris" : {"link":"https://www.alibris.com/Thinking-Fast-and-Slow-Daniel-Kahneman-PhD/book/28274912?matches=193","price":"11.99"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780374533557?title=thinking_fast_and_slow","price":"18.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=2825991&isbn_id=6296008","price":"17.10"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thinking-fast-and-slow_daniel-kahneman/247754/?resultid=a797d1fb-624a-49da-8e5c-e7db8db9f6c6#edition=7203718&idiq=10324952","price":"16.19"}
+  }

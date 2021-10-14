@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/ScrappedJusticeInformantLisaPeebles/dp/1684337534/ref=sr_1_15?dchild=1&qid=1628260184&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=115","price":"23.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781684337538","price":"42.44"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/scrappedlisapeebles/1139797943?ean=9781684337538","price":"23.95"},
+      "Taret" : {"link":"https://www.target.com/p/scrappedbylisapeeblesjohnobrienpaperback//A83991951#lnk=sametab","price":"23.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30968815517&searchurl=kn%3D9781684337538%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"29.83"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781684337538&hs.x=34&hs.y=15","price":"26.87"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=28687538"}
+  }

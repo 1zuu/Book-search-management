@@ -1,0 +1,9 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Electro-hydraulic-Servo-Valves-Fluid-Educational/dp/B08BDSDDFV/ref=sr_1_38?dchild=1&qid=1629824907&refinements=p_n_feature_browse-bin%3A2656022011%2Cp_n_feature_nine_browse-bin%3A3291437011&rnid=173515&s=books&sr=1-38","price":"7.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9798654202642","price":"14.23"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30664973399&searchurl=kn%3D9798654202642%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1","price":"10.29"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9798654202642&hs.x=17&hs.y=10","price":"6.32"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9798654202642?title=","price":"7.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=249034728&isbn_id=26613843","price":"7.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/electro-hydraulic--servo-valves-fluid-power-educational-series/26765842/item/#edition=41168955"}
+  }

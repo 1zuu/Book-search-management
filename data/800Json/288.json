@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/HorseBrainHumanNeuroscienceHorsemanship/dp/1570769486/ref=sr_1_5?dchild=1&qid=1628262643&refinements=p_n_feature_browsebin%3A2656022011&rnid=173514&s=books&sr=15","price":"22.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234056021914?epid=4038437054&hash=item367ed3779a:g:jo4AAOSwIJRgzEIa","price":"28.45"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781570769481","price":"33.11"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/horsebrainhumanbrainjanetjones/1133681750?ean=9781570769481","price":"26.95"},
+      "Taret" : {"link":"https://www.target.com/p/horsebrainhumanbrainbyjanetjonespaperback//A83208824#lnk=sametab","price":"22.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30656922239&searchurl=kn%3D9781570769481%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"19.49"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781570769481&hs.x=7&hs.y=9","price":"18.76"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781570769481?title=horse_brain_human_brain_the_neuroscience_of_horsemanship","price":"26.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=8001543&isbn_id=11035773","price":"25.60"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/horsebrainedhumanbrainedtheneuroscienceofhorsemanship_janetjones/23537930/item/#edition=25163435&idiq=38969511","price":"23.34"}
+  }

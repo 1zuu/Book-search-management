@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/50-Economics-Classics-important-capitalism/dp/1857886739/ref=sr_1_49?dchild=1&keywords=economics&qid=1629817778&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-49","price":"19.39"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313549175390?epid=228852641&hash=item4900fcba5e:g:8VoAAOSwpQxgtJbG","price":"24.65"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=%209781857886733"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/50-economics-classics-tom-butler-bowdon/1125586530?ean=9781857886733","price":"19.95"},
+      "Taret" : {"link":"https://www.target.com/p/50-economics-classics-by-tom-butler-bowdon-paperback/-/A-51768115#lnk=sametab","price":"19.39"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=22420529740&searchurl=kn%3D9781857886733%26sortby%3D17&cm_sp=snippet-_-srp1-_-title15","price":"20.32"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781857886733?title=50_economics_classics_your_shortcut_to_the_most_important_ideas_on_capitalism_finance_and_the_global_economy_"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4251311&isbn_id=9048479","price":"19.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/50-economics-classics-your-shortcut-to-the-most-important-ideas-on-capitalism-finance-and-the-global-economy_tom-butler-bowdon/13880078/item/#edition=14486833&idiq=29507097","price":"19.95"}
+  }

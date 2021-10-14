@@ -1,0 +1,11 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Ethernet-Definitive-Designing-Managing-Networks/dp/1449361846/ref=sr_1_30?dchild=1&qid=1629797536&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-30","price":"41.04"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/333877492762?epid=171798721&hash=item4dbca63c1a:g:TxAAAOSwB1RgGnmT","price":"55.92"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781449361846","price":"72.09"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/ethernet-charles-e-spurgeon/1101727913?ean=9781449361846","price":"49.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30324546283&searchurl=kn%3D9781449361846%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2","price":"37.61"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=+9781449361846&hs.x=27&hs.y=26","price":"41.57"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781449361846?title=ethernet_the_definitive_guide_designing_and_managing_local_area_networks","price":"49.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3262563&isbn_id=6852185","price":"49.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/ethernet-the-definitive-guide_charles-e-spurgeon/334346/item/#edition=11104464&idiq=16010354","price":"49.99"}
+  }

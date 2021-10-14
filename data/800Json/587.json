@@ -1,0 +1,10 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Politics-China-Introduction-William-Joseph/dp/0190870710/ref=sr_1_28?dchild=1&qid=1629871654&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-28","price":"47.95"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/392817408667?epid=5038417524&hash=item5b75bdfa9b:g:wGsAAOSwgJtf~s8b","price":"65.69"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780190870713","price":"73.32"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/politics-in-china-william-a-joseph/1132405634?ean=9780190870713","price":"47.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30327815672&searchurl=kn%3D9780190870713%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2","price":"45.05"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780190870713&hs.x=43&hs.y=10","price":"50.64"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5077333&isbn_id=10825009","price":"47.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/politics-in-china-an-introduction-third-edition/20252472/item/#edition=21549715&idiq=32758112","price":"54.45"}
+  }

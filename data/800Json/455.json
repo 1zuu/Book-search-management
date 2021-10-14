@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/PracticalDataScienceNinaZumel/dp/1617295876/ref=sr_1_44?dchild=1&qid=1628576667&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=144","price":"40.78"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233969624761?epid=6038396885&hash=item3679ad26b9:g:PZIAAOSwlSVgeetW","price":"76.56"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781617295874","price":"50.29"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/practicaldatasciencewithrninazumel/1117342156?ean=9781617295874","price":"49.99"},
+      "Taret" : {"link":"https://www.target.com/p/practicaldatasciencewithr2ndeditionbyninazumeljohnmountpaperback//A76540028#lnk=sametab","price":"40.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30618232987&searchurl=kn%3D9781617295874%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"43.94"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781617295874&hs.x=14&hs.y=21","price":"41.57"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781617295874?title=practical_data_science_with_r","price":"49.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4887380&isbn_id=10940435","price":"49.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/practicaldatasciencewithr/21512607/item/#edition=22982645&idiq=35497768","price":"47.67"}
+  }

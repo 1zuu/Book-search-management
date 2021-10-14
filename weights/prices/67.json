@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/NetworkingBeginnersTechnologySubnettingEssentialsdp1801091730/dp/1801091730/ref=mt_other?_encoding=UTF8&me=&qid=","price":"11.63"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781801091732"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/networkingforbeginnersrussellscott/1134652180?ean=9781801091732","price":"19.97"},
+      "Taret" : {"link":"https://www.target.com/p/networkingforbeginnersbyrussellscottpaperback//A83297735#lnk=sametab","price":"19.97"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30961223641&searchurl=kn%3D9781801091732%26sortby%3D17&cm_sp=snippet_srp1_title3","price":"39.88"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=202681122&isbn_id=27118187","price":"18.97"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/networkingforbeginnersaneasyguidetolearningcomputernetworkbasicstakeyourfirststepmasterwirelesstechnologytheosimodelipsubnettingroutingprotocolsandinternetessentials/27217673/item/#edition=58467036"}
+  }

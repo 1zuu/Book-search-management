@@ -1,0 +1,8 @@
+
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/ConciseIndustrialFlowMeasurementHandbook/dp/1032084987?ref_=Oct_onr_d_227544&pd_rd_w=paU5L&pf_rd_p=f2b556d92905446ea142cdce50e9497c&pf_rd_r=JFTKGC69WV8E5QTPT356&pd_rd_r=85705c2363324475ae53291b519355b5&pd_rd_wg=tV6ra&pd_rd_i=1032084987","price":"54.95"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/theconciseindustrialflowmeasurementhandbookmichaelacrabtree/1133062554?ean=9781032084985","price":"54.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30955744343&searchurl=kn%3D9781032084985%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"60.93"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=280868235&isbn_id=28279199","price":"54.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/theconciseindustrialflowmeasurementhandbookadefinitivepracticalguide_michaelacrabtree/23275063/item/#edition=59452403"}
+  }

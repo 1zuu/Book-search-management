@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/You-Have-Right-Remain-Innocent/dp/1503933393/ref=sr_1_9?dchild=1&qid=1629831006&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=173489&s=books&sr=1-9","price":"8.49"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/142446244265?epid=221635409&hash=item212a7531a9:g:7rUAAOSwk6RfLzkr","price":"11.41"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=%20%209781503933392","price":"13.99"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/you-have-the-right-to-remain-innocent-james-duane/1123646580?ean=9781503933392","price":"9.99"},
+      "Taret" : {"link":"https://www.target.com/p/you-have-the-right-to-remain-innocent-by-james-duane-paperback/-/A-77866232#lnk=sametab","price":"8.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=22527132021&searchurl=kn%3D9781503933392%26sortby%3D17&cm_sp=snippet-_-srp1-_-title4","price":"8.47"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=++9781503933392&hs.x=55&hs.y=7","price":"6.95"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781503933392?title=you_have_the_right_to_remain_innocent","price":"9.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4103094&isbn_id=8726256","price":"9.49"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/you-have-the-right-to-remain-innocent_james-duane/11332822/item/#edition=10842402&idiq=15811580","price":"9.62"}
+  }

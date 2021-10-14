@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/ProgrammingUsingRSLogix5000Understanding/dp/B084QLBTSQ/ref=sr_1_14?dchild=1&qid=1628505408&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=114","price":"19.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685","price":"28.92"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/plcprogrammingusingrslogix5000nathanclark/1136478138?ean=9798614581671","price":"19.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30590858871&searchurl=kn%3D9798614581671%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"23.78"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9798614581671&hs.x=22&hs.y=17","price":"15.83"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9798614581671?title=","price":"19.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=89606200&isbn_id=26235081","price":"19.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/plcprogrammingusingrslogix5000understandingladderlogicandthestudio5000platform/26272188/item/#edition=29827419"}
+  }

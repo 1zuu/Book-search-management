@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/CloudComputingComprehensiveGuide/dp/1086039505/ref=sr_1_41?dchild=1&keywords=cloud+computing&qid=1628594136&s=books&sr=141","price":"11.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781086039504","price":"20.54"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30396816470&searchurl=kn%3D9781086039504%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"23.98"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781086039504&hs.x=40&hs.y=4","price":"9.49"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781086039504?title=","price":"11.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=10319851&isbn_id=13349354","price":"11.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/cloudcomputingacomprehensiveguidetocloudcomputing/22947855/item/#edition=57840236"}
+  }

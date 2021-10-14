@@ -1,0 +1,12 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Economic-Statecraft-David-Baldwin/dp/069120442X/ref=sr_1_14?dchild=1&keywords=economics&qid=1629816736&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-14","price":"45.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233968483259?epid=6038688736&hash=item36799bbbbb:g:HUsAAOSw1N5geMsB","price":"58.42"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780691204420","price":"50.57"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/economic-statecraft-david-a-baldwin/1136580300?ean=9780691204420","price":"45.00"},
+      "Taret" : {"link":"https://www.target.com/p/economic-statecraft-by-david-a-baldwin-paperback/-/A-83849672#lnk=sametab","price":"45.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30734070659&searchurl=kn%3D9780691204420%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2","price":"35.42"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780691204420&hs.x=35&hs.y=28","price":"37.43"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780691204420?title=economic_statecraft_new_edition","price":"45.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=105064221&isbn_id=26282677","price":"45.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/economic-statecraft-new-edition/26306567/item/#edition=30129751&idiq=41254909","price":"43.29"}
+  }

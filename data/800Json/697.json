@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Statistics-Alive-Wendy-J-Steinberg/dp/1544328265/ref=sr_1_67?dchild=1&keywords=statistics&qid=1629875410&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-67","price":"122.17"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/393120167539?epid=26038440140&hash=item5b87c9b673:g:oNgAAOSwdI5gGnm1","price":"184.52"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781544328263"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/statistics-alive-wendy-j-steinberg/1136752632?ean=9781544328263","price":"125.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30875702109&searchurl=kn%3D9781544328263%26sortby%3D17&cm_sp=snippet-_-srp1-_-title4","price":"119.83"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=101372398&isbn_id=26156115","price":"125.00"}
+  }

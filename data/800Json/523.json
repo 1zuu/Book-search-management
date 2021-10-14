@@ -1,0 +1,9 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Business-Ethics-Textbook-William-Shaw/dp/130558208X/ref=sr_1_8?dchild=1&qid=1629794116&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=2675&s=books&sr=1-8","price":"84.63"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313222177870?hash=item48ed7f244e:g:k2MAAOSwx~dfYygM","price":"93.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781305582088"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/business-ethics-william-h-shaw/1124172766?ean=9781305582088","price":"99.46"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30195861956&searchurl=kn%3D9781305582088%26sortby%3D17&cm_sp=snippet-_-srp1-_-title15","price":"97.51"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3906069&isbn_id=8078490","price":"149.95"}
+
+  }

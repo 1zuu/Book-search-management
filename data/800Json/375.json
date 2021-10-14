@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/HowInnovationWorksFlourishesFreedom/dp/0062916602/ref=sr_1_56?dchild=1&qid=1628537603&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=156","price":"14.19"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/294187405545?epid=26046972996&hash=item447eef90e9:g:2msAAOSwts5gqDfR","price":"18.76"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685","price":"25.99"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/howinnovationworksmattridley/1133839427?ean=9780062916600","price":"17.99"},
+      "Taret" : {"link":"https://www.target.com/p/howinnovationworksbymattridleypaperback//A81857419#lnk=sametab","price":"14.19"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30912352994&searchurl=kn%3D9780062916600%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"11.37"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780062916600?title=how_innovation_works_and_why_it_flourishes_in_freedom","price":"17.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=246236460&isbn_id=27257001","price":"17.09"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/howinnovationworksandwhyitflourishesinfreedom_mattridley/26851284/item/#edition=54018641&idiq=44944284","price":"16.18"}
+  }

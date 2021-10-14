@@ -1,0 +1,6 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/CommercialSpaceTechnologiesApplicationsMeteorological/dp/0367656337/ref=sr_1_16?dchild=1&qid=1627654503&refinements=p_n_feature_browsebin%3A2656022011&rnid=13809&s=books&sr=116","price":"26.52"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/commercialspacetechnologiesandapplicationsmohammadrazani/1129729320?ean=9780367656331","price":"62.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30829782274&searchurl=kn%3D9780367656331%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"58.09"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/commercialspacetechnologiesandapplicationscommunicationremotesensinggpsandmeteorologicalsatellitessecondedition_mohammadrazani/26805951/item/#edition=45424218"}
+  }

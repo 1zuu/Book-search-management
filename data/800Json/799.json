@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Foundations-Agnostic-Statistics-Peter-Aronow/dp/1316631141/ref=sr_1_119?dchild=1&keywords=statistics&qid=1629879151&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-119","price":"34.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/294126185371?epid=19038463224&hash=item447b496b9b:g:MfsAAOSwC-5geemY","price":"50.93"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781316631140","price":"51.20"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/foundations-of-agnostic-statistics-peter-m-aronow/1135304222?ean=9781316631140","price":"34.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30367090869&searchurl=kn%3D9781316631140%26sortby%3D17&cm_sp=snippet-_-srp1-_-title3","price":"36.60"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4820491&isbn_id=10748559","price":"34.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/foundations-of-agnostic-statistics_benjamin-t-miller_peter-m-aronow/19682286/item/#edition=20902929&idiq=32286075","price":"32.10"}
+  }

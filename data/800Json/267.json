@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/SystemsPerformanceBrendanGregg/dp/0136820158/ref=sr_1_16?dchild=1&qid=1628352157&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=116","price":"59.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/133782762630?epid=18043425468&hash=item1f2612f486:g:VpEAAOSw82xgvXmL","price":"89.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780136820154","price":""},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/systemsperformancebrendangregg/1137052733?ean=9780136820154","price":"59.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30894747170&searchurl=kn%3D9780136820154%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"79.45"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=175510880&isbn_id=26514636","price":"59.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/systemsperformance_brendangregg/26636122/item/#edition=33789675"}
+  }

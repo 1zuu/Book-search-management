@@ -1,0 +1,7 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/IllustratedNetworkHowWorksModern/dp/0128110279/ref=pd_sbs_6/14218346530643357?pd_rd_w=AiYOk&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=XE0ESM9GEEQ14MV3NNNQ&pd_rd_r=893c9655fd7e49a8b65a09d6a17658eb&pd_rd_wg=DNWyW&pd_rd_i=0128110279&psc=1","price":"79.95"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313222280052?epid=234980759&hash=item48ed80b374:g:FLkAAOSwB8ZfY0Fg","price":"140.80"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30898899375&searchurl=kn%3D9780128110270%26sortby%3D17&cm_sp=snippet_srp1_title7","price":"89.24"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4280383&isbn_id=9307980","price":"99.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/theillustratednetworkhowtcpipworksinamodernnetwork_waltergoralski/9478227/item/#edition=13504181"}
+  }

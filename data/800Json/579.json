@@ -1,0 +1,11 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/New-Drugs-Insiders-Scientists-Investors/dp/141969961X/ref=sr_1_44?dchild=1&qid=1629864388&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-44","price":"17.44"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/132935587566?epid=177024161&hash=item1ef39416ee:g:Nb8AAOSwCU1Y3LMN","price":"13.86"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781419699610","price":"32.69"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/new-drugs-lawrence-t-friedhoff-md/1134339281?ean=9781419699610","price":"24.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=11802724658&searchurl=kn%3D9781419699610%26sortby%3D17&cm_sp=snippet-_-srp1-_-title14","price":"22.32"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781419699610&hs.x=35&hs.y=11","price":"19.76"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781419699610?title=new_drugs_an_insiders_guide_to_the_fdas_new_drug_approval_process_for_scientists_investors_and_patients","price":"24.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5819267&isbn_id=4907592","price":"24.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/new-drugs-an-insiders-guide-to-the-fdas-new-drug-approval-process-for-scientists-investors-and-patients_lawrence-t-friedhoff/594445/item/#edition=7070535&idiq=10609756","price":"24.11"}
+  }

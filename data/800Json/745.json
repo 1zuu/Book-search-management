@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Marxism-Ecological-Economics-Historical-Materialism/dp/1608460258/ref=sr_1_88?dchild=1&keywords=economics&qid=1629819049&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-88","price":"28.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/334102405481?epid=73067005&hash=item4dca0e2169:g:sx0AAOSwfGthC8Vb","price":"39.81"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781608460250","price":"47.27"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/marxism-and-ecological-economics-paul-burkett/1117686781?ean=9781608460250","price":"28.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30660213293&searchurl=kn%3D9781608460250%26sortby%3D17&cm_sp=snippet-_-srp1-_-title6","price":"27.82"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781608460250&hs.x=22&hs.y=17","price":"27.72"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=96537509&isbn_id=4801089","price":"28.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/marxism-and-ecological-economics-toward-a-red-and-green-political-economy-historical-materialism-book-historical-materialism-book_paul-burkett/13887163/item/#edition=14443849"}
+  }

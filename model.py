@@ -10,12 +10,13 @@ import numpy as np
 import scipy.stats as st
 import tensorflow as tf
 from matplotlib import pyplot as plt
+from collections import Counter
 logging.getLogger('tensorflow').disabled = True
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.models import load_model
-from tensorflow.keras.layers import Input, Embedding, LSTM, Dense, Bidirectional, Dropout, BatchNormalization
+from tensorflow.keras.layers import Input, Embedding, LSTM, GRU, Dense, Bidirectional, Dropout, BatchNormalization
 from tensorflow.keras.models import Model, load_model
 from tensorflow.keras.activations import relu
 from tensorflow.keras.optimizers import Adam
@@ -36,25 +37,28 @@ warnings.simplefilter("ignore", DeprecationWarning)
 
 class myCallback(tf.keras.callbacks.Callback):
     def on_epoch_end(self, epoch, logs={}):
-        if (logs.get('accuracy') > 0.99):
-            print("\nReached 99% train accuracy.So stop training!")
+        if (logs.get('val_accuracy') > 0.9):
+            print("\nReached 90% validation accuracy.So stop training!")
             self.model.stop_training = True
 
 class BSM_Model(object):
     def __init__(self):
-        X, Y,df_response = get_Data()
+        X, Y,df_response, class_weights = get_Data()
         self.size_output = len(set(Y))
 
-        # X, Xtest, Y, Ytest = train_test_split(
-        #                                     X, Y, 
-        #                                     test_size=test_size, 
-        #                                     random_state=seed
-        #                                     )
+        print(Counter(Y))
+
+        X, Xtest, Y, Ytest = train_test_split(
+                                            X, Y, 
+                                            test_size=test_size, 
+                                            random_state=seed
+                                            )
         self.X = X
         self.Y = Y
         self.df_response = df_response
-        # self.Xtest = Xtest
-        # self.Ytest = Ytest
+        # self.class_weights = class_weights
+        self.Xtest = Xtest
+        self.Ytest = Ytest
 
     def length_analysis(self, X_seq, X_seq_test):
         len_x = [len(sen) for sen in X_seq]
@@ -90,9 +94,9 @@ class BSM_Model(object):
         X_seq = tokenizer.texts_to_sequences(self.X) # tokenize train data
         self.X_pad = pad_sequences(X_seq, maxlen=max_length, padding=padding, truncating=trunc_type)# Pad Train data
 
-        # X_seq_test = tokenizer.texts_to_sequences(self.Xtest) # tokenize train data
-        # self.X_pad_test = pad_sequences(X_seq_test, maxlen=max_length, padding=padding, truncating=trunc_type )# Pad Train data
-        X_seq_test = []
+        X_seq_test = tokenizer.texts_to_sequences(self.Xtest) # tokenize train data
+        self.X_pad_test = pad_sequences(X_seq_test, maxlen=max_length, padding=padding, truncating=trunc_type )# Pad Train data
+        
         self.length_analysis(X_seq, X_seq_test)
         self.tokenizer = tokenizer
         self.vocab_size = len(tokenizer.word_index) + 1
@@ -109,12 +113,13 @@ class BSM_Model(object):
         inputs = Input(shape=(max_length,), name='text_inputs')
         x = Embedding(output_dim=embedding_dim, input_dim=self.vocab_size, input_length=max_length, name='embedding')(inputs) # Embedding layer
         x = Bidirectional(LSTM(size_lstm,return_sequences=True,unroll=True), name='lstm1')(x)
-        x = Bidirectional(LSTM(size_lstm // 2,unroll=True), name='lstm2')(x)
+        # x = Bidirectional(LSTM(size_lstm,return_sequences=True,unroll=True), name='lstm2')(x)
+        x = Bidirectional(LSTM(size_lstm // 2,unroll=True), name='lstm3')(x)
 
         x = BSM_Model.subnetwork(dense1, x)
         x = BSM_Model.subnetwork(dense2, x)
-        x = BSM_Model.subnetwork(dense3, x)
-        # x = BSM_Model.subnetwork(dense4, x)
+        # x = BSM_Model.subnetwork(dense3, x)
+        x = BSM_Model.subnetwork(dense4, x)
 
         x = Dense(dense4, activation='relu', name='text_features')(x)
         outputs = Dense(self.size_output, activation='softmax', name='book_category')(x)
@@ -135,11 +140,14 @@ class BSM_Model(object):
         self.history = self.model.fit(
                                 self.X_pad,
                                 self.Y,
-                                # validation_split = 0.15,
-                                # batch_size=batch_size,
-                                epochs=num_epochs,
-                                callbacks=[callbacks]
+                                batch_size = batch_size,
+                                epochs = num_epochs,
+                                # validation_split = test_size,
+                                validation_data = (self.X_pad_test, self.Ytest),
+                                # callbacks = [callbacks]
+                                # class_weight = self.class_weights
                                 )
+        self.model.evaluate(self.X_pad_test, self.Ytest)
 
     def save_model(self): # Save trained model
         self.feature_model.save(model_weights)
@@ -151,7 +159,7 @@ class BSM_Model(object):
                         optimizer=Adam(lr=learning_rate), 
                         metrics=['accuracy']
                         )
-        self.feature_model.summary()
+        # self.feature_model.summary()
 
     def book_features(self):
         inputs = self.model.input
@@ -160,7 +168,7 @@ class BSM_Model(object):
                 self.model.layers[-2].output
                   ]
         self.feature_model = Model(inputs=inputs, outputs=outputs)
-        self.feature_model.summary()
+        # self.feature_model.summary()
 
     def TFconverter(self):
         # converter = tf.lite.TFLiteConverter.from_keras_model(self.feature_model)
@@ -263,3 +271,23 @@ class BSM_Model(object):
                 self.save_model()
             self.TFconverter()
         self.TFinterpreter()
+
+
+model = BSM_Model()
+model.run()
+model.load_model()
+
+def get_category_from_label(category):
+    with open(encoder_path, 'rb') as handle:
+        encoder = pickle.load(handle)
+    category = encoder.inverse_transform([category]).squeeze()
+    category = str(category).lower()
+    return category
+    
+request = {"description" : "Both practical and easy to read, Rubin's STATISTICS FOR EVIDENCE-BASED PRACTICE AND EVALUATION provides you with a step-by-step guide that will help you succeed in your course. Practice illustrations and exercises support your ability to study and retain core concepts, while practical examples provide you with the opportunity to see how and when data analysis and statistics are used by helping professionals in the real world."}
+description = request['description']
+description = prediction_data(description)
+pred = model.feature_model.predict(description)[0][0]
+pred = np.argmax(pred)
+print(pred)
+print(get_category_from_label(pred))

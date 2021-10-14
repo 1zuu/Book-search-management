@@ -1,0 +1,7 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/APRN-Complete-Guide-Prescribing-Therapy/dp/0826179339/ref=sr_1_25?dchild=1&qid=1629863843&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-25","price":"52.49"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/184993447395?epid=4038700174&hash=item2b1277fde3:g:AEcAAOSwjmphE~Jq","price":"81.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30850048049&searchurl=kn%3D9780826179333%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1","price":"51.56"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=10814507","price":"49.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/the-aprns-complete-guide-to-prescribing-drug-therapy-2020_mari-j-wirfs/20170668/item/#edition=21470325"}
+  }

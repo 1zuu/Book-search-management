@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Law-Enforcement-21st-Century-4th/dp/0134158202/ref=sr_1_41?dchild=1&qid=1629831495&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=173489&s=books&sr=1-41","price":"139.27"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/224566233862?epid=219184606&hash=item344930cb06:g:mKkAAOSwB-1Yn7oM","price":"80.00"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/law-enforcement-in-the-21st-century-heath-grant/1124174770?ean=9780134158204","price":"186.65"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30511553547&searchurl=kn%3D9780134158204%26sortby%3D17&cm_sp=snippet-_-srp1-_-title12","price":"193.50"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5070664&isbn_id=8385818","price":"186.65"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/law-enforcement-in-the-21st-century_karen-j-terry_heath-b-grant/13910825/item/#edition=14729633"}
+  }

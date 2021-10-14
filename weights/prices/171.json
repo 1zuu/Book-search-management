@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/DrSebiArthritisApprovedMedicinal/dp/B08PRRV6RX/ref=sr_1_12?dchild=1&qid=1627706720&refinements=p_n_feature_browsebin%3A2656022011&rnid=265542&s=books&sr=112","price":"9.75"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9798577552206","price":"16.76"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30906117151&searchurl=kn%3D9798577552206%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"12.49"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9798577552206&hs.x=34&hs.y=20","price":"7.73"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9798577552206?title=","price":"9.75"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=262349154&isbn_id=27522734","price":"9.75"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/drsebiguidetocurearthritislupusthroughdrsebiapprovedalkalinedietsmedicinalherbs/28081613/item/#edition=58836023"}
+  }

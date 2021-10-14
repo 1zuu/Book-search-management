@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/MathematicalMethodsPhysicsEngineeringComprehensive/dp/0521679710/ref=pd_vtp_4/14218346530643357?pd_rd_w=tZIX3&pf_rd_p=016e369791be4dc29533ef9350e7e73d&pf_rd_r=8R31FJKCZV8MFJ2N3V6P&pd_rd_r=ee752d262f784c3da1cc1a883d4cc5e1&pd_rd_wg=jQwF3&pd_rd_i=0521679710&psc=1","price":"67.36"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/402268689427?epid=48630981&hash=item5da9151413:g:nbgAAOSw76xexUMd","price":"75.00"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780521679718","price":"138.60"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/mathematicalmethodsforphysicsandengineeringkfriley/1100944105?ean=9780521679718","price":"73.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30862911001&searchurl=kn%3D9780521679718%26sortby%3D17&cm_sp=snippet_srp1_title8","price":"60.56"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780521679718&hs.x=44&hs.y=22","price":"73.25"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=1134252&isbn_id=3261662","price":"73.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/mathematicalmethodsforphysicsandengineeringacomprehensiveguide_kfriley_sjbence/293337/item/#edition=3180969&idiq=33851232","price":"69.43"}
+  }

@@ -1,0 +1,7 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/HowLimitedLiabilityCompaniesPartnerships/dp/1944194142/ref=pd_sbs_5/14218346530643357?pd_rd_w=nz3xh&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=KDZQWP98ZGDRKC33G3ZK&pd_rd_r=cbf269b109e44a6b9eb452c782b5b3b8&pd_rd_wg=MRW9e&pd_rd_i=1944194142&psc=1","price":"19.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781944194147"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/howtouselimitedliabilitycompanieslimitedpartnershipsgarrettsutton/1132450615?ean=9781944194147","price":"17.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=21521670546&searchurl=kn%3D9781944194147%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"14.17"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4066124&isbn_id=8551339","price":"18.95"}
+  }

@@ -1,0 +1,7 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/IntroductionMetamaterialsWavesComposites/dp/0367576961/ref=sr_1_13?dchild=1&qid=1627654503&refinements=p_n_feature_browsebin%3A2656022011&rnid=13809&s=books&sr=113","price":"34.03"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/anintroductiontometamaterialsandwavesincompositesbiswajitbanerjee/1137103574?ean=9780367576967","price":"54.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30961231035&searchurl=kn%3D9780367576967%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"59.64"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=172183277&isbn_id=26556467","price":"54.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/anintroductiontometamaterialsandwavesincomposites_biswajitbanerjee/10947858/item/#edition=34725233"}
+  }

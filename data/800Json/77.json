@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/SOLARPOWERBeginnerselectricityindependence/dp/B086PVRDBD/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=","price":"14.95"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/402791449059?hash=item5dc83dc1e3:g:BpgAAOSwSwVgdcoP","price":"20.15"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=979 8633966961","price":"23.23"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30903111672&searchurl=kn%3D979 8633966961%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"18.21"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=979 8633966961&hs.x=46&hs.y=12","price":"12.04"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/979 8633966961?title=","price":"14.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=121360941&isbn_id=26399630","price":"14.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/solarpowerthebeginnersguideforsolarelectricitysystemsforoffgridsolarsystemsandforyourhomeenergyindependence/26476181/item/#edition=31755730"}
+  }

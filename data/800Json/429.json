@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/StructuralAnalysisMadeEasycalculating/dp/1726705684/ref=sr_1_34?dchild=1&qid=1628607295&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=134","price":"28.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233970851606?hash=item3679bfdf16:g:8kgAAOSwpdhgetLL","price":"32.90"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781726705684","price":"34.67"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30325871837&searchurl=kn%3D9781726705684%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"28.40"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781726705684&hs.x=23&hs.y=5","price":"22.18"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781726705684?title=","price":"28.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=75402781&isbn_id=24266502","price":"28.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/structuralanalysismadeeasyapracticebookforcalculatingstaticallydeterminedsystems_jakobstanford/19698571/item/#edition=20917814&idiq=29978236","price":"26.83"}
+  }

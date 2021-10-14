@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/AloneCanFixDonaldCatastrophic/dp/0593503872/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1626507585&sr=11","price":"32.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234088268557?epid=15047835337&hash=item3680bf830d:g:xmwAAOSwC9tg7g95","price":"35.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780593298947","price":"42.84"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/ialonecanfixitcarolleonnig/1139726653?ean=9780593298947","price":"22.49"},
+      "Taret" : {"link":"https://www.target.com/p/ialonecanfixitcarolleonnigandphilipruckerhardcover//A83607421#lnk=sametab","price":"20.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30956342360&searchurl=kn%3D9780593298947%26sortby%3D17&cm_sp=snippet_srp1_title5","price":"24.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=281633629&isbn_id=28555700","price":"28.50"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/ialonecanfixitdonaldjtrumpscatastrophicfinalyear_carolleonnig_philiprucker/28577286/item/#edition=59529044&idiq=45722405","price":"25.96"}
+  }

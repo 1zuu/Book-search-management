@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Economic-Case-LGBT-Equality-Treatment/dp/0807002925/ref=sr_1_36?dchild=1&keywords=economics&qid=1629817778&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-36","price":"15.49"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234014784025?hash=item367c5e3a19:g:-jEAAOSwJxlgpCVF","price":"17.47"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780807002926","price":"26.00"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/the-economic-case-for-lgbt-equality-m-v-lee-badgett/1133176947?ean=9780807002926","price":"18.00"},
+      "Taret" : {"link":"https://www.target.com/p/the-economic-case-for-lgbt-equality-by-m-v-lee-badgett-paperback/-/A-81321824#lnk=sametab","price":"16.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30919242416&searchurl=kn%3D9780807002926%26sortby%3D17&cm_sp=snippet-_-srp1-_-title5","price":"15.86"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780807002926?title=the_economic_case_for_lgbt_equality_why_fair_and_equal_treatment_benefits_us_all","price":"18.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=244640061&isbn_id=26881461","price":"17.10"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/the-economic-case-for-lgbt-equality-why-fair-and-equal-treatment-benefits-us-all_m-v-lee-badgett/26880737/item/#edition=57273762&idiq=44944318","price":"16.19"}
+  }

@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/LittleMathematicalPrinciplesTheoriesThings/dp/1504800532/ref=sr_1_1?dchild=1&keywords=9781504800532&qid=1628178139&s=books&sr=11","price":"10.74"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/234074840309?hash=item367ff29cf5:g:hjkAAOSwgm1g4AKn","price":"13.32"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781504800532","price":"22.18"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/thelittlebookofmathematicalprinciplestheoriesthingsdrrobertsolomon/1112327489?ean=9781504800532","price":"12.99"},
+      "Taret" : {"link":"https://www.target.com/p/thelittlebookofmathematicalprinciplestheoriesthingsbyrobertsolomonpaperback//A50815241#lnk=sametab","price":"11.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=18272287288&cm_sp=SEARCHREC_WIDGETL_BDPF&searchurl=kn%3D9781504800532%26sortby%3D17","price":"14.74"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781504800532&hs.x=24&hs.y=18","price":"8.34"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781504800532?title=the_little_book_of_mathematical_principles_theories__things","price":"12.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4007164&isbn_id=8374372","price":"12.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thelittlebookofmathematicalprinciplestheoriesthings_robertsolomon/13939012/item/#edition=14767582&idiq=27203278","price":"5.29"}
+  }

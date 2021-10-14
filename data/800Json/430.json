@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/TheoryElasticStabilityMechanicalEngineering/dp/0486472078/ref=sr_1_51?dchild=1&qid=1628607523&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=151","price":"13.88"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313453781120?epid=127442283&hash=item48fb4d2080:g:EJYAAOSw1Gxf~8eD","price":"17.22"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780486472072","price":"18.47"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/theoryofelasticstabilitystephenptimoshenko/1116996052?ean=9780486472072","price":"19.95"},
+      "Taret" : {"link":"https://www.target.com/p/theoryofelasticstabilitydovercivilandmechanicalengineering2ndeditionbystephenptimoshenkojamesmgerepaperback//A78080243#lnk=sametab","price":"13.89"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30974202920&searchurl=kn%3D9780486472072%26sortby%3D17&cm_sp=snippet_srp1_title10","price":"14.50"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780486472072&hs.x=31&hs.y=15","price":"11.52"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780486472072?title=theory_of_elastic_stability","price":"19.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/theoryofelasticstability_jamesmgere_stephenptimoshenko/874988/item/#edition=6578506&idiq=10228630","price":"16.99"}
+  }

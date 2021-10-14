@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/AdvancedMultivariateStatisticalMethodsInterpretation/dp/1138289736/ref=sr_1_78?dchild=1&keywords=statistics+books&qid=1628623058&s=books&sr=178","price":"70.00"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/392712302558?epid=229070334&hash=item5b6f7a2fde:g:3mgAAOSwjbpfNTLC","price":"213.16"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781138289734","price":"221.38"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/advancedandmultivariatestatisticalmethodscraigamertler/1126329603?ean=9781138289734","price":"160.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30776313646&searchurl=kn%3D9781138289734%26sortby%3D17&cm_sp=snippet_srp1_title7","price":"114.47"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5684871&isbn_id=8990631","price":"160.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/advancedandmultivariatestatisticalmethodspracticalapplicationandinterpretation_rachelvannatta_craigmertler/13877614/item/#edition=13792455&idiq=26876601","price":"170.58"}
+  }

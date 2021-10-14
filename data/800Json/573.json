@@ -1,0 +1,10 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Dosage-Calculations-Nursing-Students-Step/dp/B08SB77YLM/ref=sr_1_20?dchild=1&qid=1629863843&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-20","price":"18.95"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/144184924388?hash=item21921758e4:g:HdsAAOSwnK1hMy0m","price":"32.20"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9798591331368","price":"27.52"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30869049920&searchurl=kn%3D9798591331368%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2","price":"22.73"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9798591331368&hs.x=38&hs.y=27","price":"15.80"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9798591331368?title=","price":"19.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=266665846&isbn_id=28044168","price":"18.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/dosage-calculations-for-nursing-students-a-complete-step-by-step-guide-for-quick-drug-dosage-calculation-dosing-math-tips--tricks-for-students-nurses-and-paramedics/28586777/item/#edition=59530274"}
+  }

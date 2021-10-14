@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/PythonBeginnersCrashCourseGuide/dp/1549776673/ref=pd_sbs_5/14218346530643357?pd_rd_w=7aYIb&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=KX5ABNDQCME4KNP6S61T&pd_rd_r=b39dd7d0fbdf4387a977b9d4fcb4c600&pd_rd_wg=JINwY&pd_rd_i=1549776673&psc=1","price":"15.70"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781549776670","price":"28.03"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/pythontimothycneedham/1127090777?ean=9781549776670","price":"21.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30883450153&searchurl=kn%3D9781549776670%26sortby%3D17&cm_sp=snippet_srp1_title5","price":"23.98"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781549776670&hs.x=13&hs.y=10","price":"16.63"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781549776670?title=","price":"21.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=18599488&isbn_id=21631528","price":"21.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/pythonforbeginnersacrashcourseguidetolearnpythonin1week_timothycneedham/19281519/item/#edition=20518950&idiq=28495901","price":"20.58"}
+  }

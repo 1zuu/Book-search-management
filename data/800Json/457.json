@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/HowProveStructuredApproach2nd/dp/0521675995/ref=pd_sbs_4/14218346530643357?pd_rd_w=9WUZY&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=0NWD7XHAHBYZE94W63HT&pd_rd_r=e64d132aa58a44788b51b55b66f3a86e&pd_rd_wg=wZrBz&pd_rd_i=0521675995&psc=1","price":"37.97"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/184997230136?epid=48651661&hash=item2b12b1b638:g:FJIAAOSw4UhhFue4","price":"66.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780521675994","price":"16.17"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30776178121&searchurl=kn%3D9780521675994%26sortby%3D17&cm_sp=snippet_srp1_title19","price":"47.90"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780521675994?title=how_to_prove_it_a_structured_approach_second_edition"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=3263050","price":"29.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/howtoproveitastructuredapproach2nded_danieljvelleman/303817/item/#edition=22077893&idiq=35497617","price":"36.88"}
+  }

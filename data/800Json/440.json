@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/NeuroanatomyAtlasClinicalContextStructures/dp/1496384164/ref=sr_1_9?dchild=1&keywords=systems+in+the+body&qid=1628618639&s=books&sr=19","price":"57.97"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114152146224?epid=21046427851&hash=item1a93ff8530:g:kisAAOSwjmhecQNn","price":"139.81"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781496384164","price":"135.37"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/neuroanatomyatlasinclinicalcontextduaneehainesphd/1129760011?ean=9781496384164","price":"87.99"},
+      "Taret" : {"link":"https://www.target.com/p/neuroanatomyatlasinclinicalcontext10theditionbyduaneehainespaperback//A80807977#lnk=sametab","price":"87.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30776352436&searchurl=kn%3D9781496384164%26sortby%3D17&cm_sp=snippet_srp1_title8","price":"73.55"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781496384164&hs.x=25&hs.y=8","price":"92.92"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=6316369&isbn_id=10292836","price":"87.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/neuroanatomyatlasinclinicalcontextstructuressectionssystemsandsyndromes_duaneehaines/19490906/item/#edition=20712901&idiq=29483837","price":"95.95"}
+  }

@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/MasteringEthereumBuildingSmartContracts/dp/1491971940/ref=sr_1_12?dchild=1&qid=1628352157&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=112","price":"46.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/392984627510?epid=3031837634&hash=item5b7fb58936:g:7JUAAOSwwgRfjXTE","price":"82.73"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781491971949","price":"77.93"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/masteringethereumandreasmantonopoulos/1125409346?ean=9781491971949","price":"59.99"},
+      "Taret" : {"link":"https://www.target.com/p/masteringethereumbyandreasmantonopoulosdgavinwoodphpaperback//A83304161#lnk=sametab","price":"46.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30210672058&searchurl=kn%3D9781491971949%26sortby%3D17&cm_sp=snippet_srp1_title4","price":"45.27"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781491971949&hs.x=28&hs.y=15","price":"49.88"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781491971949?title=mastering_ethereum_building_smart_contracts_and_dapps","price":"59.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4295960&isbn_id=9264032","price":"59.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/masteringethereumbuildingsmartcontractsanddapps_andreasmantonopoulos_gavinwood/13898793/item/#edition=14279362&idiq=30576523","price":"52.23"}
+  }

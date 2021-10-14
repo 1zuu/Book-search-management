@@ -1,0 +1,10 @@
+
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/UnderstandingElectromagneticWavesMingSengKao/dp/3030457109/ref=sr_1_7?dchild=1&qid=1627654503&refinements=p_n_feature_browsebin%3A2656022011&rnid=13809&s=books&sr=17","price":"74.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=%209783030457105","price":"96.86"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/understandingelectromagneticwavesmingsengkao/1136669518?ean=9783030457105","price":"74.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30961419622&searchurl=kn%3D9783030457105%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"70.44"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9783030457105&hs.x=43&hs.y=11","price":"69.29"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=28697619"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/understandingelectromagneticwaves/28818717/item/#edition=59875123&idiq=45819679","price":"74.43"}
+  }

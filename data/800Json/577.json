@@ -1,0 +1,12 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Medication-Madness-Psychiatric-Violence-Suicide/dp/031256550X/ref=sr_1_33?dchild=1&qid=1629864280&refinements=p_n_feature_browse-bin%3A2656022011&s=books&sr=1-33","price":"20.20"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233968338163?epid=8038263877&hash=item36799984f3:g:RugAAOSw3s9geKer","price":"25.15"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780312565503","price":"32.54"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/medication-madness-peter-breggin/1101904742?ean=9780312565503","price":"22.99"},
+      "Taret" : {"link":"https://www.target.com/p/medication-madness-by-peter-r-breggin-paperback/-/A-82957670#lnk=sametab","price":"20.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=22381247822&searchurl=kn%3D9780312565503%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2","price":"15.23"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780312565503&hs.x=40&hs.y=9","price":"15.17"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780312565503?title=medication_madness_the_role_of_psychiatric_drugs_in_cases_of_violence_suicide_and_crime","price":"22.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=1932075&isbn_id=4542926","price":"21.84"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/medication-madness-true-stories-of-mayhem-murder-and-suicide-caused-by-psychiatric-drugs_peter-r-breggin/398080/item/#edition=5402697&idiq=10773742","price":"19.97"}
+  }

@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/IntroductionEmergencyManagementJaneBullock/dp/0128171391/ref=sr_1_18?dchild=1&qid=1628362452&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=118","price":"76.27"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/124633237329?epid=7038266422&hash=item1d04b84751:g:BMsAAOSwzitf~exo","price":"84.99"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780128171394"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/introductiontoemergencymanagementjaneabullock/1134183779?ean=9780128171394","price":"105.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30928590844&searchurl=kn%3D9780128171394%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"86.50"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=7944567&isbn_id=11068049","price":"105.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/introductiontoemergencymanagement_janeabullock_georgedhaddow/23944161/item/#edition=25571771"}
+  }

@@ -1,0 +1,10 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Companion-Introductory-Statistics-Behavioral-Sciences/dp/151659908X/ref=sr_1_35?dchild=1&keywords=statistics&qid=1629872905&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-35","price":"51.55"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/402829621942?epid=5046428349&hash=item5dca843ab6:g:vywAAOSwAdpgjo73","price":"66.84"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/an-excel-companion-for-an-introductory-statistics-course-in-social-and-behavioral-sciences-alejandro-a-lazarte/1137667791?ean=9781516599080","price":"62.95"},
+      "Taret" : {"link":"https://www.target.com/p/an-excel-companion-for-an-introductory-statistics-course-in-social-and-behavioral-sciences-by-alejandro-a-lazarte-paperback/-/A-83255823#lnk=sametab","price":"51.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30745770705&searchurl=kn%3D9781516599080%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2","price":"56.80"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781516599080&hs.x=25&hs.y=25","price":"70.63"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=229179376&isbn_id=26986347","price":"62.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/an-excel-companion-for-an-introductory-statistics-course-in-social-and-behavioral-sciences_alejandro-a-lazarte/27727038/item/#edition=58731353&idiq=43503907","price":"69.61"}
+  }

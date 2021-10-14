@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/RoutledgeHandbookSouthAsianPolitics/dp/0415716497/ref=sr_1_1?dchild=1&keywords=sri+lankan+politics&qid=1628533507&s=books&sr=11","price":"73.95"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/392507854822?epid=166250637&hash=item5b634a8fe6:g:SUkAAOSwPjZduWGJ","price":"101.43"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/books/1112731932?ean=9780415716499","price":"74.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=22742237498&searchurl=kn%3D9780415716499%26sortby%3D17&cm_sp=snippet_srp1_title3","price":"68.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3159129&isbn_id=6729687","price":"74.95"}
+  }

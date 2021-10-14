@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/StartingOnlineBusinessAllDummies/dp/1119648467/ref=pd_sbs_13/14218346530643357?pd_rd_w=ObbJL&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=H6RKXCC9FJKY8WG8XGDH&pd_rd_r=ab4e91631368477c872cd2fadf5e8577&pd_rd_wg=CougU&pd_rd_i=1119648467&psc=1","price":"23.49"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233971770248?epid=28038746741&hash=item3679cde388:g:VD0AAOSwa9dge5wo","price":"40.29"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781119648468","price":"51.22"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/startinganonlinebusinessallinonefordummiesshannonbelew/1116930391?ean=9781119648468","price":"34.99"},
+      "Taret" : {"link":"https://www.target.com/p/startinganonlinebusinessallinonefordummiesfordummiesbyjoeleladshannonbelewpaperback//A79380891#lnk=sametab","price":"23.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30973716653&searchurl=kn%3D9781119648468%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"21.83"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781119648468&hs.x=12&hs.y=6","price":"24.35"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781119648468?title=starting_an_online_business_allinone_for_dummies","price":"34.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=7974494&isbn_id=11034665","price":"33.24"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/startinganonlinebusinessallinonefordummies_joelelad_shannonbelew/371108/item/#edition=25031776&idiq=37446578","price":"29.94"}
+  }

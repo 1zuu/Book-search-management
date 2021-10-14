@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/HowSolveMathematicalPrincetonScience/dp/069116407X/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=","price":"14.76"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233968479522?hash=item36799bad22:g:fiAAAOSwMyVgeMqS","price":"19.33"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685","price":"24.26"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/howtosolveitjohnhconway/1138272338?ean=9780691164076","price":"19.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=22381362545&searchurl=kn%3D9780691164076%26sortby%3D17&cm_sp=snippet_srp1_title14","price":"12.43"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3399842&isbn_id=7204792","price":"18.95"}
+  }

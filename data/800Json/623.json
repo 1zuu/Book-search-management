@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Business-Professional-Ethics-Leonard-Brooks/dp/0357441885/ref=sr_1_66?dchild=1&qid=1629795849&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=2675&s=books&sr=1-66","price":"92.22"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/393469483805?epid=16038259290&hash=item5b9c9bdb1d:g:u-8AAOSwsMdhATrJ","price":"105.22"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780357441886","price":"92.22"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/business-and-professional-ethics-leonard-j-brooks/1133770121?ean=9780357441886","price":"168.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30973786236&searchurl=kn%3D9780357441886%26sortby%3D17&cm_sp=snippet-_-srp1-_-title5","price":"85.72"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=8064060&isbn_id=11058265","price":"168.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/business-and-professional-ethics_paul-dunn_leonard-j-brooks/23901045/item/#edition=25532983"}
+  }

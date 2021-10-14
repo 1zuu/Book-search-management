@@ -1,0 +1,7 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/DeviationsIdempotentProbabilityMonographsHardcover/dp/0367455293/ref=sr_1_1?dchild=1&keywords=applied+maths&qid=1627401322&rnid=2941120011&s=books&sr=11","price":"38.30"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/largedeviationsandidempotentprobabilityanatoliipuhalskii/1120986675?ean=9780367455293","price":"69.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30801918010&searchurl=ds%3D20%26kn%3D9780367455293%26sortby%3D17&cm_sp=snippet_srp1_title4","price":"75.85"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=187258073&isbn_id=26639355","price":"69.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/largedeviationsandidempotentprobability/2021277/item/#edition=40446547"}
+  }

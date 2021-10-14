@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/HowTalkAnyoneSuccessRelationships/dp/007141858X/ref=sr_1_4?dchild=1&qid=1628591298&refinements=p_n_feature_browsebin%3A2656022011&rnid=3&s=books&sr=14","price":"12.56"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114173264410?epid=96306827&hash=item1a9541c21a:g:TwEAAOSwcv9eiZZM","price":"18.48"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780071418584","price":"15.97"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/howtotalktoanyoneleillowndes/1013350567?ean=9780071418584","price":"18.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=22531445564&searchurl=kn%3D9780071418584%26sortby%3D17&cm_sp=snippet_srp1_title14","price":"15.27"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780071418584?title=how_to_talk_to_anyone_92_little_tricks_for_big_success_in_relationships","price":"18.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=185109&isbn_id=485370","price":"17.10"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/howtotalktoanyone92littletricksforbigsuccessinrelationships_leillowndes/249905/item/#edition=3491763&idiq=10218207","price":"15.93"}
+  }

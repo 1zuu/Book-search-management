@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Market-as-Economic-Process/dp/1942951892/ref=sr_1_63?dchild=1&keywords=economics&qid=1629818430&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-63","price":"14.95"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233971288384?hash=item3679c68940:g:rgMAAOSwXxJgex1Z","price":"15.70"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=%209781942951896","price":"20.35"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/the-market-as-an-economic-process-ludwig-m-lachmann/1137484663?ean=9781942951896","price":"14.95"},
+      "Taret" : {"link":"https://www.target.com/p/the-market-as-an-economic-process-by-ludwig-m-lachmann-paperback/-/A-83308464#lnk=sametab","price":"14.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30728353253&searchurl=kn%3D9781942951896%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2","price":"13.76"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=+9781942951896&hs.x=38&hs.y=24","price":"10.40"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781942951896?title=the_market_as_an_economic_process","price":"14.95"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=184938271&isbn_id=26822172","price":"14.20"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/the-market-as-an-economic-process/26988109/item/#edition=57634239&idiq=41922553","price":"13.76"}
+  }

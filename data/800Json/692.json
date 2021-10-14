@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Practical-Business-Statistics-Andrew-Siegel/dp/0128042508/ref=sr_1_45?dchild=1&keywords=statistics&qid=1629872905&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-45","price":"74.96"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/392571915600?epid=222056168&hash=item5b671c0d50:g:86AAAOSw0ild6Oqt","price":"113.90"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780128042502","price":"162.40"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/practical-business-statistics-andrew-siegel/1126351024?ean=9780128042502","price":"77.49"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30785276166&searchurl=kn%3D9780128042502%26sortby%3D17&cm_sp=snippet-_-srp1-_-title6","price":"99.94"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780128042502&hs.x=25&hs.y=11","price":"112.14"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=5068618&isbn_id=8734144","price":"99.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/practical-business-statistics-mcgraw-hillirwin-series-operations-and-decision-sciences_andrew-f-siegel_siegel-andrew-f-siegel-andrew-f/858863/item/#edition=10985024&idiq=26290395","price":"108.64"}
+  }

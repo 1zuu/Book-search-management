@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/IntelligentInvestorDefinitiveInvestingEssentials/dp/0060555661/ref=sr_1_3?dchild=1&qid=1624901015&refinements=p_n_feature_browsebin%3A2656022011&rnid=1000&s=books&sr=13","price":"14.29"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/163768234043?epid=87212306&hash=item262158f03b:g:2ycAAOSwFKddIi7n","price":"19.29"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780060555665","price":"17.72"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/theintelligentinvestorrevedbenjamingraham/1106335552?ean=9780060555665","price":"19.99"},
+      "Taret" : {"link":"https://www.target.com/p/theintelligentinvestorrevedcollinsbusinessessentialsannotatedbybenjamingrahampaperback//A11338641#lnk=sametab","price":"14.29"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30509478508&searchurl=kn%3D9780060555665%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"10.66"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9780060555665&hs.x=21&hs.y=3","price":"16.28"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780060555665?title=the_intelligent_investor_a_book_of_practical_counsel","price":"24.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=175789&isbn_id=487003","price":"23.74"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/theintelligentinvestorbybenjamingraham/248388/item/#edition=2335786&idiq=10370535","price":"21.53"}
+  }

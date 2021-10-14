@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/PracticalElectronicsInventorsFourthScherz/dp/1259587541/ref=pd_sbs_5/14218346530643357?pd_rd_w=6yxBn&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=5R6TSCN9S1N08M1XVMK7&pd_rd_r=ef2482bee10f494e89d1bdd4f8280412&pd_rd_wg=jpRXh&pd_rd_i=1259587541&psc=1","price":"28.11"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/164804714265?epid=217095569&hash=item265f205f19:g:LTMAAOSwZHRf~sZ3","price":"36.73"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/ServantLeadershipRoadmapMasterthe12CoreCompetenciesofManagementSuccesswithLeadershipQualitiesandInterpersonalSkillsClinicalMindLe9781982058685","price":"46.48"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/practicalelectronicsforinventorsfourtheditionpaulscherz/1124288626?ean=9781259587542","price":"40.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=22381292672&searchurl=kn%3D9781259587542%26sortby%3D17&cm_sp=snippet_srp1_title13","price":"28.29"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781259587542&hs.x=35&hs.y=19","price":"24.19"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781259587542?title=practical_electronics_for_inventors_fourth_edition","price":"40.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=3962110&isbn_id=8115565","price":"38.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/practicalelectronicsforinventors_paulscherz/308734/item/#edition=13814832&idiq=19676241","price":"33.16"}
+  }

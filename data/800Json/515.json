@@ -1,0 +1,11 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Advanced-Level-Pure-Mathematics-Facts/dp/1523382430/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1629729396&sr=1-9","price":"6.21"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/133254023946?hash=item1f068f0b0a:g:slYAAOSwA9teZJ04","price":"13.17"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781523382439","price":"14.96"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/advanced-level-pure-mathematics-key-facts-nji-emmanuel-ndi/1123710976?ean=9781523382439","price":"6.21"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30278425547&searchurl=kn%3D9781523382439%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1","price":"7.04"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781523382439&hs.x=47&hs.y=6","price":"4.92"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781523382439?title=advanced_level_pure_mathematics_key_facts","price":"6.21"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=6714024&isbn_id=8764968","price":"6.21"}
+
+  }

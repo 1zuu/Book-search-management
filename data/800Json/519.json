@@ -1,0 +1,11 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/Calculus-Problems-arranged-Topic-Difficulty/dp/1503162915/ref=sr_1_28?dchild=1&keywords=advanced+level&qid=1629730172&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-28","price":"34.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/284420473325?epid=206603647&hash=item4238c801ed:g:DE8AAOSwkZlhEFDL","price":"5.90"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781503162914","price":"44.10"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/320-ap-calculus-ab-problems-arranged-by-topic-and-difficulty-level-steve-warner/1121875396?ean=9781503162914","price":"34.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30323053864&searchurl=kn%3D9781503162914%26sortby%3D17&cm_sp=snippet-_-srp1-_-title3","price":"33.36"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781503162914&hs.x=35&hs.y=11","price":"27.71"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781503162914?title=320_ap_calculus_ab_problems_arranged_by_topic_and_difficulty_level_160_test_questions_with_solutions_160_additional_questions_with_answers","price":"34.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=6437760&isbn_id=7581424","price":"34.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/320-ap-calculus-ab-problems-arranged-by-topic-and-difficulty-level-160-test-questions-with-solutions-160-additional-questions-with-answers_steve-warner/9651869/item/#edition=9052559&idiq=10944498","price":"33.08"}
+  }

@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/WarCashPowerHungryGovernmentConfiscate/dp/1630061530/ref=sr_1_15?dchild=1&qid=1628224076&refinements=p_n_feature_browsebin%3A2656022011&rnid=618072011&s=books&sr=115","price":"16.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/164791176477?epid=7038385707&hash=item265e51cd1d:g:1qcAAOSw5Bf~ou5","price":"18.59"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781630061531","price":"23.89"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/thewaroncashdavidmcree/1136212506?ean=9781630061531","price":"19.99"},
+      "Taret" : {"link":"https://www.target.com/p/thewaroncashbydavidmcreepaperback//A83105689#lnk=sametab","price":"16.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30686133198&searchurl=kn%3D9781630061531%26sortby%3D17&cm_sp=snippet_srp1_title5","price":"16.85"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781630061531&hs.x=21&hs.y=13","price":"13.91"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781630061531?title=the_war_on_cash_how_banks_and_a_powerhungry_government_want_to_confiscate_your_cash_steal_your_liberty_and_track_every_dollar_you_sp","price":"19.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=18669567&isbn_id=21701314","price":"18.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thewaroncash/25833963/item/#edition=27592848&idiq=38743935","price":"17.78"}
+  }

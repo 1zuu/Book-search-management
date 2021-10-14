@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Spark-Action-Jean-Georges-Perrin/dp/1617295523/ref=pd_sim_6/142-1834653-0643357?pd_rd_w=gQMmI&pf_rd_p=80152b05-d527-42f7-bbb4-c9d645b6dcf5&pf_rd_r=DDSK8D73QZJARXQY9AGQ&pd_rd_r=69109c0e-e8c7-4e94-8283-a2601d91f06b&pd_rd_wg=A4hvH&pd_rd_i=1617295523&psc=1","price":"59.54"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313220613856?epid=6038761081&hash=item48ed6746e0:i:313220613856","price":"76.25"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/spark-in-action-second-edition-jean-georges-perrin/1137073756?ean=9781617295522","price":"59.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30925503859&searchurl=kn%3D9781617295522%26sortby%3D17&cm_sp=snippet-_-srp1-_-title2","price":"50.08"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=11035075","price":"59.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/spark-in-action/23334045/item/#edition=24931830"}
+  }

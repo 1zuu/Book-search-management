@@ -1,0 +1,11 @@
+   {
+      "Amazon" :  {"link":"https://www.amazon.com/DoughnutEconomicsSeven21stCenturyEconomist/dp/1603587969/ref=sr_1_6?dchild=1&keywords=economics&qid=1626844734&s=books&sr=16","price":"14.67"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/193436729160?epid=16016896893&hash=item2d09ba3f48:g:D0kAAOSwnEFeoykz","price":"18.05"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781603587969","price":"26.56"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/doughnuteconomicskateraworth/1124858264?ean=9781603587969","price":"15.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=22824506340&searchurl=kn%3D9781603587969%26sortby%3D17&cm_sp=snippet_srp1_title2","price":"15.70"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781603587969&hs.x=20&hs.y=20","price":"12.30"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781603587969?title=doughnut_economics_seven_ways_to_think_like_a_21stcentury_economist","price":"18.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4744821&isbn_id=9977429","price":"16.20"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/doughnuteconomicssevenwaystothinklikea21stcenturyeconomist/19410213/item/#edition=19894216&idiq=27204870","price":"16.19"}
+  }

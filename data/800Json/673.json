@@ -1,0 +1,8 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Antibiotic-Basics-Clinicians-Antibacterial-Lippincott-dp-0781794641/dp/0781794641/ref=mt_other?_encoding=UTF8&me=&qid=1629865249","price":"32.88"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/185027233372?epid=57074022&hash=item2b147b865c:g:nogAAOSwB4VhL1ai","price":"19.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780781794640","price":"12.87"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30929602167&searchurl=kn%3D9780781794640%26sortby%3D17&cm_sp=snippet-_-srp1-_-title16","price":"37.89"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=3633611","price":"46.50"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/antibiotic-basics-for-clinicians-choosing-the-right-antibacterial-agent-point-lippincott-williams--wilkins_alan-r-hauser/1626053/item/#edition=4501742&idiq=4573250","price":"46.50"}
+  }

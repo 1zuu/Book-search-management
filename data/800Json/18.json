@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/LearningScientificProgrammingPythonChristian/dp/1108745911/ref=pd_rhf_se_p_img_9?_encoding=UTF8&psc=1&refRID=G3HWNXW1QSDKJ4D0HRHX","price":"44.99"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/313502678921?epid=25042475939&hash=item48fe373f89:g:XkkAAOSw2A5ggSwH","price":"60.42"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/LearningScientificProgrammingwithPython9781108745918","price":"71.18"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/learningscientificprogrammingwithpythonchristianhill/1121683597?ean=9781108745918","price":"44.99"},
+      "Taret" : {"link":"https://www.target.com/s?searchTerm=9781108745918","price":"44.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30779423205&searchurl=kn%3D9781108745918%26sortby%3D17&cm_sp=snippet_srp1_image1","price":"46.83"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781108745918&hs.x=47&hs.y=14","price":"38.60"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=175999511&isbn_id=26598863","price":"44.99"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/learningscientificprogrammingwithpython_christianhill/13930613/item/#edition=35445636&idiq=42812919","price":"44.45"}
+  }

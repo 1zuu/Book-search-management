@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/LegalResearchHowFindUnderstand/dp/1413325645/ref=sr_1_97?dchild=1&qid=1628611904&refinements=p_n_feature_browsebin%3A2656022011&rnid=10777&s=books&sr=197","price":"22.70"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/293647163708?epid=248348657&hash=item445ebc213c:g:Fj4AAOSwUvheTf9h","price":"35.22"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781413325645","price":"53.99"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/legalresearchstepheneliasattorney/1116883234?ean=9781413325645","price":"49.99"},
+      "Taret" : {"link":"https://www.target.com/p/legalresearch18theditionbystepheneliaseditorsofnolopaperback//A83304295#lnk=sametab","price":"23.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30776123626&searchurl=kn%3D9781413325645%26sortby%3D17&cm_sp=snippet_srp1_title9","price":"30.17"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781413325645?title=legal_research_how_to_find__understand_the_law","price":"49.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=4554553&isbn_id=10090782","price":"47.49"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/legalresearchhowtofindunderstandthelaw_stephenelias_susanlevinkind/307609/item/#edition=19846707&idiq=28896613","price":"40.80"}
+  }

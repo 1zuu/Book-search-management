@@ -1,0 +1,9 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Business-Environment-Cengage-Learning-Studies/dp/1285428560/ref=sr_1_79?dchild=1&qid=1629795935&refinements=p_n_feature_nine_browse-bin%3A3291437011%2Cp_n_feature_browse-bin%3A2656022011&rnid=2675&s=books&sr=1-79","price":"82.74"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/333319133993?epid=175260980&hash=item4d9b5e5b29:g:3H4AAOSwW4FdcPsD","price":"88.23"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781285428567","price":"57.42"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/law-and-ethics-in-the-business-environment-terry-halbert/1119703198?ean=9781285428567","price":"299.95"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30929586134&searchurl=kn%3D9781285428567%26sortby%3D17&cm_sp=snippet-_-srp1-_-title12","price":"42.94"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=&isbn_id=6914981","price":"194.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/law-and-ethics-in-the-business-environment_terry-halbert/395322/item/#edition=3451922&idiq=11464500","price":"148.95"}
+  }

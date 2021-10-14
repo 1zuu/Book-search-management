@@ -1,0 +1,10 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/SchaumsOutlineBeginningStatisticsSecond/dp/0071635335/ref=pd_sbs_3/14218346530643357?pd_rd_w=Ib6hX&pf_rd_p=3676f08694964fd7849077cf7f43f846&pf_rd_r=4ZVY8AHTFH9FTHAQ4RQJ&pd_rd_r=d138fb4b147044d0b0fea484434ba8e9&pd_rd_wg=4pvtn&pd_rd_i=0071635335&psc=1","price":"19.41"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/164289135344?epid=72772457&hash=item26406542f0:g:YkAAOSwr~lYpIUh","price":"19.47"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9780071635332","price":"15.37"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/schaumsoutlineofbeginningstatisticssecondeditionlarrystephens/1126668909?ean=9780071635332","price":"30.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30668456570&searchurl=kn%3D9780071635332%26sortby%3D17&cm_sp=snippet_srp1_title15","price":"19.32"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9780071635332?title=schaums_outline_of_beginning_statistics","price":"30.00"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=2047729&isbn_id=4777431","price":"30.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/schaumsoutlineofbeginningstatistics_larrystephens/490968/item/#edition=5753823&idiq=10425317","price":"26.67"}
+  }

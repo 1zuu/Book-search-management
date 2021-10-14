@@ -1,0 +1,12 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/ThinkBayesBayesianStatisticsPython/dp/149208946X?ref_=Oct_s9_apbd_onr_hd_bw_bwyR&pf_rd_r=QV2B680K1AZG8DJV40QR&pf_rd_p=b4402921cd80560dac0ba0b080a533cc&pf_rd_s=merchandisedsearch10&pf_rd_t=BROWSE&pf_rd_i=226699","price":"22.38"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/114827698332?hash=item1abc43a09c:g:HXoAAOSw1TdgrMc","price":"44.72"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/product/detail/LearningScientificProgrammingwithPython9781108745918","price":"49.99"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/thinkbayesallendowney/1138654622?ean=9781492089469","price":"49.99"},
+      "Taret" : {"link":"https://www.target.com/s?searchTerm=9781492089469","price":"44.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30921680943&searchurl=kn%3D9781492089469%26sortby%3D17&cm_sp=snippet_srp1_image1","price":"34.07"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781492089469&hs.x=46&hs.y=16","price":"34.79"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781492089469?title=think_bayes_bayesian_statistics_in_python","price":"49.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=263217515&isbn_id=27722811","price":"47.49"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thinkbayesbayesianstatisticsinpython_allendowney/28274326/item/#edition=58957214&idiq=45022135","price":"41.72"}
+  }

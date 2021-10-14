@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/TechContractsHandbookAgreementsBusinesspeople/dp/1641058536/ref=sr_1_18?dchild=1&qid=1627535419&refinements=p_n_feature_browsebin%3A2656022011&rnid=5&s=books&sr=118","price":"42.95"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/384306490366?epid=4047428823&hash=item597a73abfe:g:mmIAAOSwh3lhBrIz","price":"64.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781641058537"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/thetechcontractshandbookdavidwtollen/1122059782?ean=9781641058537","price":"42.95"},
+      "Taret" : {"link":"https://www.target.com/p/thetechcontractshandbook3rdeditionbydavidwtollenpaperback//A83548683#lnk=sametab","price":"38.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30913165430&searchurl=kn%3D9781641058537%26sortby%3D17&cm_sp=snippet_srp1_title1","price":"53.17"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781641058537&hs.x=39&hs.y=15","price":"38.56"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=284751370&isbn_id=28473700","price":"42.95"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/thetechcontractshandbooksoftwarelicensescloudcomputingagreementsandotheritcontractsforlawyersandbusinesspeople/28637997/item/#edition=59609726"}
+  }

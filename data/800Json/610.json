@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Learning-Spark-Jules-Damji/dp/1492050040/ref=pd_sbs_1/142-1834653-0643357?pd_rd_w=D6Gs7&pf_rd_p=3676f086-9496-4fd7-8490-77cf7f43f846&pf_rd_r=DDSK8D73QZJARXQY9AGQ&pd_rd_r=69109c0e-e8c7-4e94-8283-a2601d91f06b&pd_rd_wg=A4hvH&pd_rd_i=1492050040&psc=1","price":"51.77"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/402491610096?epid=27038658106&hash=item5db65e93f0:g:s30AAOSwAaFfhhKI","price":"64.95"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781492050049","price":"68.19"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/learning-spark-jules-damji/1136840696?ean=9781492050049","price":"69.99"},
+      "Taret" : {"link":"https://www.target.com/p/learning-spark-2nd-edition-by-jules-s-damji-brooke-wenig-tathagata-das-denny-lee-paperback/-/A-83300205#lnk=sametab","price":"51.99"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30724293429&searchurl=kn%3D9781492050049%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1","price":"46.54"},
+      "StrandBooks" : {"link":"https://www.strandbooks.com/product/9781492050049?title=learning_spark_lightningfast_data_analytics","price":"69.99"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=7990038&isbn_id=10985587","price":"66.49"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/learning-spark_denny-lee_tathagata-das/22341197/item/#edition=23866793&idiq=40532827","price":"57.69"}
+  }

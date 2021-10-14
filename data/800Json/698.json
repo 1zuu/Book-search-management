@@ -1,0 +1,11 @@
+  {
+      "Amazon" :  {"link":"https://www.amazon.com/Students-Guide-Bayesian-Statistics/dp/1473916364/ref=sr_1_69?dchild=1&keywords=statistics&qid=1629875410&refinements=p_n_feature_browse-bin%3A2656022011&rnid=618072011&s=books&sr=1-69","price":"39.30"},
+      "Ebay" : {"link":"https://www.ebay.com/itm/233968969449?epid=242702986&hash=item3679a326e9:g:e-wAAOSw3s9geWVg","price":"77.39"},
+      "BetterWorldBooks" : {"link":"https://www.betterworldbooks.com/search/results?q=9781473916364","price":"78.96"},
+      "Barnes&Nobel" : {"link":"https://www.barnesandnoble.com/w/a-students-guide-to-bayesian-statistics-ben-lambert/1132580713?ean=9781473916364","price":"99.99"},
+      "Taret" : {"link":"https://www.target.com/p/a-student-s-guide-to-bayesian-statistics-by-ben-lambert-paperback/-/A-80826915#lnk=sametab","price":"46.00"},
+      "AbeBooks" : {"link":"https://www.abebooks.com/servlet/BookDetailsPL?bi=30962151763&searchurl=kn%3D9781473916364%26sortby%3D17&cm_sp=snippet-_-srp1-_-title1","price":"37.82"},
+      "alibris" : {"link":"https://www.alibris.com/booksearch?mtype=B&keyword=9781473916364&hs.x=25&hs.y=26","price":"49.19"},
+      "Magers&Quinn" : {"link":"https://www.magersandquinn.com/product_info?products_id=6097759&isbn_id=10259060","price":"46.00"},
+      "thriftbooks" : {"link":"https://www.thriftbooks.com/w/a-students-guide-to-bayesian-statistics_ben-lambert/19644214/item/#edition=20144430&idiq=34291460","price":"52.43"}
+  }
